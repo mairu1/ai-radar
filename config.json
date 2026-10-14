@@ -1,0 +1,24 @@
+{
+  "lookback_days": 14,
+  "max_per_source": 6,
+  "max_research_per_run": 5,
+  "max_models_per_author": 4,
+  "require_model_license": true,
+  "research_keywords": ["reasoning", "multimodal", "world model", "agent", "robot", "inference", "interpretability", "benchmark", "diffusion", "reinforcement learning", "efficient", "long context"],
+  "feeds": [
+    {"name": "OpenAI", "url": "https://openai.com/news/rss.xml", "category": "announcements"},
+    {"name": "Google DeepMind", "url": "https://deepmind.google/blog/rss.xml", "category": "announcements"},
+    {"name": "Google AI", "url": "https://blog.google/technology/ai/rss/", "category": "announcements"},
+    {"name": "NVIDIA", "url": "https://blogs.nvidia.com/feed/", "category": "announcements", "keywords": ["AI", "model", "inference", "robot", "GPU", "CUDA", "Blackwell", "Rubin"]},
+    {"name": "Microsoft Research", "url": "https://www.microsoft.com/en-us/research/feed/", "category": "research"},
+    {"name": "Hugging Face", "url": "https://huggingface.co/blog/feed.xml", "category": "research"},
+    {"name": "arXiv cs.AI", "url": "https://rss.arxiv.org/rss/cs.AI", "category": "research", "preprint": true}
+  ],
+  "pages": [
+    {"name": "Anthropic", "url": "https://www.anthropic.com/news", "path_prefix": "/news/", "category": "announcements"},
+    {"name": "Anthropic Research", "url": "https://www.anthropic.com/research", "path_prefix": "/research/", "category": "research"},
+    {"name": "Mistral AI", "url": "https://mistral.ai/news/", "path_prefix": "/news/", "category": "announcements"},
+    {"name": "Meta AI", "url": "https://ai.meta.com/blog/", "path_prefix": "/blog/", "category": "announcements"}
+  ],
+  "huggingface_authors": ["meta-llama", "google", "mistralai", "Qwen", "deepseek-ai", "openai", "nvidia", "microsoft", "CohereLabs", "LiquidAI"]
+}
