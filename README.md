@@ -12,11 +12,41 @@ Publisher excerpts reflect their claims. Research entries are not independently 
 
 ### Company announcements
 
+#### [Preparing for the 2026 US midterms](<https://www.anthropic.com/news/2026-us-midterms>)
+
+Anthropic · 2026-10-14
+
+> Earlier this year, we shared an update on our election safeguards. Here, we outline how we’ve continued to strengthen these safeguards ahead of this…
+
+#### [SentinelOne cuts malware analysis from weeks to hours](<https://openai.com/index/sentinelone>)
+
+OpenAI · 2026-10-14
+
+> With OpenAI Daybreak, SentinelOne cuts weeks of malware analysis to hours, creating capacity to investigate more threats.
+
+#### [Amp puts AI agents to work beyond code with OpenAI models](<https://openai.com/index/amp-beyond-coding>)
+
+OpenAI · 2026-10-14
+
+> See how Amp pushes the frontier of what agents can do with GPT-6 Astra, Ultrafast, GPT-Live-1, and Sign in with ChatGPT.
+
 #### [Singapore office and government MOU \| Anthropic](<https://www.anthropic.com/news/singapore-office-opening>)
 
 Anthropic · 2026-10-14
 
 > Anthropic opens its fifth Asia-Pacific office in Singapore and signs an MOU with the government on AI safety, evaluation, and responsible adoption.
+
+#### [How Third Moment Research runs 10,000 agents for 36+ hours](<https://openai.com/index/third-moment-research>)
+
+OpenAI · 2026-10-14
+
+> With GPT-6 Astra and GPT-6.1 Sol, Codex, and Daybreak for cybersecurity, this AI lab builds agents that focus for days and improve with use.
+
+#### [How Block is building AI-powered security with OpenAI technology](<https://openai.com/index/block-ai-powered-security>)
+
+OpenAI · 2026-10-14
+
+> Block is building AI-powered security with OpenAI. Its security team investigates threats faster and proposes patches in minutes.
 
 #### [European Cities Deploy NVIDIA-Powered AI Agents to Run Smarter Urban Operations](<https://blogs.nvidia.com/blog/european-cities-agents-urban-operations>)
 
@@ -30,31 +60,15 @@ Google DeepMind · 2026-10-14
 
 > Learn how Google DeepMind and GovTech Singapore uses lightweight on-device Gemma models to intercept conversational scams in private chats with zero cloud data egress.
 
-#### [The EU’s next chapter in AI is agentic](<https://openai.com/index/the-eus-next-chapter-in-ai-is-agentic>)
-
-OpenAI · 2026-10-14
-
-> New analysis shows how agentic AI adoption is growing across EU enterprises and small businesses—and where deeper use could unlock more value.
-
-#### [Developing Gemini 4 Argon responsibly and safely](<https://deepmind.google/blog/developing-gemini-4-argon-responsibly-and-safely>)
-
-Google DeepMind · 2026-10-13
-
-#### [Gemini 4 Argon for Robotics](<https://deepmind.google/blog/gemini-4-argon-for-robotics>)
-
-Google DeepMind · 2026-10-13
-
-#### [Gemini 4 Argon: Built to solve your hardest problems](<https://deepmind.google/blog/introducing-gemini-4-argon>)
-
-Google DeepMind · 2026-10-13
-
-#### [All Systems Go: Global PC App Ecosystem Ready for NVIDIA RTX Spark](<https://blogs.nvidia.com/blog/local-ai-rtx-spark-laptops-software-updates>)
-
-NVIDIA · 2026-10-13
-
-> NVIDIA RTX Spark is a new beginning for the PC — a reinvention combining the capabilities of a gaming PC, a creative studio and…
-
 ### Models with published weights
+
+#### [microsoft/UserRepGen-4B](<https://huggingface.co/microsoft/UserRepGen-4B>)
+
+microsoft · 2026-10-14
+
+Task: text-generation · License: mit · Access: ungated
+
+Weight files found in the repository. Check its model card and license before use.
 
 #### [LiquidAI/LFM2.5-24B-A2B-FP8](<https://huggingface.co/LiquidAI/LFM2.5-24B-A2B-FP8>)
 

@@ -1,5 +1,52 @@
 [
   {
+    "id": "https://huggingface.co/microsoft/UserRepGen-4B",
+    "title": "microsoft/UserRepGen-4B",
+    "url": "https://huggingface.co/microsoft/UserRepGen-4B",
+    "source": "microsoft",
+    "category": "models",
+    "published": "2026-10-14T20:30:00+00:00",
+    "summary": "",
+    "license": "mit",
+    "task": "text-generation",
+    "gated": false,
+    "weight_files": 1,
+    "discovered": "2026-10-15"
+  },
+  {
+    "id": "https://www.anthropic.com/news/2026-us-midterms",
+    "title": "Preparing for the 2026 US midterms",
+    "url": "https://www.anthropic.com/news/2026-us-midterms",
+    "source": "Anthropic",
+    "category": "announcements",
+    "published": "2026-10-14T18:33:00+00:00",
+    "summary": "Earlier this year, we shared an update on our election safeguards. Here, we outline how we’ve continued to strengthen these safeguards ahead of this…",
+    "preprint": false,
+    "discovered": "2026-10-15"
+  },
+  {
+    "id": "https://openai.com/index/sentinelone",
+    "title": "SentinelOne cuts malware analysis from weeks to hours",
+    "url": "https://openai.com/index/sentinelone",
+    "source": "OpenAI",
+    "category": "announcements",
+    "published": "2026-10-14T12:00:00+00:00",
+    "summary": "With OpenAI Daybreak, SentinelOne cuts weeks of malware analysis to hours, creating capacity to investigate more threats.",
+    "preprint": false,
+    "discovered": "2026-10-15"
+  },
+  {
+    "id": "https://openai.com/index/amp-beyond-coding",
+    "title": "Amp puts AI agents to work beyond code with OpenAI models",
+    "url": "https://openai.com/index/amp-beyond-coding",
+    "source": "OpenAI",
+    "category": "announcements",
+    "published": "2026-10-14T12:00:00+00:00",
+    "summary": "See how Amp pushes the frontier of what agents can do with GPT-6 Astra, Ultrafast, GPT-Live-1, and Sign in with ChatGPT.",
+    "preprint": false,
+    "discovered": "2026-10-15"
+  },
+  {
     "id": "https://www.anthropic.com/news/singapore-office-opening",
     "title": "Singapore office and government MOU | Anthropic",
     "url": "https://www.anthropic.com/news/singapore-office-opening",
@@ -9,6 +56,28 @@
     "summary": "Anthropic opens its fifth Asia-Pacific office in Singapore and signs an MOU with the government on AI safety, evaluation, and responsible adoption.",
     "preprint": false,
     "discovered": "2026-10-14"
+  },
+  {
+    "id": "https://openai.com/index/third-moment-research",
+    "title": "How Third Moment Research runs 10,000 agents for 36+ hours",
+    "url": "https://openai.com/index/third-moment-research",
+    "source": "OpenAI",
+    "category": "announcements",
+    "published": "2026-10-14T07:00:00+00:00",
+    "summary": "With GPT-6 Astra and GPT-6.1 Sol, Codex, and Daybreak for cybersecurity, this AI lab builds agents that focus for days and improve with use.",
+    "preprint": false,
+    "discovered": "2026-10-15"
+  },
+  {
+    "id": "https://openai.com/index/block-ai-powered-security",
+    "title": "How Block is building AI-powered security with OpenAI technology",
+    "url": "https://openai.com/index/block-ai-powered-security",
+    "source": "OpenAI",
+    "category": "announcements",
+    "published": "2026-10-14T07:00:00+00:00",
+    "summary": "Block is building AI-powered security with OpenAI. Its security team investigates threats faster and proposes patches in minutes.",
+    "preprint": false,
+    "discovered": "2026-10-15"
   },
   {
     "id": "https://blogs.nvidia.com/blog/european-cities-agents-urban-operations",
