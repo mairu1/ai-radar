@@ -12,55 +12,71 @@ Publisher excerpts reflect their claims. Research entries are not independently 
 
 ### Company announcements
 
+#### [Bringing GPT-Rosalind to academic research labs](<https://openai.com/index/introducing-the-rosalind-academic-plan>)
+
+OpenAI · 2026-10-15
+
+> Introducing the Rosalind Academic Plan, offering eligible academic labs sponsored access to GPT-Rosalind and tools to advance life sciences research.
+
+#### [Anthropic update on independent evaluators](<https://www.anthropic.com/news/an-update-on-independent-evaluators>)
+
+Anthropic · 2026-10-15
+
+> Anthropic announces updates to embedding independent evaluators
+
+#### [Be There for the Beginning: Celebrate the Launch of NVIDIA RTX Spark](<https://blogs.nvidia.com/blog/local-ai-rtx-spark-launch-event-invite>)
+
+NVIDIA · 2026-10-15
+
+> A new beginning for Windows PCs starts tomorrow with the launch of NVIDIA RTX Spark — one PC built for creators, gamers and AI…
+
+#### [Accelerating the search for antimicrobial peptides with Google Antigravity](<https://deepmind.google/blog/accelerating-antimicrobial-discovery>)
+
+Google DeepMind · 2026-10-15
+
+> Accelerating the search for novel antimicrobial peptides using Google Antigravity for Science.
+
+#### [Open From Data Center to Desktop: NVIDIA Expands Nemotron Family With Highest Efficiency Super VL and Bolt Models](<https://blogs.nvidia.com/blog/nemotron-3-5-super-vl>)
+
+NVIDIA · 2026-10-15
+
+> NVIDIA today released Nemotron 3.5 Super VL, an open 120-billion-parameter model that delivers the fastest task completion and highest accuracy for specialized always-on agents.…
+
+#### [Teaching students to think and learn through questions](<https://openai.com/index/teaching-students-to-think-and-learn-through-questions>)
+
+OpenAI · 2026-10-15
+
+> Celebrate Teachers’ Day with AI for Educators in Brazilian Portuguese and see how Study Mode can help teachers support active, step-by-step learning.
+
+#### [Sullivan &amp; Cromwell brings legal expertise into agreement review](<https://openai.com/index/sullivan-cromwell>)
+
+OpenAI · 2026-10-15
+
+> In collaboration with OpenAI, Sullivan &amp; Cromwell developed Agreement Analyzer, an AI tool for identifying issues in a draft agreement.
+
 #### [Preparing for the 2026 US midterms](<https://www.anthropic.com/news/2026-us-midterms>)
 
 Anthropic · 2026-10-14
 
 > Earlier this year, we shared an update on our election safeguards. Here, we outline how we’ve continued to strengthen these safeguards ahead of this…
 
-#### [SentinelOne cuts malware analysis from weeks to hours](<https://openai.com/index/sentinelone>)
-
-OpenAI · 2026-10-14
-
-> With OpenAI Daybreak, SentinelOne cuts weeks of malware analysis to hours, creating capacity to investigate more threats.
-
-#### [Amp puts AI agents to work beyond code with OpenAI models](<https://openai.com/index/amp-beyond-coding>)
-
-OpenAI · 2026-10-14
-
-> See how Amp pushes the frontier of what agents can do with GPT-6 Astra, Ultrafast, GPT-Live-1, and Sign in with ChatGPT.
-
-#### [Singapore office and government MOU \| Anthropic](<https://www.anthropic.com/news/singapore-office-opening>)
-
-Anthropic · 2026-10-14
-
-> Anthropic opens its fifth Asia-Pacific office in Singapore and signs an MOU with the government on AI safety, evaluation, and responsible adoption.
-
-#### [How Third Moment Research runs 10,000 agents for 36+ hours](<https://openai.com/index/third-moment-research>)
-
-OpenAI · 2026-10-14
-
-> With GPT-6 Astra and GPT-6.1 Sol, Codex, and Daybreak for cybersecurity, this AI lab builds agents that focus for days and improve with use.
-
-#### [How Block is building AI-powered security with OpenAI technology](<https://openai.com/index/block-ai-powered-security>)
-
-OpenAI · 2026-10-14
-
-> Block is building AI-powered security with OpenAI. Its security team investigates threats faster and proposes patches in minutes.
-
-#### [European Cities Deploy NVIDIA-Powered AI Agents to Run Smarter Urban Operations](<https://blogs.nvidia.com/blog/european-cities-agents-urban-operations>)
-
-NVIDIA · 2026-10-14
-
-> Keeping a city running means making decisions that affect residents every day — from when to repair a road to how to use energy…
-
-#### [Google DeepMind and Singapore Government collaborate to build fine-tuned AI model for scam detection](<https://deepmind.google/blog/on-device-ai-scam-detection-mddi>)
-
-Google DeepMind · 2026-10-14
-
-> Learn how Google DeepMind and GovTech Singapore uses lightweight on-device Gemma models to intercept conversational scams in private chats with zero cloud data egress.
-
 ### Models with published weights
+
+#### [nvidia/Muse-Spark-Open-816B-A42B-DFlash2](<https://huggingface.co/nvidia/Muse-Spark-Open-816B-A42B-DFlash2>)
+
+nvidia · 2026-10-16
+
+Task: image-text-to-text · License: nvidia-open-model-agreement-license · Access: ungated
+
+Weight files found in the repository. Check its model card and license before use.
+
+#### [nvidia/Nemotron-3.5-Rerank-8B-BF16](<https://huggingface.co/nvidia/Nemotron-3.5-Rerank-8B-BF16>)
+
+nvidia · 2026-10-15
+
+Task: text-ranking · License: openmdw-1.1 · Access: ungated
+
+Weight files found in the repository. Check its model card and license before use.
 
 #### [microsoft/UserRepGen-4B](<https://huggingface.co/microsoft/UserRepGen-4B>)
 
@@ -70,109 +86,91 @@ Task: text-generation · License: mit · Access: ungated
 
 Weight files found in the repository. Check its model card and license before use.
 
-#### [LiquidAI/LFM2.5-24B-A2B-FP8](<https://huggingface.co/LiquidAI/LFM2.5-24B-A2B-FP8>)
+#### [mistralai/Timestral-123M](<https://huggingface.co/mistralai/Timestral-123M>)
 
-LiquidAI · 2026-10-12
+mistralai · 2026-10-14
 
-Task: text-generation · License: lfm1.0 · Access: ungated
-
-Weight files found in the repository. Check its model card and license before use.
-
-#### [LiquidAI/LFM2.5-24B-A2B](<https://huggingface.co/LiquidAI/LFM2.5-24B-A2B>)
-
-LiquidAI · 2026-10-12
-
-Task: text-generation · License: lfm1.0 · Access: ungated
+Task: time-series-forecasting · License: custom (see model card) · Access: ungated
 
 Weight files found in the repository. Check its model card and license before use.
 
-#### [nvidia/Qwen-Image-NVFP4](<https://huggingface.co/nvidia/Qwen-Image-NVFP4>)
+#### [mistralai/Timestral-28M](<https://huggingface.co/mistralai/Timestral-28M>)
 
-nvidia · 2026-10-09
+mistralai · 2026-10-14
 
-Task: text-to-image · License: nvidia-open-model-agreement · Access: ungated
-
-Weight files found in the repository. Check its model card and license before use.
-
-#### [LiquidAI/LFM2.5-24B-A2B-Base](<https://huggingface.co/LiquidAI/LFM2.5-24B-A2B-Base>)
-
-LiquidAI · 2026-10-09
-
-Task: text-generation · License: lfm1.0 · Access: ungated
+Task: time-series-forecasting · License: custom (see model card) · Access: ungated
 
 Weight files found in the repository. Check its model card and license before use.
 
-#### [Qwen/Qwen-Image-2.1-Turbo](<https://huggingface.co/Qwen/Qwen-Image-2.1-Turbo>)
+#### [mistralai/Timestral-5M](<https://huggingface.co/mistralai/Timestral-5M>)
 
-Qwen · 2026-10-09
+mistralai · 2026-10-14
 
-Task: text-to-image · License: qwen-research · Access: ungated
-
-Weight files found in the repository. Check its model card and license before use.
-
-#### [mistralai/LIDstral-Arabic](<https://huggingface.co/mistralai/LIDstral-Arabic>)
-
-mistralai · 2026-10-08
-
-Task: text-classification · License: apache-2.0 · Access: ungated
+Task: time-series-forecasting · License: custom (see model card) · Access: ungated
 
 Weight files found in the repository. Check its model card and license before use.
 
-#### [LiquidAI/d1-3B-w8a8](<https://huggingface.co/LiquidAI/d1-3B-w8a8>)
+#### [mistralai/Timestral-209M](<https://huggingface.co/mistralai/Timestral-209M>)
 
-LiquidAI · 2026-10-07
+mistralai · 2026-10-14
 
-Task: image-text-to-text · License: lfm1.0 · Access: ungated
+Task: time-series-forecasting · License: custom (see model card) · Access: ungated
+
+Weight files found in the repository. Check its model card and license before use.
+
+#### [nvidia/ARDY-SOMA-RP-30FPS-KimodoRep-Horizon60](<https://huggingface.co/nvidia/ARDY-SOMA-RP-30FPS-KimodoRep-Horizon60>)
+
+nvidia · 2026-10-13
+
+Task: not specified · License: nvidia-open-model-agreement · Access: ungated
 
 Weight files found in the repository. Check its model card and license before use.
 
 ### Research & engineering
 
-#### [What Matters in Quality-Aware VLA Pretraining: A Benchmark and Empirical Study](<https://arxiv.org/abs/2610.18869>)
+#### [Designing Transformers for Continuous Diffusion Language Models](<https://arxiv.org/abs/2610.22330>)
 
-arXiv cs.AI · 2026-10-14 · **Preprint**
+arXiv cs.AI · 2026-10-16 · **Preprint**
 
-> arXiv:2610.18869v1 Announce Type: cross Abstract: How should demonstration quality be used during vision-language-action (VLA) pretraining to improve performance after target-task fine-tuning? We compare weighting,…
+> arXiv:2610.22330v1 Announce Type: new Abstract: Continuous diffusion language models (CDLMs) offer an alternative approach to parallel language generation; however, most existing studies directly use…
 
-#### [DoubtLess: Training-Free Contrastive Decoding for Efficient Reasoning](<https://arxiv.org/abs/2610.18862>)
+#### [Twice Upon a Time: Complementary Representations for Time-Series Reasoning](<https://arxiv.org/abs/2610.22327>)
 
-arXiv cs.AI · 2026-10-14 · **Preprint**
+arXiv cs.AI · 2026-10-16 · **Preprint**
 
-> arXiv:2610.18862v1 Announce Type: cross Abstract: Reasoning models achieve strong performance through long chains of thought (CoT), but often spend more tokens than needed to…
+> arXiv:2610.22327v1 Announce Type: cross Abstract: Time Series Language Models (TSLMs) enable language-based understanding and reasoning over temporal data, yet a fundamental question remains: what…
 
-#### [Hybrid Reasoning Agents](<https://arxiv.org/abs/2610.18861>)
+#### [Learning Self-Orchestration in Decentralized Agent Swarms](<https://arxiv.org/abs/2610.22322>)
 
-arXiv cs.AI · 2026-10-14 · **Preprint**
+arXiv cs.AI · 2026-10-16 · **Preprint**
 
-> arXiv:2610.18861v1 Announce Type: cross Abstract: How can we build an agent that thinks beyond human language, yet still acts through it in the external…
+> arXiv:2610.22322v1 Announce Type: cross Abstract: The capabilities of an agent swarm depend on both its individual members and how they coordinate. Yet existing multi-agent…
 
-#### [Two Clocks: Why Larger Rollout Batches Learn Slower but Fail on Schedule in Reinforcement Learning with Verifiable Rewards](<https://arxiv.org/abs/2610.18853>)
+#### [Learning to Steer LLM Agents and Multi-Agent Systems](<https://arxiv.org/abs/2610.22316>)
 
-arXiv cs.AI · 2026-10-14 · **Preprint**
+arXiv cs.AI · 2026-10-16 · **Preprint**
 
-> arXiv:2610.18853v1 Announce Type: cross Abstract: Reinforcement learning with verifiable rewards (RLVR) relies on costly model-generated responses, motivating larger rollout batches and square-root learning-rate scaling.…
+> arXiv:2610.22316v1 Announce Type: cross Abstract: Large language model (LLM)-based agents and multi-agent systems increasingly tackle complex tasks through long-horizon tool use and inter-agent collaboration.…
 
-#### [LIBERO-RIG: A Hardware-Setup Robustness Benchmark for Vision-Language-Action Models](<https://arxiv.org/abs/2610.18843>)
+#### [AI Consilium: a Benchmark of LLM Clinical Multidisciplinary Second Opinions](<https://arxiv.org/abs/2610.22298>)
 
-arXiv cs.AI · 2026-10-14 · **Preprint**
+arXiv cs.AI · 2026-10-16 · **Preprint**
 
-> arXiv:2610.18843v1 Announce Type: cross Abstract: Robot policies are expected to generalize across deployment environments, including variations in the robot itself: cameras are bumped and…
+> arXiv:2610.22298v1 Announce Type: cross Abstract: Large language models (LLMs) can generate differential diagnoses for complex cases, but a useful second opinion must also be…
 
-#### [Run fast, private agents on-device with LFM2.5-24B-A2B](<https://huggingface.co/blog/LiquidAI/lfm25-24b-a2b>)
+#### [Scaling Indic Pretraining: 2.8 Trillion Tokens and an Open Data Generation Pipeline](<https://huggingface.co/blog/nvidia/scaling-indic-pretraining>)
 
-Hugging Face · 2026-10-13
+Hugging Face · 2026-10-16
 
-#### [AI models may be capable of self-replicating without access to a datacenter](<https://www.anthropic.com/research/self-replicating-ai>)
+#### [Proof-based general-purpose computing with Magnetar](<https://www.microsoft.com/en-us/research/blog/proof-based-general-purpose-computing-with-magnetar>)
 
-Anthropic Research · 2026-10-12
+Microsoft Research · 2026-10-15
 
-> Small AI models may be only months away from being able to self-replicate across cheap IoT devices like Android TV boxes, with no datacenter…
+> Zero-knowledge proofs can verify computing results without rerunning workloads or exposing sensitive data. Magnetar helps bring them into the mainstream with support for standard…
 
-#### [Simulating student learning for better AI tutoring](<https://www.microsoft.com/en-us/research/blog/simulating-student-learning-for-better-ai-tutoring>)
+#### [Welcome Muse Spark Open: open-weight frontier multimodal mixture-of-experts model from Meta](<https://huggingface.co/blog/meta-muse-spark-open>)
 
-Microsoft Research · 2026-10-12
-
-> StudentSim is a research system for evaluating and improving AI tutoring tools before they are tested with learners. It models how individuals may engage…
+Hugging Face · 2026-10-15
 
 [Browse all daily digests](digests/README.md).
 <!-- radar:end -->
