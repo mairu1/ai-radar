@@ -12,6 +12,24 @@ Publisher excerpts reflect their claims. Research entries are not independently 
 
 ### Company announcements
 
+#### [How Itaú is building generative AI for its entire customer base](<https://openai.com/index/itau-generative-ai>)
+
+OpenAI · 2026-10-16
+
+> With ia.i, a conversational interface, and the IARA governance platform, Itaú is applying its AI First strategy to customers and employees — in one…
+
+#### [Stack Overflow for Agents triples signups with ChatGPT plugin](<https://openai.com/index/stack-overflow-chatgpt-plugin>)
+
+OpenAI · 2026-10-16
+
+> Two engineers shipped Stack Overflow for Agents in a few weeks with Codex, and its ChatGPT plugin helped drive up to 10× growth in…
+
+#### [Benefit Street Partners answers questions faster with Codex](<https://openai.com/index/benefit-street-partners>)
+
+OpenAI · 2026-10-16
+
+> Anant Kumar builds tools to compare loan valuations and analyze credit agreements, using Codex for code review and faster follow-ups.
+
 #### [Bringing GPT-Rosalind to academic research labs](<https://openai.com/index/introducing-the-rosalind-academic-plan>)
 
 OpenAI · 2026-10-15
@@ -42,25 +60,47 @@ NVIDIA · 2026-10-15
 
 > NVIDIA today released Nemotron 3.5 Super VL, an open 120-billion-parameter model that delivers the fastest task completion and highest accuracy for specialized always-on agents.…
 
-#### [Teaching students to think and learn through questions](<https://openai.com/index/teaching-students-to-think-and-learn-through-questions>)
-
-OpenAI · 2026-10-15
-
-> Celebrate Teachers’ Day with AI for Educators in Brazilian Portuguese and see how Study Mode can help teachers support active, step-by-step learning.
-
-#### [Sullivan &amp; Cromwell brings legal expertise into agreement review](<https://openai.com/index/sullivan-cromwell>)
-
-OpenAI · 2026-10-15
-
-> In collaboration with OpenAI, Sullivan &amp; Cromwell developed Agreement Analyzer, an AI tool for identifying issues in a draft agreement.
-
-#### [Preparing for the 2026 US midterms](<https://www.anthropic.com/news/2026-us-midterms>)
-
-Anthropic · 2026-10-14
-
-> Earlier this year, we shared an update on our election safeguards. Here, we outline how we’ve continued to strengthen these safeguards ahead of this…
-
 ### Models with published weights
+
+#### [deepseek-ai/DeepSeek-V4.1-Flash-1017](<https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017>)
+
+deepseek-ai · 2026-10-17
+
+Task: image-text-to-text · License: mit · Access: ungated
+
+Weight files found in the repository. Check its model card and license before use.
+
+#### [nvidia/NVIDIA-Nemotron-Labs-Dory1.0-4B-NVFP4](<https://huggingface.co/nvidia/NVIDIA-Nemotron-Labs-Dory1.0-4B-NVFP4>)
+
+nvidia · 2026-10-16
+
+Task: text-generation · License: openmdw-1.1 · Access: ungated
+
+Weight files found in the repository. Check its model card and license before use.
+
+#### [nvidia/NVIDIA-Nemotron-Labs-Dory1.0-4B-MXFP8](<https://huggingface.co/nvidia/NVIDIA-Nemotron-Labs-Dory1.0-4B-MXFP8>)
+
+nvidia · 2026-10-16
+
+Task: text-generation · License: openmdw-1.1 · Access: ungated
+
+Weight files found in the repository. Check its model card and license before use.
+
+#### [nvidia/NVIDIA-Nemotron-Labs-Dory1.0-4B-BF16](<https://huggingface.co/nvidia/NVIDIA-Nemotron-Labs-Dory1.0-4B-BF16>)
+
+nvidia · 2026-10-16
+
+Task: text-generation · License: openmdw-1.1 · Access: ungated
+
+Weight files found in the repository. Check its model card and license before use.
+
+#### [microsoft/scFM-dataselection](<https://huggingface.co/microsoft/scFM-dataselection>)
+
+microsoft · 2026-10-16
+
+Task: not specified · License: mit · Access: ungated
+
+Weight files found in the repository. Check its model card and license before use.
 
 #### [nvidia/Muse-Spark-Open-816B-A42B-DFlash2](<https://huggingface.co/nvidia/Muse-Spark-Open-816B-A42B-DFlash2>)
 
@@ -86,47 +126,37 @@ Task: text-generation · License: mit · Access: ungated
 
 Weight files found in the repository. Check its model card and license before use.
 
-#### [mistralai/Timestral-123M](<https://huggingface.co/mistralai/Timestral-123M>)
-
-mistralai · 2026-10-14
-
-Task: time-series-forecasting · License: custom (see model card) · Access: ungated
-
-Weight files found in the repository. Check its model card and license before use.
-
-#### [mistralai/Timestral-28M](<https://huggingface.co/mistralai/Timestral-28M>)
-
-mistralai · 2026-10-14
-
-Task: time-series-forecasting · License: custom (see model card) · Access: ungated
-
-Weight files found in the repository. Check its model card and license before use.
-
-#### [mistralai/Timestral-5M](<https://huggingface.co/mistralai/Timestral-5M>)
-
-mistralai · 2026-10-14
-
-Task: time-series-forecasting · License: custom (see model card) · Access: ungated
-
-Weight files found in the repository. Check its model card and license before use.
-
-#### [mistralai/Timestral-209M](<https://huggingface.co/mistralai/Timestral-209M>)
-
-mistralai · 2026-10-14
-
-Task: time-series-forecasting · License: custom (see model card) · Access: ungated
-
-Weight files found in the repository. Check its model card and license before use.
-
-#### [nvidia/ARDY-SOMA-RP-30FPS-KimodoRep-Horizon60](<https://huggingface.co/nvidia/ARDY-SOMA-RP-30FPS-KimodoRep-Horizon60>)
-
-nvidia · 2026-10-13
-
-Task: not specified · License: nvidia-open-model-agreement · Access: ungated
-
-Weight files found in the repository. Check its model card and license before use.
-
 ### Research & engineering
+
+#### [Designing more efficient quantum circuits with Claude](<https://www.anthropic.com/research/designing-efficient-quantum-circuits>)
+
+Anthropic Research · 2026-10-16
+
+> Working largely on its own, Claude designed quantum circuits that improve on the best published versions, in some cases by an order of magnitude…
+
+#### [Claude reveals ECDSA curve origins](<https://www.anthropic.com/research/ecdsa-curve-origins>)
+
+Anthropic Research · 2026-10-16
+
+> The decades-old mystery of the origins of one of the most popular cryptographic standards has been explained.
+
+#### [The AI expectations gap](<https://www.anthropic.com/research/ai-expectations-gap>)
+
+Anthropic Research · 2026-10-16
+
+> How will AI reshape the economy in the years ahead? What is the core source of disagreement about AI's future impact on the economy?…
+
+#### [How employment is changing at Anthropic](<https://www.anthropic.com/research/employment-at-anthropic>)
+
+Anthropic Research · 2026-10-16
+
+> How has AI restructured work and employment at Anthropic? As a company at the frontier of AI adoption, Anthropic could be a leading indicator…
+
+#### [Working at the frontier shapes expectations for the future](<https://www.anthropic.com/research/expectations-for-the-future>)
+
+Anthropic Research · 2026-10-16
+
+> We’re sharing two reports: the first covers how AI is changing employment inside Anthropic, and the second looks at the gap between how the…
 
 #### [Designing Transformers for Continuous Diffusion Language Models](<https://arxiv.org/abs/2610.22330>)
 
@@ -145,32 +175,6 @@ arXiv cs.AI · 2026-10-16 · **Preprint**
 arXiv cs.AI · 2026-10-16 · **Preprint**
 
 > arXiv:2610.22322v1 Announce Type: cross Abstract: The capabilities of an agent swarm depend on both its individual members and how they coordinate. Yet existing multi-agent…
-
-#### [Learning to Steer LLM Agents and Multi-Agent Systems](<https://arxiv.org/abs/2610.22316>)
-
-arXiv cs.AI · 2026-10-16 · **Preprint**
-
-> arXiv:2610.22316v1 Announce Type: cross Abstract: Large language model (LLM)-based agents and multi-agent systems increasingly tackle complex tasks through long-horizon tool use and inter-agent collaboration.…
-
-#### [AI Consilium: a Benchmark of LLM Clinical Multidisciplinary Second Opinions](<https://arxiv.org/abs/2610.22298>)
-
-arXiv cs.AI · 2026-10-16 · **Preprint**
-
-> arXiv:2610.22298v1 Announce Type: cross Abstract: Large language models (LLMs) can generate differential diagnoses for complex cases, but a useful second opinion must also be…
-
-#### [Scaling Indic Pretraining: 2.8 Trillion Tokens and an Open Data Generation Pipeline](<https://huggingface.co/blog/nvidia/scaling-indic-pretraining>)
-
-Hugging Face · 2026-10-16
-
-#### [Proof-based general-purpose computing with Magnetar](<https://www.microsoft.com/en-us/research/blog/proof-based-general-purpose-computing-with-magnetar>)
-
-Microsoft Research · 2026-10-15
-
-> Zero-knowledge proofs can verify computing results without rerunning workloads or exposing sensitive data. Magnetar helps bring them into the mainstream with support for standard…
-
-#### [Welcome Muse Spark Open: open-weight frontier multimodal mixture-of-experts model from Meta](<https://huggingface.co/blog/meta-muse-spark-open>)
-
-Hugging Face · 2026-10-15
 
 [Browse all daily digests](digests/README.md).
 <!-- radar:end -->
