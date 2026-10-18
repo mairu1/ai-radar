@@ -1,5 +1,16 @@
 [
   {
+    "id": "https://blogs.nvidia.com/blog/local-ai-rtx-spark-windows-laptops-celebration",
+    "title": "RTX Spark Ignites Global Celebration as New Windows PCs Arrive",
+    "url": "https://blogs.nvidia.com/blog/local-ai-rtx-spark-windows-laptops-celebration",
+    "source": "NVIDIA",
+    "category": "announcements",
+    "published": "2026-10-17T21:00:13+00:00",
+    "summary": "NVIDIA RTX Spark laptops are now available, bringing NVIDIA Blackwell RTX graphics, up to 128GB of unified memory and the full NVIDIA AI platform…",
+    "preprint": false,
+    "discovered": "2026-10-18"
+  },
+  {
     "id": "https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017",
     "title": "deepseek-ai/DeepSeek-V4.1-Flash-1017",
     "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017",

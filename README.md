@@ -12,6 +12,12 @@ Publisher excerpts reflect their claims. Research entries are not independently 
 
 ### Company announcements
 
+#### [RTX Spark Ignites Global Celebration as New Windows PCs Arrive](<https://blogs.nvidia.com/blog/local-ai-rtx-spark-windows-laptops-celebration>)
+
+NVIDIA · 2026-10-17
+
+> NVIDIA RTX Spark laptops are now available, bringing NVIDIA Blackwell RTX graphics, up to 128GB of unified memory and the full NVIDIA AI platform…
+
 #### [How Itaú is building generative AI for its entire customer base](<https://openai.com/index/itau-generative-ai>)
 
 OpenAI · 2026-10-16
@@ -53,12 +59,6 @@ NVIDIA · 2026-10-15
 Google DeepMind · 2026-10-15
 
 > Accelerating the search for novel antimicrobial peptides using Google Antigravity for Science.
-
-#### [Open From Data Center to Desktop: NVIDIA Expands Nemotron Family With Highest Efficiency Super VL and Bolt Models](<https://blogs.nvidia.com/blog/nemotron-3-5-super-vl>)
-
-NVIDIA · 2026-10-15
-
-> NVIDIA today released Nemotron 3.5 Super VL, an open 120-billion-parameter model that delivers the fastest task completion and highest accuracy for specialized always-on agents.…
 
 ### Models with published weights
 
