@@ -1,5 +1,16 @@
 [
   {
+    "id": "https://www.anthropic.com/news/public-benefit-fund",
+    "title": "Investing in the public benefit",
+    "url": "https://www.anthropic.com/news/public-benefit-fund",
+    "source": "Anthropic",
+    "category": "announcements",
+    "published": "2026-10-18T16:49:35.513000+00:00",
+    "summary": "We’re committing a portion of Anthropic’s shares to the Anthropic Public Benefit Fund, a new entity with a structure that increases the stake as…",
+    "preprint": false,
+    "discovered": "2026-10-19"
+  },
+  {
     "id": "https://blogs.nvidia.com/blog/local-ai-rtx-spark-windows-laptops-celebration",
     "title": "RTX Spark Ignites Global Celebration as New Windows PCs Arrive",
     "url": "https://blogs.nvidia.com/blog/local-ai-rtx-spark-windows-laptops-celebration",

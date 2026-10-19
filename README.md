@@ -12,6 +12,12 @@ Publisher excerpts reflect their claims. Research entries are not independently 
 
 ### Company announcements
 
+#### [Investing in the public benefit](<https://www.anthropic.com/news/public-benefit-fund>)
+
+Anthropic · 2026-10-18
+
+> We’re committing a portion of Anthropic’s shares to the Anthropic Public Benefit Fund, a new entity with a structure that increases the stake as…
+
 #### [RTX Spark Ignites Global Celebration as New Windows PCs Arrive](<https://blogs.nvidia.com/blog/local-ai-rtx-spark-windows-laptops-celebration>)
 
 NVIDIA · 2026-10-17
@@ -53,12 +59,6 @@ Anthropic · 2026-10-15
 NVIDIA · 2026-10-15
 
 > A new beginning for Windows PCs starts tomorrow with the launch of NVIDIA RTX Spark — one PC built for creators, gamers and AI…
-
-#### [Accelerating the search for antimicrobial peptides with Google Antigravity](<https://deepmind.google/blog/accelerating-antimicrobial-discovery>)
-
-Google DeepMind · 2026-10-15
-
-> Accelerating the search for novel antimicrobial peptides using Google Antigravity for Science.
 
 ### Models with published weights
 
