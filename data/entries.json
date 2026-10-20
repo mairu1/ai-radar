@@ -1,5 +1,115 @@
 [
   {
+    "id": "https://blogs.nvidia.com/blog/spain-startups-barcelona-supercomputing-center",
+    "title": "Spain-Based Startups Advance Regional Innovation With Barcelona Supercomputing Center",
+    "url": "https://blogs.nvidia.com/blog/spain-startups-barcelona-supercomputing-center",
+    "source": "NVIDIA",
+    "category": "announcements",
+    "published": "2026-10-20T05:00:00+00:00",
+    "summary": "The Barcelona Supercomputing Center (BSC)’s AI Factory Accelerator Programme, now in full operation following a pilot initiative, gives startups access to sovereign compute, technical…",
+    "preprint": false,
+    "discovered": "2026-10-20"
+  },
+  {
+    "id": "https://arxiv.org/abs/2610.26860",
+    "title": "OpenVLHarness: Real World Visual Agentic Tool-Use with Multimodal Memory",
+    "url": "https://arxiv.org/abs/2610.26860",
+    "source": "arXiv cs.AI",
+    "category": "research",
+    "published": "2026-10-20T04:00:00+00:00",
+    "summary": "arXiv:2610.26860v1 Announce Type: cross Abstract: Multimodal large language models (MLLMs) have made rapid progress on visual reasoning, yet many tasks require evidence that is…",
+    "preprint": true,
+    "discovered": "2026-10-20"
+  },
+  {
+    "id": "https://arxiv.org/abs/2610.26856",
+    "title": "Reinforcement Learning with Visually Attributable On-Policy Self-Distillation",
+    "url": "https://arxiv.org/abs/2610.26856",
+    "source": "arXiv cs.AI",
+    "category": "research",
+    "published": "2026-10-20T04:00:00+00:00",
+    "summary": "arXiv:2610.26856v1 Announce Type: cross Abstract: Multimodal reinforcement learning with verifiable rewards (RLVR) provides reliable task-level supervision, yet offers limited guidance for localizing errors in…",
+    "preprint": true,
+    "discovered": "2026-10-20"
+  },
+  {
+    "id": "https://arxiv.org/abs/2610.26852",
+    "title": "CoopUQ: Robust Multi-Robot Social Navigation via Uncertainty-Aware Cooperative Forecasting",
+    "url": "https://arxiv.org/abs/2610.26852",
+    "source": "arXiv cs.AI",
+    "category": "research",
+    "published": "2026-10-20T04:00:00+00:00",
+    "summary": "arXiv:2610.26852v1 Announce Type: cross Abstract: Reinforcement learning enables mobile robots to make fast and scalable navigation decisions in constrained human-shared environments. However, directly extending…",
+    "preprint": true,
+    "discovered": "2026-10-20"
+  },
+  {
+    "id": "https://arxiv.org/abs/2610.26847",
+    "title": "WeAct: Dynamic Weight Switching as Agent Actions",
+    "url": "https://arxiv.org/abs/2610.26847",
+    "source": "arXiv cs.AI",
+    "category": "research",
+    "published": "2026-10-20T04:00:00+00:00",
+    "summary": "arXiv:2610.26847v1 Announce Type: cross Abstract: Long-horizon agents must learn heterogeneous capabilities from interleaved trajectories. Updating shared parameters to learn new capabilities can degrade previously…",
+    "preprint": true,
+    "discovered": "2026-10-20"
+  },
+  {
+    "id": "https://arxiv.org/abs/2610.26845",
+    "title": "Train An Imaginative Agent",
+    "url": "https://arxiv.org/abs/2610.26845",
+    "source": "arXiv cs.AI",
+    "category": "research",
+    "published": "2026-10-20T04:00:00+00:00",
+    "summary": "arXiv:2610.26845v1 Announce Type: new Abstract: A seemingly reasonable push in Sokoban can make the puzzle unsolvable. To avoid such mistakes, an agent has to…",
+    "preprint": true,
+    "discovered": "2026-10-20"
+  },
+  {
+    "id": "https://huggingface.co/blog/mps-pytorch-2-15",
+    "title": "MPS in PyTorch 2.15",
+    "url": "https://huggingface.co/blog/mps-pytorch-2-15",
+    "source": "Hugging Face",
+    "category": "research",
+    "published": "2026-10-20T00:00:00+00:00",
+    "summary": "",
+    "preprint": false,
+    "discovered": "2026-10-20"
+  },
+  {
+    "id": "https://blogs.nvidia.com/blog/germany-wants-to-lead-the-world-in-industrial-ai-how-nvidia-will-help",
+    "title": "Germany Wants to Lead the World in Industrial AI: How NVIDIA Will Help",
+    "url": "https://blogs.nvidia.com/blog/germany-wants-to-lead-the-world-in-industrial-ai-how-nvidia-will-help",
+    "source": "NVIDIA",
+    "category": "announcements",
+    "published": "2026-10-19T19:27:08+00:00",
+    "summary": "In the cavernous hall of Kraftwerk, a former power station in Berlin, German Chancellor Friedrich Merz and NVIDIA founder and CEO Jensen Huang sat…",
+    "preprint": false,
+    "discovered": "2026-10-20"
+  },
+  {
+    "id": "https://openai.com/index/low-resource-programming-languages",
+    "title": "Advancing coding in low‑resource programming languages",
+    "url": "https://openai.com/index/low-resource-programming-languages",
+    "source": "OpenAI",
+    "category": "announcements",
+    "published": "2026-10-19T12:00:00+00:00",
+    "summary": "Learn how OpenAI is improving ChatGPT across low-resource programming languages, with new evaluations for software engineering, SQLite, and COBOL migration.",
+    "preprint": false,
+    "discovered": "2026-10-20"
+  },
+  {
+    "id": "https://huggingface.co/blog/hf-torchneuron",
+    "title": "TorchNeuron: running HF models on AWS Trainium is easier than ever",
+    "url": "https://huggingface.co/blog/hf-torchneuron",
+    "source": "Hugging Face",
+    "category": "research",
+    "published": "2026-10-19T00:00:00+00:00",
+    "summary": "",
+    "preprint": false,
+    "discovered": "2026-10-20"
+  },
+  {
     "id": "https://www.anthropic.com/news/public-benefit-fund",
     "title": "Investing in the public benefit",
     "url": "https://www.anthropic.com/news/public-benefit-fund",

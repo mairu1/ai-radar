@@ -12,6 +12,24 @@ Publisher excerpts reflect their claims. Research entries are not independently 
 
 ### Company announcements
 
+#### [Spain-Based Startups Advance Regional Innovation With Barcelona Supercomputing Center](<https://blogs.nvidia.com/blog/spain-startups-barcelona-supercomputing-center>)
+
+NVIDIA · 2026-10-20
+
+> The Barcelona Supercomputing Center (BSC)’s AI Factory Accelerator Programme, now in full operation following a pilot initiative, gives startups access to sovereign compute, technical…
+
+#### [Germany Wants to Lead the World in Industrial AI: How NVIDIA Will Help](<https://blogs.nvidia.com/blog/germany-wants-to-lead-the-world-in-industrial-ai-how-nvidia-will-help>)
+
+NVIDIA · 2026-10-19
+
+> In the cavernous hall of Kraftwerk, a former power station in Berlin, German Chancellor Friedrich Merz and NVIDIA founder and CEO Jensen Huang sat…
+
+#### [Advancing coding in low‑resource programming languages](<https://openai.com/index/low-resource-programming-languages>)
+
+OpenAI · 2026-10-19
+
+> Learn how OpenAI is improving ChatGPT across low-resource programming languages, with new evaluations for software engineering, SQLite, and COBOL migration.
+
 #### [Investing in the public benefit](<https://www.anthropic.com/news/public-benefit-fund>)
 
 Anthropic · 2026-10-18
@@ -41,24 +59,6 @@ OpenAI · 2026-10-16
 OpenAI · 2026-10-16
 
 > Anant Kumar builds tools to compare loan valuations and analyze credit agreements, using Codex for code review and faster follow-ups.
-
-#### [Bringing GPT-Rosalind to academic research labs](<https://openai.com/index/introducing-the-rosalind-academic-plan>)
-
-OpenAI · 2026-10-15
-
-> Introducing the Rosalind Academic Plan, offering eligible academic labs sponsored access to GPT-Rosalind and tools to advance life sciences research.
-
-#### [Anthropic update on independent evaluators](<https://www.anthropic.com/news/an-update-on-independent-evaluators>)
-
-Anthropic · 2026-10-15
-
-> Anthropic announces updates to embedding independent evaluators
-
-#### [Be There for the Beginning: Celebrate the Launch of NVIDIA RTX Spark](<https://blogs.nvidia.com/blog/local-ai-rtx-spark-launch-event-invite>)
-
-NVIDIA · 2026-10-15
-
-> A new beginning for Windows PCs starts tomorrow with the launch of NVIDIA RTX Spark — one PC built for creators, gamers and AI…
 
 ### Models with published weights
 
@@ -128,53 +128,49 @@ Weight files found in the repository. Check its model card and license before us
 
 ### Research & engineering
 
+#### [OpenVLHarness: Real World Visual Agentic Tool-Use with Multimodal Memory](<https://arxiv.org/abs/2610.26860>)
+
+arXiv cs.AI · 2026-10-20 · **Preprint**
+
+> arXiv:2610.26860v1 Announce Type: cross Abstract: Multimodal large language models (MLLMs) have made rapid progress on visual reasoning, yet many tasks require evidence that is…
+
+#### [Reinforcement Learning with Visually Attributable On-Policy Self-Distillation](<https://arxiv.org/abs/2610.26856>)
+
+arXiv cs.AI · 2026-10-20 · **Preprint**
+
+> arXiv:2610.26856v1 Announce Type: cross Abstract: Multimodal reinforcement learning with verifiable rewards (RLVR) provides reliable task-level supervision, yet offers limited guidance for localizing errors in…
+
+#### [CoopUQ: Robust Multi-Robot Social Navigation via Uncertainty-Aware Cooperative Forecasting](<https://arxiv.org/abs/2610.26852>)
+
+arXiv cs.AI · 2026-10-20 · **Preprint**
+
+> arXiv:2610.26852v1 Announce Type: cross Abstract: Reinforcement learning enables mobile robots to make fast and scalable navigation decisions in constrained human-shared environments. However, directly extending…
+
+#### [WeAct: Dynamic Weight Switching as Agent Actions](<https://arxiv.org/abs/2610.26847>)
+
+arXiv cs.AI · 2026-10-20 · **Preprint**
+
+> arXiv:2610.26847v1 Announce Type: cross Abstract: Long-horizon agents must learn heterogeneous capabilities from interleaved trajectories. Updating shared parameters to learn new capabilities can degrade previously…
+
+#### [Train An Imaginative Agent](<https://arxiv.org/abs/2610.26845>)
+
+arXiv cs.AI · 2026-10-20 · **Preprint**
+
+> arXiv:2610.26845v1 Announce Type: new Abstract: A seemingly reasonable push in Sokoban can make the puzzle unsolvable. To avoid such mistakes, an agent has to…
+
+#### [MPS in PyTorch 2.15](<https://huggingface.co/blog/mps-pytorch-2-15>)
+
+Hugging Face · 2026-10-20
+
+#### [TorchNeuron: running HF models on AWS Trainium is easier than ever](<https://huggingface.co/blog/hf-torchneuron>)
+
+Hugging Face · 2026-10-19
+
 #### [Designing more efficient quantum circuits with Claude](<https://www.anthropic.com/research/designing-efficient-quantum-circuits>)
 
 Anthropic Research · 2026-10-16
 
 > Working largely on its own, Claude designed quantum circuits that improve on the best published versions, in some cases by an order of magnitude…
-
-#### [Claude reveals ECDSA curve origins](<https://www.anthropic.com/research/ecdsa-curve-origins>)
-
-Anthropic Research · 2026-10-16
-
-> The decades-old mystery of the origins of one of the most popular cryptographic standards has been explained.
-
-#### [The AI expectations gap](<https://www.anthropic.com/research/ai-expectations-gap>)
-
-Anthropic Research · 2026-10-16
-
-> How will AI reshape the economy in the years ahead? What is the core source of disagreement about AI's future impact on the economy?…
-
-#### [How employment is changing at Anthropic](<https://www.anthropic.com/research/employment-at-anthropic>)
-
-Anthropic Research · 2026-10-16
-
-> How has AI restructured work and employment at Anthropic? As a company at the frontier of AI adoption, Anthropic could be a leading indicator…
-
-#### [Working at the frontier shapes expectations for the future](<https://www.anthropic.com/research/expectations-for-the-future>)
-
-Anthropic Research · 2026-10-16
-
-> We’re sharing two reports: the first covers how AI is changing employment inside Anthropic, and the second looks at the gap between how the…
-
-#### [Designing Transformers for Continuous Diffusion Language Models](<https://arxiv.org/abs/2610.22330>)
-
-arXiv cs.AI · 2026-10-16 · **Preprint**
-
-> arXiv:2610.22330v1 Announce Type: new Abstract: Continuous diffusion language models (CDLMs) offer an alternative approach to parallel language generation; however, most existing studies directly use…
-
-#### [Twice Upon a Time: Complementary Representations for Time-Series Reasoning](<https://arxiv.org/abs/2610.22327>)
-
-arXiv cs.AI · 2026-10-16 · **Preprint**
-
-> arXiv:2610.22327v1 Announce Type: cross Abstract: Time Series Language Models (TSLMs) enable language-based understanding and reasoning over temporal data, yet a fundamental question remains: what…
-
-#### [Learning Self-Orchestration in Decentralized Agent Swarms](<https://arxiv.org/abs/2610.22322>)
-
-arXiv cs.AI · 2026-10-16 · **Preprint**
-
-> arXiv:2610.22322v1 Announce Type: cross Abstract: The capabilities of an agent swarm depend on both its individual members and how they coordinate. Yet existing multi-agent…
 
 [Browse all daily digests](digests/README.md).
 <!-- radar:end -->
