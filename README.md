@@ -12,61 +12,109 @@ Publisher excerpts reflect their claims. Research entries are not independently 
 
 ### Company announcements
 
-#### [Spain-Based Startups Advance Regional Innovation With Barcelona Supercomputing Center](<https://blogs.nvidia.com/blog/spain-startups-barcelona-supercomputing-center>)
+#### [Bringing the Spark to Europe: Local Intelligence Powers Next Wave of Agents](<https://blogs.nvidia.com/blog/local-ai-gtc-rtx-dgx-spark-station-sync>)
 
-NVIDIA · 2026-10-20
+NVIDIA · 2026-10-21
 
-> The Barcelona Supercomputing Center (BSC)’s AI Factory Accelerator Programme, now in full operation following a pilot initiative, gives startups access to sovereign compute, technical…
+> At GTC Berlin, NVIDIA is showcasing its full lineup of local AI hardware. RTX Spark, which launched last week, powers personal agents on Windows…
 
-#### [Germany Wants to Lead the World in Industrial AI: How NVIDIA Will Help](<https://blogs.nvidia.com/blog/germany-wants-to-lead-the-world-in-industrial-ai-how-nvidia-will-help>)
+#### [Google Cloud and NVIDIA Announce General Availability of NVIDIA Vera Rubin Infrastructure](<https://blogs.nvidia.com/blog/google-cloud-vera-rubin-infrastructure>)
 
-NVIDIA · 2026-10-19
+NVIDIA · 2026-10-21
 
-> In the cavernous hall of Kraftwerk, a former power station in Berlin, German Chancellor Friedrich Merz and NVIDIA founder and CEO Jensen Huang sat…
+> General availability of the instances is coming next month, with planned expansion of availability to Europe — bringing an integrated platform for training, inference…
 
-#### [Advancing coding in low‑resource programming languages](<https://openai.com/index/low-resource-programming-languages>)
+#### [NVIDIA Cloud Partners Scale Across Europe — Sovereign, Open and Built for Safe AI Agents](<https://blogs.nvidia.com/blog/cloud-partners-europe-sovereign-safety-open-agents>)
 
-OpenAI · 2026-10-19
+NVIDIA · 2026-10-21
 
-> Learn how OpenAI is improving ChatGPT across low-resource programming languages, with new evaluations for software engineering, SQLite, and COBOL migration.
+> Demand from AI-natives is pulling the European AI cloud ecosystem forward faster than ever. Developers need compute closer to their data, open models they…
 
-#### [Investing in the public benefit](<https://www.anthropic.com/news/public-benefit-fund>)
+#### [Europe’s Industrial Leaders Reinvent Engineering and Manufacturing With NVIDIA](<https://blogs.nvidia.com/blog/europe-industrial-leaders-engineering-manufacturing>)
 
-Anthropic · 2026-10-18
+NVIDIA · 2026-10-21
 
-> We’re committing a portion of Anthropic’s shares to the Anthropic Public Benefit Fund, a new entity with a structure that increases the stake as…
+> To increase productivity, accelerate innovation and create new opportunities for economic growth, Europe’s industrial leaders are tapping NVIDIA CUDA-X and Omniverse libraries, as well…
 
-#### [RTX Spark Ignites Global Celebration as New Windows PCs Arrive](<https://blogs.nvidia.com/blog/local-ai-rtx-spark-windows-laptops-celebration>)
+#### [NVIDIA cuDSS Now Generally Available to Accelerate Engineering and Scientific Simulations](<https://blogs.nvidia.com/blog/cudss-generally-available-engineering-scientific-simulation>)
 
-NVIDIA · 2026-10-17
+NVIDIA · 2026-10-21
 
-> NVIDIA RTX Spark laptops are now available, bringing NVIDIA Blackwell RTX graphics, up to 128GB of unified memory and the full NVIDIA AI platform…
+> NVIDIA cuDSS, launched today in general availability, is an NVIDIA CUDA-X library that shifts a critical part of engineering and scientific simulations onto GPUs.…
 
-#### [How Itaú is building generative AI for its entire customer base](<https://openai.com/index/itau-generative-ai>)
+#### [NVIDIA Confidential Computing Expands, Enabling Frontier Model Builders to Securely Scale Across Global Infrastructure](<https://blogs.nvidia.com/blog/confidential-computing-model-builders-infrastructure>)
 
-OpenAI · 2026-10-16
+NVIDIA · 2026-10-21
 
-> With ia.i, a conversational interface, and the IARA governance platform, Itaú is applying its AI First strategy to customers and employees — in one…
+> NVIDIA builds tools to enable safe agents across the stack. The NVIDIA OpenShell Reference Architecture, announced today, is part of NVIDIA’s growing portfolio of…
 
-#### [Stack Overflow for Agents triples signups with ChatGPT plugin](<https://openai.com/index/stack-overflow-chatgpt-plugin>)
+#### [Southeast Asia’s digital economy to hit $368 billion](<https://blog.google/company-news/inside-google/around-the-globe/google-asia/e-conomy-sea-report-2026>)
 
-OpenAI · 2026-10-16
+Google AI · 2026-10-21
 
-> Two engineers shipped Stack Overflow for Agents in a few weeks with Codex, and its ChatGPT plugin helped drive up to 10× growth in…
+> Cover image for the e-Conomy SEA 2026 report titled Building the intelligent economy by Google, Temasek, and Bain and Company. A 3D illustration features…
 
-#### [Benefit Street Partners answers questions faster with Codex](<https://openai.com/index/benefit-street-partners>)
+#### [Voxtral 3: Voice Agent SDK &amp; Speech Models in 50+ Languages](<https://mistral.ai/news/voxtral-3>)
 
-OpenAI · 2026-10-16
+Mistral AI · 2026-10-20
 
-> Anant Kumar builds tools to compare loan valuations and analyze credit agreements, using Codex for code review and faster follow-ups.
+> Voxtral 3: Mistral's voice agent SDK for real-time speech in 50+ languages — accurate transcription, emotional TTS, deep tool use. EU-hosted or self-deployed.
 
 ### Models with published weights
+
+#### [LiquidAI/LFM2.5-24B-A2B-DSpark](<https://huggingface.co/LiquidAI/LFM2.5-24B-A2B-DSpark>)
+
+LiquidAI · 2026-10-19
+
+Task: text-generation · License: lfm1.0 · Access: ungated
+
+Weight files found in the repository. Check its model card and license before use.
+
+#### [nvidia/cosmos3-nano-libero10-sdg-export-S5\_2\_s43](<https://huggingface.co/nvidia/cosmos3-nano-libero10-sdg-export-S5_2_s43>)
+
+nvidia · 2026-10-19
+
+Task: robotics · License: nvidia-open-model-license · Access: ungated
+
+Weight files found in the repository. Check its model card and license before use.
+
+#### [nvidia/Cosmos3-H-Embodied-Nano](<https://huggingface.co/nvidia/Cosmos3-H-Embodied-Nano>)
+
+nvidia · 2026-10-19
+
+Task: robotics · License: nvidia-open-model-license · Access: ungated
+
+Weight files found in the repository. Check its model card and license before use.
+
+#### [nvidia/Cosmos3-H-Dreams](<https://huggingface.co/nvidia/Cosmos3-H-Dreams>)
+
+nvidia · 2026-10-19
+
+Task: image-to-video · License: nvidia-open-model-license · Access: ungated
+
+Weight files found in the repository. Check its model card and license before use.
+
+#### [nvidia/cosmos3-nano-libero10-sdg-export-D2\_s43](<https://huggingface.co/nvidia/cosmos3-nano-libero10-sdg-export-D2_s43>)
+
+nvidia · 2026-10-19
+
+Task: robotics · License: nvidia-open-model-license · Access: ungated
+
+Weight files found in the repository. Check its model card and license before use.
 
 #### [deepseek-ai/DeepSeek-V4.1-Flash-1017](<https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017>)
 
 deepseek-ai · 2026-10-17
 
 Task: image-text-to-text · License: mit · Access: ungated
+
+Weight files found in the repository. Check its model card and license before use.
+
+#### [microsoft/Sentiment-Analysis-7B](<https://huggingface.co/microsoft/Sentiment-Analysis-7B>)
+
+microsoft · 2026-10-17
+
+Task: text-generation · License: mit · Access: ungated
 
 Weight files found in the repository. Check its model card and license before use.
 
@@ -78,99 +126,53 @@ Task: text-generation · License: openmdw-1.1 · Access: ungated
 
 Weight files found in the repository. Check its model card and license before use.
 
-#### [nvidia/NVIDIA-Nemotron-Labs-Dory1.0-4B-MXFP8](<https://huggingface.co/nvidia/NVIDIA-Nemotron-Labs-Dory1.0-4B-MXFP8>)
-
-nvidia · 2026-10-16
-
-Task: text-generation · License: openmdw-1.1 · Access: ungated
-
-Weight files found in the repository. Check its model card and license before use.
-
-#### [nvidia/NVIDIA-Nemotron-Labs-Dory1.0-4B-BF16](<https://huggingface.co/nvidia/NVIDIA-Nemotron-Labs-Dory1.0-4B-BF16>)
-
-nvidia · 2026-10-16
-
-Task: text-generation · License: openmdw-1.1 · Access: ungated
-
-Weight files found in the repository. Check its model card and license before use.
-
-#### [microsoft/scFM-dataselection](<https://huggingface.co/microsoft/scFM-dataselection>)
-
-microsoft · 2026-10-16
-
-Task: not specified · License: mit · Access: ungated
-
-Weight files found in the repository. Check its model card and license before use.
-
-#### [nvidia/Muse-Spark-Open-816B-A42B-DFlash2](<https://huggingface.co/nvidia/Muse-Spark-Open-816B-A42B-DFlash2>)
-
-nvidia · 2026-10-16
-
-Task: image-text-to-text · License: nvidia-open-model-agreement-license · Access: ungated
-
-Weight files found in the repository. Check its model card and license before use.
-
-#### [nvidia/Nemotron-3.5-Rerank-8B-BF16](<https://huggingface.co/nvidia/Nemotron-3.5-Rerank-8B-BF16>)
-
-nvidia · 2026-10-15
-
-Task: text-ranking · License: openmdw-1.1 · Access: ungated
-
-Weight files found in the repository. Check its model card and license before use.
-
-#### [microsoft/UserRepGen-4B](<https://huggingface.co/microsoft/UserRepGen-4B>)
-
-microsoft · 2026-10-14
-
-Task: text-generation · License: mit · Access: ungated
-
-Weight files found in the repository. Check its model card and license before use.
-
 ### Research & engineering
+
+#### [Announcing SimReady Central: An Open Library of Simulation-Ready 3D Assets for Robotics and AI Factories](<https://huggingface.co/blog/nvidia/simready-central-assets-robotics-ai-factories>)
+
+Hugging Face · 2026-10-21
+
+#### [UniWALM: Unified World Action Language Model for Embodied Robot Control](<https://arxiv.org/abs/2610.28626>)
+
+arXiv cs.AI · 2026-10-21 · **Preprint**
+
+> arXiv:2610.28626v1 Announce Type: cross Abstract: Motivated by the human ability to integrate experience across language, perception, and action, we introduce UniWALM, a unified world-action-language…
+
+#### [Industrial ReMEmbR: Scaling Spatiotemporal Memory to Robot Fleets](<https://arxiv.org/abs/2610.28624>)
+
+arXiv cs.AI · 2026-10-21 · **Preprint**
+
+> arXiv:2610.28624v1 Announce Type: cross Abstract: Warehouse robot fleets continuously observe operational conditions, but preserving these observations as reusable semantic memory incurs substantial computation, communication,…
+
+#### [Evolving Agent Interfaces](<https://arxiv.org/abs/2610.28601>)
+
+arXiv cs.AI · 2026-10-21 · **Preprint**
+
+> arXiv:2610.28601v1 Announce Type: new Abstract: Computer-use agents are limited by the interfaces humans give them. An agent may type a spreadsheet cell by cell…
+
+#### [Beyond the Sequentiality Bottleneck: A Hybrid Diffusion-Autoregressive Framework for Efficient Multimodal Reasoning](<https://arxiv.org/abs/2610.28584>)
+
+arXiv cs.AI · 2026-10-21 · **Preprint**
+
+> arXiv:2610.28584v1 Announce Type: new Abstract: Autoregressive models (ARMs) face a "Sequentiality Bottleneck" in reasoning, while diffusion language models (DLMs) offer parallelism but lack semantic…
+
+#### [Learning Computational Structure for Sample-Efficient Prediction](<https://arxiv.org/abs/2610.28555>)
+
+arXiv cs.AI · 2026-10-21 · **Preprint**
+
+> arXiv:2610.28555v1 Announce Type: cross Abstract: Statistical learning in high dimensions suffers from the curse of dimensionality. Fortunately, many functions of practical interest are compositionally…
+
+#### [Called to serve: Tech, research, and positive impact](<https://www.microsoft.com/en-us/research/podcast/called-to-serve-tech-research-and-positive-impact-with-chris-white>)
+
+Microsoft Research · 2026-10-20
+
+> Lab Director Chris White has worked on research challenges with real-world implications—from new approaches to wartime data analysis to tools for combating human trafficking.…
 
 #### [OpenVLHarness: Real World Visual Agentic Tool-Use with Multimodal Memory](<https://arxiv.org/abs/2610.26860>)
 
 arXiv cs.AI · 2026-10-20 · **Preprint**
 
 > arXiv:2610.26860v1 Announce Type: cross Abstract: Multimodal large language models (MLLMs) have made rapid progress on visual reasoning, yet many tasks require evidence that is…
-
-#### [Reinforcement Learning with Visually Attributable On-Policy Self-Distillation](<https://arxiv.org/abs/2610.26856>)
-
-arXiv cs.AI · 2026-10-20 · **Preprint**
-
-> arXiv:2610.26856v1 Announce Type: cross Abstract: Multimodal reinforcement learning with verifiable rewards (RLVR) provides reliable task-level supervision, yet offers limited guidance for localizing errors in…
-
-#### [CoopUQ: Robust Multi-Robot Social Navigation via Uncertainty-Aware Cooperative Forecasting](<https://arxiv.org/abs/2610.26852>)
-
-arXiv cs.AI · 2026-10-20 · **Preprint**
-
-> arXiv:2610.26852v1 Announce Type: cross Abstract: Reinforcement learning enables mobile robots to make fast and scalable navigation decisions in constrained human-shared environments. However, directly extending…
-
-#### [WeAct: Dynamic Weight Switching as Agent Actions](<https://arxiv.org/abs/2610.26847>)
-
-arXiv cs.AI · 2026-10-20 · **Preprint**
-
-> arXiv:2610.26847v1 Announce Type: cross Abstract: Long-horizon agents must learn heterogeneous capabilities from interleaved trajectories. Updating shared parameters to learn new capabilities can degrade previously…
-
-#### [Train An Imaginative Agent](<https://arxiv.org/abs/2610.26845>)
-
-arXiv cs.AI · 2026-10-20 · **Preprint**
-
-> arXiv:2610.26845v1 Announce Type: new Abstract: A seemingly reasonable push in Sokoban can make the puzzle unsolvable. To avoid such mistakes, an agent has to…
-
-#### [MPS in PyTorch 2.15](<https://huggingface.co/blog/mps-pytorch-2-15>)
-
-Hugging Face · 2026-10-20
-
-#### [TorchNeuron: running HF models on AWS Trainium is easier than ever](<https://huggingface.co/blog/hf-torchneuron>)
-
-Hugging Face · 2026-10-19
-
-#### [Designing more efficient quantum circuits with Claude](<https://www.anthropic.com/research/designing-efficient-quantum-circuits>)
-
-Anthropic Research · 2026-10-16
-
-> Working largely on its own, Claude designed quantum circuits that improve on the best published versions, in some cases by an order of magnitude…
 
 [Browse all daily digests](digests/README.md).
 <!-- radar:end -->

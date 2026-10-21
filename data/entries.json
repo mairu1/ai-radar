@@ -1,5 +1,192 @@
 [
   {
+    "id": "https://huggingface.co/blog/nvidia/simready-central-assets-robotics-ai-factories",
+    "title": "Announcing SimReady Central: An Open Library of Simulation-Ready 3D Assets for Robotics and AI Factories",
+    "url": "https://huggingface.co/blog/nvidia/simready-central-assets-robotics-ai-factories",
+    "source": "Hugging Face",
+    "category": "research",
+    "published": "2026-10-21T10:59:42+00:00",
+    "summary": "",
+    "preprint": false,
+    "discovered": "2026-10-21"
+  },
+  {
+    "id": "https://blogs.nvidia.com/blog/local-ai-gtc-rtx-dgx-spark-station-sync",
+    "title": "Bringing the Spark to Europe: Local Intelligence Powers Next Wave of Agents",
+    "url": "https://blogs.nvidia.com/blog/local-ai-gtc-rtx-dgx-spark-station-sync",
+    "source": "NVIDIA",
+    "category": "announcements",
+    "published": "2026-10-21T10:50:37+00:00",
+    "summary": "At GTC Berlin, NVIDIA is showcasing its full lineup of local AI hardware. RTX Spark, which launched last week, powers personal agents on Windows…",
+    "preprint": false,
+    "discovered": "2026-10-21"
+  },
+  {
+    "id": "https://blogs.nvidia.com/blog/google-cloud-vera-rubin-infrastructure",
+    "title": "Google Cloud and NVIDIA Announce General Availability of NVIDIA Vera Rubin Infrastructure",
+    "url": "https://blogs.nvidia.com/blog/google-cloud-vera-rubin-infrastructure",
+    "source": "NVIDIA",
+    "category": "announcements",
+    "published": "2026-10-21T10:45:17+00:00",
+    "summary": "General availability of the instances is coming next month, with planned expansion of availability to Europe — bringing an integrated platform for training, inference…",
+    "preprint": false,
+    "discovered": "2026-10-21"
+  },
+  {
+    "id": "https://blogs.nvidia.com/blog/cloud-partners-europe-sovereign-safety-open-agents",
+    "title": "NVIDIA Cloud Partners Scale Across Europe — Sovereign, Open and Built for Safe AI Agents",
+    "url": "https://blogs.nvidia.com/blog/cloud-partners-europe-sovereign-safety-open-agents",
+    "source": "NVIDIA",
+    "category": "announcements",
+    "published": "2026-10-21T10:30:41+00:00",
+    "summary": "Demand from AI-natives is pulling the European AI cloud ecosystem forward faster than ever. Developers need compute closer to their data, open models they…",
+    "preprint": false,
+    "discovered": "2026-10-21"
+  },
+  {
+    "id": "https://blogs.nvidia.com/blog/europe-industrial-leaders-engineering-manufacturing",
+    "title": "Europe’s Industrial Leaders Reinvent Engineering and Manufacturing With NVIDIA",
+    "url": "https://blogs.nvidia.com/blog/europe-industrial-leaders-engineering-manufacturing",
+    "source": "NVIDIA",
+    "category": "announcements",
+    "published": "2026-10-21T10:30:40+00:00",
+    "summary": "To increase productivity, accelerate innovation and create new opportunities for economic growth, Europe’s industrial leaders are tapping NVIDIA CUDA-X and Omniverse libraries, as well…",
+    "preprint": false,
+    "discovered": "2026-10-21"
+  },
+  {
+    "id": "https://blogs.nvidia.com/blog/cudss-generally-available-engineering-scientific-simulation",
+    "title": "NVIDIA cuDSS Now Generally Available to Accelerate Engineering and Scientific Simulations",
+    "url": "https://blogs.nvidia.com/blog/cudss-generally-available-engineering-scientific-simulation",
+    "source": "NVIDIA",
+    "category": "announcements",
+    "published": "2026-10-21T10:30:25+00:00",
+    "summary": "NVIDIA cuDSS, launched today in general availability, is an NVIDIA CUDA-X library that shifts a critical part of engineering and scientific simulations onto GPUs.…",
+    "preprint": false,
+    "discovered": "2026-10-21"
+  },
+  {
+    "id": "https://blogs.nvidia.com/blog/confidential-computing-model-builders-infrastructure",
+    "title": "NVIDIA Confidential Computing Expands, Enabling Frontier Model Builders to Securely Scale Across Global Infrastructure",
+    "url": "https://blogs.nvidia.com/blog/confidential-computing-model-builders-infrastructure",
+    "source": "NVIDIA",
+    "category": "announcements",
+    "published": "2026-10-21T10:30:02+00:00",
+    "summary": "NVIDIA builds tools to enable safe agents across the stack. The NVIDIA OpenShell Reference Architecture, announced today, is part of NVIDIA’s growing portfolio of…",
+    "preprint": false,
+    "discovered": "2026-10-21"
+  },
+  {
+    "id": "https://blog.google/company-news/inside-google/around-the-globe/google-asia/e-conomy-sea-report-2026",
+    "title": "Southeast Asia’s digital economy to hit $368 billion",
+    "url": "https://blog.google/company-news/inside-google/around-the-globe/google-asia/e-conomy-sea-report-2026",
+    "source": "Google AI",
+    "category": "announcements",
+    "published": "2026-10-21T04:00:00+00:00",
+    "summary": "Cover image for the e-Conomy SEA 2026 report titled Building the intelligent economy by Google, Temasek, and Bain and Company. A 3D illustration features…",
+    "preprint": false,
+    "discovered": "2026-10-21"
+  },
+  {
+    "id": "https://arxiv.org/abs/2610.28626",
+    "title": "UniWALM: Unified World Action Language Model for Embodied Robot Control",
+    "url": "https://arxiv.org/abs/2610.28626",
+    "source": "arXiv cs.AI",
+    "category": "research",
+    "published": "2026-10-21T04:00:00+00:00",
+    "summary": "arXiv:2610.28626v1 Announce Type: cross Abstract: Motivated by the human ability to integrate experience across language, perception, and action, we introduce UniWALM, a unified world-action-language…",
+    "preprint": true,
+    "discovered": "2026-10-21"
+  },
+  {
+    "id": "https://arxiv.org/abs/2610.28624",
+    "title": "Industrial ReMEmbR: Scaling Spatiotemporal Memory to Robot Fleets",
+    "url": "https://arxiv.org/abs/2610.28624",
+    "source": "arXiv cs.AI",
+    "category": "research",
+    "published": "2026-10-21T04:00:00+00:00",
+    "summary": "arXiv:2610.28624v1 Announce Type: cross Abstract: Warehouse robot fleets continuously observe operational conditions, but preserving these observations as reusable semantic memory incurs substantial computation, communication,…",
+    "preprint": true,
+    "discovered": "2026-10-21"
+  },
+  {
+    "id": "https://arxiv.org/abs/2610.28601",
+    "title": "Evolving Agent Interfaces",
+    "url": "https://arxiv.org/abs/2610.28601",
+    "source": "arXiv cs.AI",
+    "category": "research",
+    "published": "2026-10-21T04:00:00+00:00",
+    "summary": "arXiv:2610.28601v1 Announce Type: new Abstract: Computer-use agents are limited by the interfaces humans give them. An agent may type a spreadsheet cell by cell…",
+    "preprint": true,
+    "discovered": "2026-10-21"
+  },
+  {
+    "id": "https://arxiv.org/abs/2610.28584",
+    "title": "Beyond the Sequentiality Bottleneck: A Hybrid Diffusion-Autoregressive Framework for Efficient Multimodal Reasoning",
+    "url": "https://arxiv.org/abs/2610.28584",
+    "source": "arXiv cs.AI",
+    "category": "research",
+    "published": "2026-10-21T04:00:00+00:00",
+    "summary": "arXiv:2610.28584v1 Announce Type: new Abstract: Autoregressive models (ARMs) face a \"Sequentiality Bottleneck\" in reasoning, while diffusion language models (DLMs) offer parallelism but lack semantic…",
+    "preprint": true,
+    "discovered": "2026-10-21"
+  },
+  {
+    "id": "https://arxiv.org/abs/2610.28555",
+    "title": "Learning Computational Structure for Sample-Efficient Prediction",
+    "url": "https://arxiv.org/abs/2610.28555",
+    "source": "arXiv cs.AI",
+    "category": "research",
+    "published": "2026-10-21T04:00:00+00:00",
+    "summary": "arXiv:2610.28555v1 Announce Type: cross Abstract: Statistical learning in high dimensions suffers from the curse of dimensionality. Fortunately, many functions of practical interest are compositionally…",
+    "preprint": true,
+    "discovered": "2026-10-21"
+  },
+  {
+    "id": "https://www.microsoft.com/en-us/research/podcast/called-to-serve-tech-research-and-positive-impact-with-chris-white",
+    "title": "Called to serve: Tech, research, and positive impact",
+    "url": "https://www.microsoft.com/en-us/research/podcast/called-to-serve-tech-research-and-positive-impact-with-chris-white",
+    "source": "Microsoft Research",
+    "category": "research",
+    "published": "2026-10-20T16:00:00+00:00",
+    "summary": "Lab Director Chris White has worked on research challenges with real-world implications—from new approaches to wartime data analysis to tools for combating human trafficking.…",
+    "preprint": false,
+    "discovered": "2026-10-21"
+  },
+  {
+    "id": "https://mistral.ai/news/voxtral-3",
+    "title": "Voxtral 3: Voice Agent SDK & Speech Models in 50+ Languages",
+    "url": "https://mistral.ai/news/voxtral-3",
+    "source": "Mistral AI",
+    "category": "announcements",
+    "published": "2026-10-20T12:00:22+00:00",
+    "summary": "Voxtral 3: Mistral's voice agent SDK for real-time speech in 50+ languages — accurate transcription, emotional TTS, deep tool use. EU-hosted or self-deployed.",
+    "preprint": false,
+    "discovered": "2026-10-21"
+  },
+  {
+    "id": "https://openai.com/index/ted-taylor-restaurant",
+    "title": "Franchisee reconciles cash in 94% less time with ChatGPT Work",
+    "url": "https://openai.com/index/ted-taylor-restaurant",
+    "source": "OpenAI",
+    "category": "announcements",
+    "published": "2026-10-20T10:00:00+00:00",
+    "summary": "An independent Schlotzsky’s and Cinnabon franchisee cut menu repricing time by 95% and built a workflow that could free up $100K in cash flow.",
+    "preprint": false,
+    "discovered": "2026-10-21"
+  },
+  {
+    "id": "https://openai.com/index/terminal-x",
+    "title": "Terminal X matches senior investor judgment 88.6% with GPT-6.1",
+    "url": "https://openai.com/index/terminal-x",
+    "source": "OpenAI",
+    "category": "announcements",
+    "published": "2026-10-20T07:00:00+00:00",
+    "summary": "Terminal X’s Eval Agent grades outputs against a 54-criterion rubric, catching 25% more deviances from a fund’s mandate with GPT-6.1 Sol.",
+    "preprint": false,
+    "discovered": "2026-10-21"
+  },
+  {
     "id": "https://blogs.nvidia.com/blog/spain-startups-barcelona-supercomputing-center",
     "title": "Spain-Based Startups Advance Regional Innovation With Barcelona Supercomputing Center",
     "url": "https://blogs.nvidia.com/blog/spain-startups-barcelona-supercomputing-center",
@@ -66,6 +253,28 @@
     "discovered": "2026-10-20"
   },
   {
+    "id": "https://www.anthropic.com/research/claude-scorpion-toxin-binder-design",
+    "title": "How Claude designed protein binders against scorpion neurotoxins",
+    "url": "https://www.anthropic.com/research/claude-scorpion-toxin-binder-design",
+    "source": "Anthropic Research",
+    "category": "research",
+    "published": "2026-10-20T00:00:00+00:00",
+    "summary": "We asked an internal research Claude model to design minibinders (small proteins that attach tightly to a target) against scorpion neurotoxins.",
+    "preprint": false,
+    "discovered": "2026-10-21"
+  },
+  {
+    "id": "https://openai.com/index/openai-to-acquire-orchestra-bio",
+    "title": "OpenAI acquires Orchestra Bio",
+    "url": "https://openai.com/index/openai-to-acquire-orchestra-bio",
+    "source": "OpenAI",
+    "category": "announcements",
+    "published": "2026-10-20T00:00:00+00:00",
+    "summary": "OpenAI is acquiring Orchestra Bio to bring AI-powered operations to life sciences R&D, helping biopharma teams accelerate drug development and advance new treatments.",
+    "preprint": false,
+    "discovered": "2026-10-21"
+  },
+  {
     "id": "https://huggingface.co/blog/mps-pytorch-2-15",
     "title": "MPS in PyTorch 2.15",
     "url": "https://huggingface.co/blog/mps-pytorch-2-15",
@@ -77,6 +286,56 @@
     "discovered": "2026-10-20"
   },
   {
+    "id": "https://huggingface.co/blog/hf-torchtpu",
+    "title": "Hugging Face ❤️ TorchTPU: TPUs, Natively",
+    "url": "https://huggingface.co/blog/hf-torchtpu",
+    "source": "Hugging Face",
+    "category": "research",
+    "published": "2026-10-20T00:00:00+00:00",
+    "summary": "",
+    "preprint": false,
+    "discovered": "2026-10-21"
+  },
+  {
+    "id": "https://huggingface.co/blog/anylanguagemodel-1-0",
+    "title": "AnyLanguageModel 1.0: One Year of Local Models on Apple Platforms",
+    "url": "https://huggingface.co/blog/anylanguagemodel-1-0",
+    "source": "Hugging Face",
+    "category": "research",
+    "published": "2026-10-20T00:00:00+00:00",
+    "summary": "",
+    "preprint": false,
+    "discovered": "2026-10-21"
+  },
+  {
+    "id": "https://huggingface.co/LiquidAI/LFM2.5-24B-A2B-DSpark",
+    "title": "LiquidAI/LFM2.5-24B-A2B-DSpark",
+    "url": "https://huggingface.co/LiquidAI/LFM2.5-24B-A2B-DSpark",
+    "source": "LiquidAI",
+    "category": "models",
+    "published": "2026-10-19T22:39:26+00:00",
+    "summary": "",
+    "license": "lfm1.0",
+    "task": "text-generation",
+    "gated": false,
+    "weight_files": 1,
+    "discovered": "2026-10-21"
+  },
+  {
+    "id": "https://huggingface.co/nvidia/cosmos3-nano-libero10-sdg-export-S5_2_s43",
+    "title": "nvidia/cosmos3-nano-libero10-sdg-export-S5_2_s43",
+    "url": "https://huggingface.co/nvidia/cosmos3-nano-libero10-sdg-export-S5_2_s43",
+    "source": "nvidia",
+    "category": "models",
+    "published": "2026-10-19T21:19:46+00:00",
+    "summary": "",
+    "license": "nvidia-open-model-license",
+    "task": "robotics",
+    "gated": false,
+    "weight_files": 7,
+    "discovered": "2026-10-21"
+  },
+  {
     "id": "https://blogs.nvidia.com/blog/germany-wants-to-lead-the-world-in-industrial-ai-how-nvidia-will-help",
     "title": "Germany Wants to Lead the World in Industrial AI: How NVIDIA Will Help",
     "url": "https://blogs.nvidia.com/blog/germany-wants-to-lead-the-world-in-industrial-ai-how-nvidia-will-help",
@@ -86,6 +345,48 @@
     "summary": "In the cavernous hall of Kraftwerk, a former power station in Berlin, German Chancellor Friedrich Merz and NVIDIA founder and CEO Jensen Huang sat…",
     "preprint": false,
     "discovered": "2026-10-20"
+  },
+  {
+    "id": "https://huggingface.co/nvidia/Cosmos3-H-Embodied-Nano",
+    "title": "nvidia/Cosmos3-H-Embodied-Nano",
+    "url": "https://huggingface.co/nvidia/Cosmos3-H-Embodied-Nano",
+    "source": "nvidia",
+    "category": "models",
+    "published": "2026-10-19T12:45:34+00:00",
+    "summary": "",
+    "license": "nvidia-open-model-license",
+    "task": "robotics",
+    "gated": false,
+    "weight_files": 1,
+    "discovered": "2026-10-21"
+  },
+  {
+    "id": "https://huggingface.co/nvidia/Cosmos3-H-Dreams",
+    "title": "nvidia/Cosmos3-H-Dreams",
+    "url": "https://huggingface.co/nvidia/Cosmos3-H-Dreams",
+    "source": "nvidia",
+    "category": "models",
+    "published": "2026-10-19T12:35:12+00:00",
+    "summary": "",
+    "license": "nvidia-open-model-license",
+    "task": "image-to-video",
+    "gated": false,
+    "weight_files": 2,
+    "discovered": "2026-10-21"
+  },
+  {
+    "id": "https://huggingface.co/nvidia/cosmos3-nano-libero10-sdg-export-D2_s43",
+    "title": "nvidia/cosmos3-nano-libero10-sdg-export-D2_s43",
+    "url": "https://huggingface.co/nvidia/cosmos3-nano-libero10-sdg-export-D2_s43",
+    "source": "nvidia",
+    "category": "models",
+    "published": "2026-10-19T12:33:39+00:00",
+    "summary": "",
+    "license": "nvidia-open-model-license",
+    "task": "robotics",
+    "gated": false,
+    "weight_files": 7,
+    "discovered": "2026-10-21"
   },
   {
     "id": "https://openai.com/index/low-resource-programming-languages",
@@ -121,6 +422,17 @@
     "discovered": "2026-10-19"
   },
   {
+    "id": "https://www.anthropic.com/news/announcements",
+    "title": "Announcements",
+    "url": "https://www.anthropic.com/news/announcements",
+    "source": "Anthropic",
+    "category": "announcements",
+    "published": "2026-10-18T00:00:00+00:00",
+    "summary": "",
+    "preprint": false,
+    "discovered": "2026-10-21"
+  },
+  {
     "id": "https://blogs.nvidia.com/blog/local-ai-rtx-spark-windows-laptops-celebration",
     "title": "RTX Spark Ignites Global Celebration as New Windows PCs Arrive",
     "url": "https://blogs.nvidia.com/blog/local-ai-rtx-spark-windows-laptops-celebration",
@@ -144,6 +456,20 @@
     "gated": false,
     "weight_files": 48,
     "discovered": "2026-10-17"
+  },
+  {
+    "id": "https://huggingface.co/microsoft/Sentiment-Analysis-7B",
+    "title": "microsoft/Sentiment-Analysis-7B",
+    "url": "https://huggingface.co/microsoft/Sentiment-Analysis-7B",
+    "source": "microsoft",
+    "category": "models",
+    "published": "2026-10-17T00:51:18+00:00",
+    "summary": "",
+    "license": "mit",
+    "task": "text-generation",
+    "gated": false,
+    "weight_files": 15,
+    "discovered": "2026-10-21"
   },
   {
     "id": "https://openai.com/index/itau-generative-ai",
@@ -472,6 +798,17 @@
     "discovered": "2026-10-16"
   },
   {
+    "id": "https://www.anthropic.com/news/policy",
+    "title": "Policy",
+    "url": "https://www.anthropic.com/news/policy",
+    "source": "Anthropic",
+    "category": "announcements",
+    "published": "2026-10-15T00:00:00+00:00",
+    "summary": "",
+    "preprint": false,
+    "discovered": "2026-10-21"
+  },
+  {
     "id": "https://openai.com/index/sullivan-cromwell",
     "title": "Sullivan & Cromwell brings legal expertise into agreement review",
     "url": "https://openai.com/index/sullivan-cromwell",
@@ -716,6 +1053,17 @@
     "summary": "Learn how Google DeepMind and GovTech Singapore uses lightweight on-device Gemma models to intercept conversational scams in private chats with zero cloud data egress.",
     "preprint": false,
     "discovered": "2026-10-14"
+  },
+  {
+    "id": "https://www.anthropic.com/news/safeguards",
+    "title": "Safeguards",
+    "url": "https://www.anthropic.com/news/safeguards",
+    "source": "Anthropic",
+    "category": "announcements",
+    "published": "2026-10-14T00:00:00+00:00",
+    "summary": "",
+    "preprint": false,
+    "discovered": "2026-10-21"
   },
   {
     "id": "https://openai.com/index/the-eus-next-chapter-in-ai-is-agentic",
