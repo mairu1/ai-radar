@@ -12,53 +12,53 @@ Publisher excerpts reflect their claims. Research entries are not independently 
 
 ### Company announcements
 
-#### [Bringing the Spark to Europe: Local Intelligence Powers Next Wave of Agents](<https://blogs.nvidia.com/blog/local-ai-gtc-rtx-dgx-spark-station-sync>)
+#### [Leading European Financial Services Organizations Embrace Open Models to Build Proprietary Intelligence](<https://blogs.nvidia.com/blog/european-financial-services-organizations-open-models-proprietary-intelligence>)
 
-NVIDIA · 2026-10-21
+NVIDIA · 2026-10-22
 
-> At GTC Berlin, NVIDIA is showcasing its full lineup of local AI hardware. RTX Spark, which launched last week, powers personal agents on Windows…
+> At GTC Berlin, banks, payment companies and financial data providers are showing what production-scale intelligence looks like — built on NVIDIA accelerated computing, powered…
 
-#### [Google Cloud and NVIDIA Announce General Availability of NVIDIA Vera Rubin Infrastructure](<https://blogs.nvidia.com/blog/google-cloud-vera-rubin-infrastructure>)
+#### [NVIDIA Cosmos Opens New Tools to Train, Evaluate and Deploy World Models](<https://blogs.nvidia.com/blog/cosmos-open-train-evaluate-deploy-world-models>)
 
-NVIDIA · 2026-10-21
+NVIDIA · 2026-10-22
 
-> General availability of the instances is coming next month, with planned expansion of availability to Europe — bringing an integrated platform for training, inference…
+> To help developers rapidly build world models, which help physical AI systems understand and simulate the real world, NVIDIA has expanded the Cosmos platform…
 
-#### [NVIDIA Cloud Partners Scale Across Europe — Sovereign, Open and Built for Safe AI Agents](<https://blogs.nvidia.com/blog/cloud-partners-europe-sovereign-safety-open-agents>)
+#### [How Companies Are Using NVIDIA DSX to Break the Power Bottleneck](<https://blogs.nvidia.com/blog/dsx-power>)
 
-NVIDIA · 2026-10-21
+NVIDIA · 2026-10-22
 
-> Demand from AI-natives is pulling the European AI cloud ecosystem forward faster than ever. Developers need compute closer to their data, open models they…
+> Companies around the world are building on the NVIDIA DSX AI Factory Platform to plan, simulate and run the grid and the AI factory…
 
-#### [Europe’s Industrial Leaders Reinvent Engineering and Manufacturing With NVIDIA](<https://blogs.nvidia.com/blog/europe-industrial-leaders-engineering-manufacturing>)
+#### [NVIDIA Transforms European Retail, From Digital Discovery to Physical Operations](<https://blogs.nvidia.com/blog/european-retail-open-models-robotics>)
 
-NVIDIA · 2026-10-21
+NVIDIA · 2026-10-22
 
-> To increase productivity, accelerate innovation and create new opportunities for economic growth, Europe’s industrial leaders are tapping NVIDIA CUDA-X and Omniverse libraries, as well…
+> European retailers are using open models and physical intelligence across use cases — from a commerce platform cutting inference costs by 90% to to…
 
-#### [NVIDIA cuDSS Now Generally Available to Accelerate Engineering and Scientific Simulations](<https://blogs.nvidia.com/blog/cudss-generally-available-engineering-scientific-simulation>)
+#### [Broad access through consistent standards](<https://openai.com/index/broad-access-through-consistent-standards>)
 
-NVIDIA · 2026-10-21
+OpenAI · 2026-10-21
 
-> NVIDIA cuDSS, launched today in general availability, is an NVIDIA CUDA-X library that shifts a critical part of engineering and scientific simulations onto GPUs.…
+> How OpenAI works with distribution partners to uphold consistent safeguards, support responsible access, and clarify expectations in our Usage Policies.
 
-#### [NVIDIA Confidential Computing Expands, Enabling Frontier Model Builders to Securely Scale Across Global Infrastructure](<https://blogs.nvidia.com/blog/confidential-computing-model-builders-infrastructure>)
+#### [How AT&amp;T is rethinking in-house legal work with OpenAI](<https://openai.com/index/att-legal>)
 
-NVIDIA · 2026-10-21
+OpenAI · 2026-10-21
 
-> NVIDIA builds tools to enable safe agents across the stack. The NVIDIA OpenShell Reference Architecture, announced today, is part of NVIDIA’s growing portfolio of…
+> AT&amp;T is working with OpenAI to make legal knowledge easier to access. Learn how its LegalEdge team is rethinking intake and scaling legal judgment.
 
-#### [Southeast Asia’s digital economy to hit $368 billion](<https://blog.google/company-news/inside-google/around-the-globe/google-asia/e-conomy-sea-report-2026>)
+#### [ChatGPT Ads expands to 26 new countries as over 100,000 advertisers have used the platform](<https://openai.com/index/chatgpt-ads-expands-26-new-countries>)
 
-Google AI · 2026-10-21
+OpenAI · 2026-10-21
 
-> Cover image for the e-Conomy SEA 2026 report titled Building the intelligent economy by Google, Temasek, and Bain and Company. A 3D illustration features…
+> From local businesses to global brands, more advertisers can now reach people as they explore, compare and decide what to buy in ChatGPT.
 
-#### [Voxtral 3: Voice Agent SDK &amp; Speech Models in 50+ Languages](<https://mistral.ai/news/voxtral-3>)
+#### [Mistral Advances AI for Engineering with NVIDIA \| Mistral](<https://mistral.ai/news/mistral-nvidia-ai-for-industrial-engineering>)
 
-Mistral AI · 2026-10-20
+Mistral AI · 2026-10-21
 
-> Voxtral 3: Mistral's voice agent SDK for real-time speech in 50+ languages — accurate transcription, emotional TTS, deep tool use. EU-hosted or self-deployed.
+> Mistral is collaborating with NVIDIA to develop a new generation of AI-native engineering workflows powered by NVIDIA accelerated computing.
 
 ### Models with published weights
 
@@ -128,51 +128,49 @@ Weight files found in the repository. Check its model card and license before us
 
 ### Research & engineering
 
-#### [Announcing SimReady Central: An Open Library of Simulation-Ready 3D Assets for Robotics and AI Factories](<https://huggingface.co/blog/nvidia/simready-central-assets-robotics-ai-factories>)
+#### [Multimodal Embodied Agents: A Unified Capability-centric Perspective from Computer-Use to Robot-Use](<https://arxiv.org/abs/2610.30108>)
+
+arXiv cs.AI · 2026-10-22 · **Preprint**
+
+> arXiv:2610.30108v1 Announce Type: cross Abstract: Multimodal agents (MMAs) sustain interaction through reasoning, memory, tools, and feedback, most visibly as computer-use agents, while robotic systems…
+
+#### [AtomicRL: Atomic Reinforcement Learning for Long-Horizon Robotic Manipulation](<https://arxiv.org/abs/2610.30097>)
+
+arXiv cs.AI · 2026-10-22 · **Preprint**
+
+> arXiv:2610.30097v1 Announce Type: cross Abstract: Vision-language-action (VLA) models have shown promise in robotic manipulation, but imitation learning (IL) alone often struggles to master complex…
+
+#### [Parallel AI Agent Collaboration as Graph-Structured Distributed Block Optimization](<https://arxiv.org/abs/2610.30074>)
+
+arXiv cs.AI · 2026-10-22 · **Preprint**
+
+> arXiv:2610.30074v1 Announce Type: cross Abstract: Parallel AI agents can produce useful local edits yet degrade a shared solution when their edits are combined. We…
+
+#### [From Reasoning to Action: Benchmarking Frontier AI Models on LIBERO-10 Robot Manipulation Tasks](<https://arxiv.org/abs/2610.30051>)
+
+arXiv cs.AI · 2026-10-22 · **Preprint**
+
+> arXiv:2610.30051v1 Announce Type: cross Abstract: Recent advances in frontier AI models have demonstrated remarkable capabilities in visual understanding, reasoning, planning, and tool use, raising…
+
+#### [SWE-DIVE: Multi-Turn Coding Agent Evaluation with Dynamic User Simulation](<https://arxiv.org/abs/2610.30047>)
+
+arXiv cs.AI · 2026-10-22 · **Preprint**
+
+> arXiv:2610.30047v1 Announce Type: cross Abstract: Coding agents are typically evaluated using one-shot, well-formulated prompts. Benchmarks such as SWE-bench use existing GitHub issues as input…
+
+#### [NVIDIA Kumo Relational Outperforms Supervised Machine Learning on Relational Data, No Training Required](<https://huggingface.co/blog/nvidia/kumo-relational>)
 
 Hugging Face · 2026-10-21
 
-#### [UniWALM: Unified World Action Language Model for Embodied Robot Control](<https://arxiv.org/abs/2610.28626>)
+#### [Solving a 31-year-old grand challenge in mathematics – the KLS conjecture](<https://www.microsoft.com/en-us/research/blog/solving-a-31-year-old-grand-challenge-in-mathematics-the-kls-conjecture>)
 
-arXiv cs.AI · 2026-10-21 · **Preprint**
+Microsoft Research · 2026-10-21
 
-> arXiv:2610.28626v1 Announce Type: cross Abstract: Motivated by the human ability to integrate experience across language, perception, and action, we introduce UniWALM, a unified world-action-language…
+> For decades, a fundamental question about the difficulty of computing in high-dimensional spaces has resisted proof. New research resolves this question, removing a major…
 
-#### [Industrial ReMEmbR: Scaling Spatiotemporal Memory to Robot Fleets](<https://arxiv.org/abs/2610.28624>)
+#### [Announcing SimReady Central: An Open Library of Simulation-Ready 3D Assets for Robotics and AI Factories](<https://huggingface.co/blog/nvidia/simready-central-assets-robotics-ai-factories>)
 
-arXiv cs.AI · 2026-10-21 · **Preprint**
-
-> arXiv:2610.28624v1 Announce Type: cross Abstract: Warehouse robot fleets continuously observe operational conditions, but preserving these observations as reusable semantic memory incurs substantial computation, communication,…
-
-#### [Evolving Agent Interfaces](<https://arxiv.org/abs/2610.28601>)
-
-arXiv cs.AI · 2026-10-21 · **Preprint**
-
-> arXiv:2610.28601v1 Announce Type: new Abstract: Computer-use agents are limited by the interfaces humans give them. An agent may type a spreadsheet cell by cell…
-
-#### [Beyond the Sequentiality Bottleneck: A Hybrid Diffusion-Autoregressive Framework for Efficient Multimodal Reasoning](<https://arxiv.org/abs/2610.28584>)
-
-arXiv cs.AI · 2026-10-21 · **Preprint**
-
-> arXiv:2610.28584v1 Announce Type: new Abstract: Autoregressive models (ARMs) face a "Sequentiality Bottleneck" in reasoning, while diffusion language models (DLMs) offer parallelism but lack semantic…
-
-#### [Learning Computational Structure for Sample-Efficient Prediction](<https://arxiv.org/abs/2610.28555>)
-
-arXiv cs.AI · 2026-10-21 · **Preprint**
-
-> arXiv:2610.28555v1 Announce Type: cross Abstract: Statistical learning in high dimensions suffers from the curse of dimensionality. Fortunately, many functions of practical interest are compositionally…
-
-#### [Called to serve: Tech, research, and positive impact](<https://www.microsoft.com/en-us/research/podcast/called-to-serve-tech-research-and-positive-impact-with-chris-white>)
-
-Microsoft Research · 2026-10-20
-
-> Lab Director Chris White has worked on research challenges with real-world implications—from new approaches to wartime data analysis to tools for combating human trafficking.…
-
-#### [OpenVLHarness: Real World Visual Agentic Tool-Use with Multimodal Memory](<https://arxiv.org/abs/2610.26860>)
-
-arXiv cs.AI · 2026-10-20 · **Preprint**
-
-> arXiv:2610.26860v1 Announce Type: cross Abstract: Multimodal large language models (MLLMs) have made rapid progress on visual reasoning, yet many tasks require evidence that is…
+Hugging Face · 2026-10-21
 
 [Browse all daily digests](digests/README.md).
 <!-- radar:end -->
