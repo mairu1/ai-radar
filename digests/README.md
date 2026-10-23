@@ -2,6 +2,7 @@
 
 Each file groups entries by the UTC date they were first collected.
 
+- [2026-10-23](2026-10-23.md)
 - [2026-10-22](2026-10-22.md)
 - [2026-10-21](2026-10-21.md)
 - [2026-10-20](2026-10-20.md)

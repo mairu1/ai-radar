@@ -12,6 +12,42 @@ Publisher excerpts reflect their claims. Research entries are not independently 
 
 ### Company announcements
 
+#### [Kazakhstan Expands Compute for Its AI Future](<https://blogs.nvidia.com/blog/kazakhstan-ai-compute-ecosystem>)
+
+NVIDIA · 2026-10-23
+
+> Kazakhstan’s AI ecosystem is moving from infrastructure plans to deployment. The shift is visible across the full AI stack — from infrastructure to models…
+
+#### [OpenAI and Poland’s NASK partner to advance AI safety and security](<https://openai.com/index/openai-nask-ai-safety-security-partnership>)
+
+OpenAI · 2026-10-23
+
+> OpenAI and Poland’s NASK are partnering on AI safety, security, and technical research to strengthen safeguards and support a more resilient digital ecosystem.
+
+#### [Build more responsive apps with the Decisions API](<https://openai.com/index/decisions-api>)
+
+OpenAI · 2026-10-22
+
+> Fast, focused, low-cost decisions for any application.
+
+#### [NVIDIA Unveils Minerva to Bring End-to-End Observability for AI Factories](<https://blogs.nvidia.com/blog/minerva-platform-infrastructure>)
+
+NVIDIA · 2026-10-22
+
+> Launched today, NVIDIA Minerva is an AIOps platform built to help teams find problems earlier and keep AI factories productive. It brings together telemetry…
+
+#### [Beyond tree cover: mapping the world’s forest types](<https://deepmind.google/blog/beyond-tree-cover-mapping-the-worlds-forest-types>)
+
+Google DeepMind · 2026-10-22
+
+> A global map categorizing every 10-meter patch of land on Earth into distinct forest types.
+
+#### [What FDE means at OpenAI](<https://openai.com/index/forward-deployed-engineering-means>)
+
+OpenAI · 2026-10-22
+
+> What forward deployed engineering means at OpenAI
+
 #### [Leading European Financial Services Organizations Embrace Open Models to Build Proprietary Intelligence](<https://blogs.nvidia.com/blog/european-financial-services-organizations-open-models-proprietary-intelligence>)
 
 NVIDIA · 2026-10-22
@@ -23,42 +59,6 @@ NVIDIA · 2026-10-22
 NVIDIA · 2026-10-22
 
 > To help developers rapidly build world models, which help physical AI systems understand and simulate the real world, NVIDIA has expanded the Cosmos platform…
-
-#### [How Companies Are Using NVIDIA DSX to Break the Power Bottleneck](<https://blogs.nvidia.com/blog/dsx-power>)
-
-NVIDIA · 2026-10-22
-
-> Companies around the world are building on the NVIDIA DSX AI Factory Platform to plan, simulate and run the grid and the AI factory…
-
-#### [NVIDIA Transforms European Retail, From Digital Discovery to Physical Operations](<https://blogs.nvidia.com/blog/european-retail-open-models-robotics>)
-
-NVIDIA · 2026-10-22
-
-> European retailers are using open models and physical intelligence across use cases — from a commerce platform cutting inference costs by 90% to to…
-
-#### [Broad access through consistent standards](<https://openai.com/index/broad-access-through-consistent-standards>)
-
-OpenAI · 2026-10-21
-
-> How OpenAI works with distribution partners to uphold consistent safeguards, support responsible access, and clarify expectations in our Usage Policies.
-
-#### [How AT&amp;T is rethinking in-house legal work with OpenAI](<https://openai.com/index/att-legal>)
-
-OpenAI · 2026-10-21
-
-> AT&amp;T is working with OpenAI to make legal knowledge easier to access. Learn how its LegalEdge team is rethinking intake and scaling legal judgment.
-
-#### [ChatGPT Ads expands to 26 new countries as over 100,000 advertisers have used the platform](<https://openai.com/index/chatgpt-ads-expands-26-new-countries>)
-
-OpenAI · 2026-10-21
-
-> From local businesses to global brands, more advertisers can now reach people as they explore, compare and decide what to buy in ChatGPT.
-
-#### [Mistral Advances AI for Engineering with NVIDIA \| Mistral](<https://mistral.ai/news/mistral-nvidia-ai-for-industrial-engineering>)
-
-Mistral AI · 2026-10-21
-
-> Mistral is collaborating with NVIDIA to develop a new generation of AI-native engineering workflows powered by NVIDIA accelerated computing.
 
 ### Models with published weights
 
@@ -128,49 +128,51 @@ Weight files found in the repository. Check its model card and license before us
 
 ### Research & engineering
 
+#### [Direct Pass@$k$ Optimization for Thought Pruning: Balancing Quality and Diversity in Test-Time Reasoning](<https://arxiv.org/abs/2610.31667>)
+
+arXiv cs.AI · 2026-10-23 · **Preprint**
+
+> arXiv:2610.31667v1 Announce Type: new Abstract: Test-time scaling has emerged as a key inference strategy for reasoning models, where a model generates a large number…
+
+#### [METTA: Memory-Enhanced Test-Time Adaptation for Meta-Reinforcement Learning](<https://arxiv.org/abs/2610.31656>)
+
+arXiv cs.AI · 2026-10-23 · **Preprint**
+
+> arXiv:2610.31656v1 Announce Type: cross Abstract: Meta-reinforcement learning aims to train agents that adapt quickly to unseen tasks from limited interaction, but this requires representing…
+
+#### [Would an LLM Match into a Residency? Uncertainty, Reasoning and Image Use of Open Language Models on the Spanish MIR Examination](<https://arxiv.org/abs/2610.31586>)
+
+arXiv cs.AI · 2026-10-23 · **Preprint**
+
+> arXiv:2610.31586v1 Announce Type: cross Abstract: Accuracy on medical examinations is common evidence offered for the clinical use of language models, yet a health system…
+
+#### [What Makes a Good Unmasking Policy? A Controlled Study of Learned Unmasking in Diffusion Language Models](<https://arxiv.org/abs/2610.31576>)
+
+arXiv cs.AI · 2026-10-23 · **Preprint**
+
+> arXiv:2610.31576v1 Announce Type: new Abstract: Masked diffusion language models generate tokens in parallel, but their efficiency depends on which predictions are committed. Learned unmasking…
+
+#### [DuoCook: An Overcooked-Inspired Benchmark for Visual Planning and Coordination](<https://arxiv.org/abs/2610.31511>)
+
+arXiv cs.AI · 2026-10-23 · **Preprint**
+
+> arXiv:2610.31511v1 Announce Type: new Abstract: Coordinating two players in a cooking task requires a vision-language agent to track changing scene states, sequence recipe steps,…
+
+#### [Turning Database Grading into RL Rewards: Post-Training Agents with ThinkingBox](<https://huggingface.co/blog/microsoft/thinkingbox-training>)
+
+Hugging Face · 2026-10-22
+
+#### [Flint-interactive: A language for creating interactive data visualizations](<https://www.microsoft.com/en-us/research/blog/flint-interactive-a-language-for-creating-interactive-data-visualizations>)
+
+Microsoft Research · 2026-10-22
+
+> Flint-interactive gives AI agents a language for creating interactive visualizations. Click a chart, filter data, highlight related content, and explore beyond the view the…
+
 #### [Multimodal Embodied Agents: A Unified Capability-centric Perspective from Computer-Use to Robot-Use](<https://arxiv.org/abs/2610.30108>)
 
 arXiv cs.AI · 2026-10-22 · **Preprint**
 
 > arXiv:2610.30108v1 Announce Type: cross Abstract: Multimodal agents (MMAs) sustain interaction through reasoning, memory, tools, and feedback, most visibly as computer-use agents, while robotic systems…
-
-#### [AtomicRL: Atomic Reinforcement Learning for Long-Horizon Robotic Manipulation](<https://arxiv.org/abs/2610.30097>)
-
-arXiv cs.AI · 2026-10-22 · **Preprint**
-
-> arXiv:2610.30097v1 Announce Type: cross Abstract: Vision-language-action (VLA) models have shown promise in robotic manipulation, but imitation learning (IL) alone often struggles to master complex…
-
-#### [Parallel AI Agent Collaboration as Graph-Structured Distributed Block Optimization](<https://arxiv.org/abs/2610.30074>)
-
-arXiv cs.AI · 2026-10-22 · **Preprint**
-
-> arXiv:2610.30074v1 Announce Type: cross Abstract: Parallel AI agents can produce useful local edits yet degrade a shared solution when their edits are combined. We…
-
-#### [From Reasoning to Action: Benchmarking Frontier AI Models on LIBERO-10 Robot Manipulation Tasks](<https://arxiv.org/abs/2610.30051>)
-
-arXiv cs.AI · 2026-10-22 · **Preprint**
-
-> arXiv:2610.30051v1 Announce Type: cross Abstract: Recent advances in frontier AI models have demonstrated remarkable capabilities in visual understanding, reasoning, planning, and tool use, raising…
-
-#### [SWE-DIVE: Multi-Turn Coding Agent Evaluation with Dynamic User Simulation](<https://arxiv.org/abs/2610.30047>)
-
-arXiv cs.AI · 2026-10-22 · **Preprint**
-
-> arXiv:2610.30047v1 Announce Type: cross Abstract: Coding agents are typically evaluated using one-shot, well-formulated prompts. Benchmarks such as SWE-bench use existing GitHub issues as input…
-
-#### [NVIDIA Kumo Relational Outperforms Supervised Machine Learning on Relational Data, No Training Required](<https://huggingface.co/blog/nvidia/kumo-relational>)
-
-Hugging Face · 2026-10-21
-
-#### [Solving a 31-year-old grand challenge in mathematics – the KLS conjecture](<https://www.microsoft.com/en-us/research/blog/solving-a-31-year-old-grand-challenge-in-mathematics-the-kls-conjecture>)
-
-Microsoft Research · 2026-10-21
-
-> For decades, a fundamental question about the difficulty of computing in high-dimensional spaces has resisted proof. New research resolves this question, removing a major…
-
-#### [Announcing SimReady Central: An Open Library of Simulation-Ready 3D Assets for Robotics and AI Factories](<https://huggingface.co/blog/nvidia/simready-central-assets-robotics-ai-factories>)
-
-Hugging Face · 2026-10-21
 
 [Browse all daily digests](digests/README.md).
 <!-- radar:end -->

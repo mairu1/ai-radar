@@ -1,5 +1,148 @@
 [
   {
+    "id": "https://arxiv.org/abs/2610.31667",
+    "title": "Direct Pass@$k$ Optimization for Thought Pruning: Balancing Quality and Diversity in Test-Time Reasoning",
+    "url": "https://arxiv.org/abs/2610.31667",
+    "source": "arXiv cs.AI",
+    "category": "research",
+    "published": "2026-10-23T04:00:00+00:00",
+    "summary": "arXiv:2610.31667v1 Announce Type: new Abstract: Test-time scaling has emerged as a key inference strategy for reasoning models, where a model generates a large number…",
+    "preprint": true,
+    "discovered": "2026-10-23"
+  },
+  {
+    "id": "https://arxiv.org/abs/2610.31656",
+    "title": "METTA: Memory-Enhanced Test-Time Adaptation for Meta-Reinforcement Learning",
+    "url": "https://arxiv.org/abs/2610.31656",
+    "source": "arXiv cs.AI",
+    "category": "research",
+    "published": "2026-10-23T04:00:00+00:00",
+    "summary": "arXiv:2610.31656v1 Announce Type: cross Abstract: Meta-reinforcement learning aims to train agents that adapt quickly to unseen tasks from limited interaction, but this requires representing…",
+    "preprint": true,
+    "discovered": "2026-10-23"
+  },
+  {
+    "id": "https://arxiv.org/abs/2610.31586",
+    "title": "Would an LLM Match into a Residency? Uncertainty, Reasoning and Image Use of Open Language Models on the Spanish MIR Examination",
+    "url": "https://arxiv.org/abs/2610.31586",
+    "source": "arXiv cs.AI",
+    "category": "research",
+    "published": "2026-10-23T04:00:00+00:00",
+    "summary": "arXiv:2610.31586v1 Announce Type: cross Abstract: Accuracy on medical examinations is common evidence offered for the clinical use of language models, yet a health system…",
+    "preprint": true,
+    "discovered": "2026-10-23"
+  },
+  {
+    "id": "https://arxiv.org/abs/2610.31576",
+    "title": "What Makes a Good Unmasking Policy? A Controlled Study of Learned Unmasking in Diffusion Language Models",
+    "url": "https://arxiv.org/abs/2610.31576",
+    "source": "arXiv cs.AI",
+    "category": "research",
+    "published": "2026-10-23T04:00:00+00:00",
+    "summary": "arXiv:2610.31576v1 Announce Type: new Abstract: Masked diffusion language models generate tokens in parallel, but their efficiency depends on which predictions are committed. Learned unmasking…",
+    "preprint": true,
+    "discovered": "2026-10-23"
+  },
+  {
+    "id": "https://arxiv.org/abs/2610.31511",
+    "title": "DuoCook: An Overcooked-Inspired Benchmark for Visual Planning and Coordination",
+    "url": "https://arxiv.org/abs/2610.31511",
+    "source": "arXiv cs.AI",
+    "category": "research",
+    "published": "2026-10-23T04:00:00+00:00",
+    "summary": "arXiv:2610.31511v1 Announce Type: new Abstract: Coordinating two players in a cooking task requires a vision-language agent to track changing scene states, sequence recipe steps,…",
+    "preprint": true,
+    "discovered": "2026-10-23"
+  },
+  {
+    "id": "https://blogs.nvidia.com/blog/kazakhstan-ai-compute-ecosystem",
+    "title": "Kazakhstan Expands Compute for Its AI Future",
+    "url": "https://blogs.nvidia.com/blog/kazakhstan-ai-compute-ecosystem",
+    "source": "NVIDIA",
+    "category": "announcements",
+    "published": "2026-10-23T02:00:13+00:00",
+    "summary": "Kazakhstan’s AI ecosystem is moving from infrastructure plans to deployment. The shift is visible across the full AI stack — from infrastructure to models…",
+    "preprint": false,
+    "discovered": "2026-10-23"
+  },
+  {
+    "id": "https://openai.com/index/openai-nask-ai-safety-security-partnership",
+    "title": "OpenAI and Poland’s NASK partner to advance AI safety and security",
+    "url": "https://openai.com/index/openai-nask-ai-safety-security-partnership",
+    "source": "OpenAI",
+    "category": "announcements",
+    "published": "2026-10-23T00:00:00+00:00",
+    "summary": "OpenAI and Poland’s NASK are partnering on AI safety, security, and technical research to strengthen safeguards and support a more resilient digital ecosystem.",
+    "preprint": false,
+    "discovered": "2026-10-23"
+  },
+  {
+    "id": "https://huggingface.co/blog/microsoft/thinkingbox-training",
+    "title": "Turning Database Grading into RL Rewards: Post-Training Agents with ThinkingBox",
+    "url": "https://huggingface.co/blog/microsoft/thinkingbox-training",
+    "source": "Hugging Face",
+    "category": "research",
+    "published": "2026-10-22T22:24:34+00:00",
+    "summary": "",
+    "preprint": false,
+    "discovered": "2026-10-23"
+  },
+  {
+    "id": "https://openai.com/index/decisions-api",
+    "title": "Build more responsive apps with the Decisions API",
+    "url": "https://openai.com/index/decisions-api",
+    "source": "OpenAI",
+    "category": "announcements",
+    "published": "2026-10-22T19:00:00+00:00",
+    "summary": "Fast, focused, low-cost decisions for any application.",
+    "preprint": false,
+    "discovered": "2026-10-23"
+  },
+  {
+    "id": "https://www.microsoft.com/en-us/research/blog/flint-interactive-a-language-for-creating-interactive-data-visualizations",
+    "title": "Flint-interactive: A language for creating interactive data visualizations",
+    "url": "https://www.microsoft.com/en-us/research/blog/flint-interactive-a-language-for-creating-interactive-data-visualizations",
+    "source": "Microsoft Research",
+    "category": "research",
+    "published": "2026-10-22T16:00:00+00:00",
+    "summary": "Flint-interactive gives AI agents a language for creating interactive visualizations. Click a chart, filter data, highlight related content, and explore beyond the view the…",
+    "preprint": false,
+    "discovered": "2026-10-23"
+  },
+  {
+    "id": "https://blogs.nvidia.com/blog/minerva-platform-infrastructure",
+    "title": "NVIDIA Unveils Minerva to Bring End-to-End Observability for AI Factories",
+    "url": "https://blogs.nvidia.com/blog/minerva-platform-infrastructure",
+    "source": "NVIDIA",
+    "category": "announcements",
+    "published": "2026-10-22T15:00:02+00:00",
+    "summary": "Launched today, NVIDIA Minerva is an AIOps platform built to help teams find problems earlier and keep AI factories productive. It brings together telemetry…",
+    "preprint": false,
+    "discovered": "2026-10-23"
+  },
+  {
+    "id": "https://deepmind.google/blog/beyond-tree-cover-mapping-the-worlds-forest-types",
+    "title": "Beyond tree cover: mapping the world’s forest types",
+    "url": "https://deepmind.google/blog/beyond-tree-cover-mapping-the-worlds-forest-types",
+    "source": "Google DeepMind",
+    "category": "announcements",
+    "published": "2026-10-22T14:30:24+00:00",
+    "summary": "A global map categorizing every 10-meter patch of land on Earth into distinct forest types.",
+    "preprint": false,
+    "discovered": "2026-10-23"
+  },
+  {
+    "id": "https://openai.com/index/forward-deployed-engineering-means",
+    "title": "What FDE means at OpenAI",
+    "url": "https://openai.com/index/forward-deployed-engineering-means",
+    "source": "OpenAI",
+    "category": "announcements",
+    "published": "2026-10-22T06:00:00+00:00",
+    "summary": "What forward deployed engineering means at OpenAI",
+    "preprint": false,
+    "discovered": "2026-10-23"
+  },
+  {
     "id": "https://blogs.nvidia.com/blog/european-financial-services-organizations-open-models-proprietary-intelligence",
     "title": "Leading European Financial Services Organizations Embrace Open Models to Build Proprietary Intelligence",
     "url": "https://blogs.nvidia.com/blog/european-financial-services-organizations-open-models-proprietary-intelligence",
@@ -97,6 +240,61 @@
     "summary": "arXiv:2610.30047v1 Announce Type: cross Abstract: Coding agents are typically evaluated using one-shot, well-formulated prompts. Benchmarks such as SWE-bench use existing GitHub issues as input…",
     "preprint": true,
     "discovered": "2026-10-22"
+  },
+  {
+    "id": "https://www.anthropic.com/research/formal-verification",
+    "title": "LLMs are making formal software verification feasible at a much larger scale",
+    "url": "https://www.anthropic.com/research/formal-verification",
+    "source": "Anthropic Research",
+    "category": "research",
+    "published": "2026-10-22T00:00:00+00:00",
+    "summary": "Claude formally proved security properties in the compiled code of 123 open-source libraries. Along the way, it found bugs that had eluded detection for…",
+    "preprint": false,
+    "discovered": "2026-10-23"
+  },
+  {
+    "id": "https://www.anthropic.com/news/product",
+    "title": "Product",
+    "url": "https://www.anthropic.com/news/product",
+    "source": "Anthropic",
+    "category": "announcements",
+    "published": "2026-10-22T00:00:00+00:00",
+    "summary": "",
+    "preprint": false,
+    "discovered": "2026-10-23"
+  },
+  {
+    "id": "https://www.anthropic.com/news/open-call-guest-investigators-life-sciences",
+    "title": "Open call for guest investigators in the life sciences",
+    "url": "https://www.anthropic.com/news/open-call-guest-investigators-life-sciences",
+    "source": "Anthropic",
+    "category": "announcements",
+    "published": "2026-10-22T00:00:00+00:00",
+    "summary": "Today, we’re inviting members of the life sciences community to apply to work with us on special projects.",
+    "preprint": false,
+    "discovered": "2026-10-23"
+  },
+  {
+    "id": "https://www.anthropic.com/news/donating-agent-skills-to-the-agentic-ai-foundation",
+    "title": "Donating Agent Skills to the Agentic AI Foundation",
+    "url": "https://www.anthropic.com/news/donating-agent-skills-to-the-agentic-ai-foundation",
+    "source": "Anthropic",
+    "category": "announcements",
+    "published": "2026-10-22T00:00:00+00:00",
+    "summary": "",
+    "preprint": false,
+    "discovered": "2026-10-23"
+  },
+  {
+    "id": "https://openai.com/index/uber-chatgpt-work-rollout",
+    "title": "Uber brings ChatGPT Work to all employees with OpenAI",
+    "url": "https://openai.com/index/uber-chatgpt-work-rollout",
+    "source": "OpenAI",
+    "category": "announcements",
+    "published": "2026-10-22T00:00:00+00:00",
+    "summary": "Uber is rolling out ChatGPT Work to more than 30,000 employees, helping teams research, analyze data, create presentations, and complete complex workflows.",
+    "preprint": false,
+    "discovered": "2026-10-23"
   },
   {
     "id": "https://openai.com/index/broad-access-through-consistent-standards",
