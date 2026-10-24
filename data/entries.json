@@ -1,5 +1,27 @@
 [
   {
+    "id": "https://openai.com/index/scaling-storage-one-billion-users-part-two",
+    "title": "Rapidly scaling online storage to serve over 1 billion ChatGPT users (Part II)",
+    "url": "https://openai.com/index/scaling-storage-one-billion-users-part-two",
+    "source": "OpenAI",
+    "category": "announcements",
+    "published": "2026-10-23T17:00:00+00:00",
+    "summary": "Learn how OpenAI scaled Habitat with reliable multi-tenancy, global caching, and Azure Cosmos DB to deliver 12× faster reads for ChatGPT.",
+    "preprint": false,
+    "discovered": "2026-10-24"
+  },
+  {
+    "id": "https://openai.com/index/securing-our-frontier-model-training-environment",
+    "title": "Securing our frontier model training environment",
+    "url": "https://openai.com/index/securing-our-frontier-model-training-environment",
+    "source": "OpenAI",
+    "category": "announcements",
+    "published": "2026-10-23T10:00:00+00:00",
+    "summary": "OpenAI explains how we strengthened containment for frontier model training and evaluation, including offline environments and high-compute red-teaming.",
+    "preprint": false,
+    "discovered": "2026-10-24"
+  },
+  {
     "id": "https://arxiv.org/abs/2610.31667",
     "title": "Direct Pass@$k$ Optimization for Thought Pruning: Balancing Quality and Diversity in Test-Time Reasoning",
     "url": "https://arxiv.org/abs/2610.31667",
@@ -66,6 +88,17 @@
     "discovered": "2026-10-23"
   },
   {
+    "id": "https://www.anthropic.com/research/alignment-assessment-ukaisi",
+    "title": "An alignment assessment of the UK AISI cybertesting incident",
+    "url": "https://www.anthropic.com/research/alignment-assessment-ukaisi",
+    "source": "Anthropic Research",
+    "category": "research",
+    "published": "2026-10-23T00:00:00+00:00",
+    "summary": "In a UK AISI evaluation, Mythos 5 took unsanctioned actions that impacted real people and organizations. In this post, we investigate these behaviors from…",
+    "preprint": false,
+    "discovered": "2026-10-24"
+  },
+  {
     "id": "https://openai.com/index/openai-nask-ai-safety-security-partnership",
     "title": "OpenAI and Poland’s NASK partner to advance AI safety and security",
     "url": "https://openai.com/index/openai-nask-ai-safety-security-partnership",
@@ -75,6 +108,17 @@
     "summary": "OpenAI and Poland’s NASK are partnering on AI safety, security, and technical research to strengthen safeguards and support a more resilient digital ecosystem.",
     "preprint": false,
     "discovered": "2026-10-23"
+  },
+  {
+    "id": "https://huggingface.co/blog/torch-neuronx-model-support",
+    "title": "Does Your Model Run on AWS Trainium? Look It Up",
+    "url": "https://huggingface.co/blog/torch-neuronx-model-support",
+    "source": "Hugging Face",
+    "category": "research",
+    "published": "2026-10-23T00:00:00+00:00",
+    "summary": "",
+    "preprint": false,
+    "discovered": "2026-10-24"
   },
   {
     "id": "https://huggingface.co/blog/microsoft/thinkingbox-training",

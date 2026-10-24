@@ -12,6 +12,18 @@ Publisher excerpts reflect their claims. Research entries are not independently 
 
 ### Company announcements
 
+#### [Rapidly scaling online storage to serve over 1 billion ChatGPT users (Part II)](<https://openai.com/index/scaling-storage-one-billion-users-part-two>)
+
+OpenAI · 2026-10-23
+
+> Learn how OpenAI scaled Habitat with reliable multi-tenancy, global caching, and Azure Cosmos DB to deliver 12× faster reads for ChatGPT.
+
+#### [Securing our frontier model training environment](<https://openai.com/index/securing-our-frontier-model-training-environment>)
+
+OpenAI · 2026-10-23
+
+> OpenAI explains how we strengthened containment for frontier model training and evaluation, including offline environments and high-compute red-teaming.
+
 #### [Kazakhstan Expands Compute for Its AI Future](<https://blogs.nvidia.com/blog/kazakhstan-ai-compute-ecosystem>)
 
 NVIDIA · 2026-10-23
@@ -47,18 +59,6 @@ Google DeepMind · 2026-10-22
 OpenAI · 2026-10-22
 
 > What forward deployed engineering means at OpenAI
-
-#### [Leading European Financial Services Organizations Embrace Open Models to Build Proprietary Intelligence](<https://blogs.nvidia.com/blog/european-financial-services-organizations-open-models-proprietary-intelligence>)
-
-NVIDIA · 2026-10-22
-
-> At GTC Berlin, banks, payment companies and financial data providers are showing what production-scale intelligence looks like — built on NVIDIA accelerated computing, powered…
-
-#### [NVIDIA Cosmos Opens New Tools to Train, Evaluate and Deploy World Models](<https://blogs.nvidia.com/blog/cosmos-open-train-evaluate-deploy-world-models>)
-
-NVIDIA · 2026-10-22
-
-> To help developers rapidly build world models, which help physical AI systems understand and simulate the real world, NVIDIA has expanded the Cosmos platform…
 
 ### Models with published weights
 
@@ -158,21 +158,19 @@ arXiv cs.AI · 2026-10-23 · **Preprint**
 
 > arXiv:2610.31511v1 Announce Type: new Abstract: Coordinating two players in a cooking task requires a vision-language agent to track changing scene states, sequence recipe steps,…
 
+#### [An alignment assessment of the UK AISI cybertesting incident](<https://www.anthropic.com/research/alignment-assessment-ukaisi>)
+
+Anthropic Research · 2026-10-23
+
+> In a UK AISI evaluation, Mythos 5 took unsanctioned actions that impacted real people and organizations. In this post, we investigate these behaviors from…
+
+#### [Does Your Model Run on AWS Trainium? Look It Up](<https://huggingface.co/blog/torch-neuronx-model-support>)
+
+Hugging Face · 2026-10-23
+
 #### [Turning Database Grading into RL Rewards: Post-Training Agents with ThinkingBox](<https://huggingface.co/blog/microsoft/thinkingbox-training>)
 
 Hugging Face · 2026-10-22
-
-#### [Flint-interactive: A language for creating interactive data visualizations](<https://www.microsoft.com/en-us/research/blog/flint-interactive-a-language-for-creating-interactive-data-visualizations>)
-
-Microsoft Research · 2026-10-22
-
-> Flint-interactive gives AI agents a language for creating interactive visualizations. Click a chart, filter data, highlight related content, and explore beyond the view the…
-
-#### [Multimodal Embodied Agents: A Unified Capability-centric Perspective from Computer-Use to Robot-Use](<https://arxiv.org/abs/2610.30108>)
-
-arXiv cs.AI · 2026-10-22 · **Preprint**
-
-> arXiv:2610.30108v1 Announce Type: cross Abstract: Multimodal agents (MMAs) sustain interaction through reasoning, memory, tools, and feedback, most visibly as computer-use agents, while robotic systems…
 
 [Browse all daily digests](digests/README.md).
 <!-- radar:end -->
