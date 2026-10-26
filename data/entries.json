@@ -1,5 +1,71 @@
 [
   {
+    "id": "https://arxiv.org/abs/2610.32971",
+    "title": "RobustRLlib: A Unified Library and Benchmark for Robust Reinforcement Learning Algorithms",
+    "url": "https://arxiv.org/abs/2610.32971",
+    "source": "arXiv cs.AI",
+    "category": "research",
+    "published": "2026-10-26T04:00:00+00:00",
+    "summary": "arXiv:2610.32971v1 Announce Type: cross Abstract: Robust reinforcement learning (RL) is critical for reliable real-world deployment, where policies may fail under diverse shifts and disruptions.…",
+    "preprint": true,
+    "discovered": "2026-10-26"
+  },
+  {
+    "id": "https://arxiv.org/abs/2610.32874",
+    "title": "Do \"True\" and \"False\" Add Up to One? Complement Consistency in LLM-Agent Opinion Simulations",
+    "url": "https://arxiv.org/abs/2610.32874",
+    "source": "arXiv cs.AI",
+    "category": "research",
+    "published": "2026-10-26T04:00:00+00:00",
+    "summary": "arXiv:2610.32874v1 Announce Type: new Abstract: In LLM-agent opinion simulations, each agent reports the probability that a claim is true after seeing its own previous…",
+    "preprint": true,
+    "discovered": "2026-10-26"
+  },
+  {
+    "id": "https://arxiv.org/abs/2610.32851",
+    "title": "Reimagining Enterprise RAG for Multi-Agent Systems: A Knowledge Layer That Organizes Before It Retrieves",
+    "url": "https://arxiv.org/abs/2610.32851",
+    "source": "arXiv cs.AI",
+    "category": "research",
+    "published": "2026-10-26T04:00:00+00:00",
+    "summary": "arXiv:2610.32851v1 Announce Type: new Abstract: Enterprises are deploying agentic AI across the software development lifecycle, and they need the behavioral logic of the systems…",
+    "preprint": true,
+    "discovered": "2026-10-26"
+  },
+  {
+    "id": "https://arxiv.org/abs/2610.32752",
+    "title": "ActionRAG: Evidence-Refining Graph Diffusion for Long-Term Memory in LLM Agents",
+    "url": "https://arxiv.org/abs/2610.32752",
+    "source": "arXiv cs.AI",
+    "category": "research",
+    "published": "2026-10-26T04:00:00+00:00",
+    "summary": "arXiv:2610.32752v1 Announce Type: new Abstract: LLM agents need long-term memory that can recover precise and mutually consistent evidence from growing interaction histories, particularly when…",
+    "preprint": true,
+    "discovered": "2026-10-26"
+  },
+  {
+    "id": "https://arxiv.org/abs/2610.32742",
+    "title": "Adaptive World-Models for Anomaly Recognition (AWARE): A Framework for Robot Dynamics Prediction and Introspection",
+    "url": "https://arxiv.org/abs/2610.32742",
+    "source": "arXiv cs.AI",
+    "category": "research",
+    "published": "2026-10-26T04:00:00+00:00",
+    "summary": "arXiv:2610.32742v1 Announce Type: cross Abstract: Unrecognized anomalies in critical infrastructure can rapidly cascade into catastrophic physical or operational failures. Current anomaly detection approaches often…",
+    "preprint": true,
+    "discovered": "2026-10-26"
+  },
+  {
+    "id": "https://www.anthropic.com/news/s1-sec",
+    "title": "Anthropic files S-1 with the SEC for proposed initial public offering",
+    "url": "https://www.anthropic.com/news/s1-sec",
+    "source": "Anthropic",
+    "category": "announcements",
+    "published": "2026-10-26T00:00:00+00:00",
+    "summary": "",
+    "preprint": false,
+    "discovered": "2026-10-26"
+  },
+  {
     "id": "https://openai.com/index/scaling-storage-one-billion-users-part-two",
     "title": "Rapidly scaling online storage to serve over 1 billion ChatGPT users (Part II)",
     "url": "https://openai.com/index/scaling-storage-one-billion-users-part-two",

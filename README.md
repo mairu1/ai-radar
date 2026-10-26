@@ -12,6 +12,10 @@ Publisher excerpts reflect their claims. Research entries are not independently 
 
 ### Company announcements
 
+#### [Anthropic files S-1 with the SEC for proposed initial public offering](<https://www.anthropic.com/news/s1-sec>)
+
+Anthropic · 2026-10-26
+
 #### [Rapidly scaling online storage to serve over 1 billion ChatGPT users (Part II)](<https://openai.com/index/scaling-storage-one-billion-users-part-two>)
 
 OpenAI · 2026-10-23
@@ -53,12 +57,6 @@ NVIDIA · 2026-10-22
 Google DeepMind · 2026-10-22
 
 > A global map categorizing every 10-meter patch of land on Earth into distinct forest types.
-
-#### [What FDE means at OpenAI](<https://openai.com/index/forward-deployed-engineering-means>)
-
-OpenAI · 2026-10-22
-
-> What forward deployed engineering means at OpenAI
 
 ### Models with published weights
 
@@ -128,6 +126,36 @@ Weight files found in the repository. Check its model card and license before us
 
 ### Research & engineering
 
+#### [RobustRLlib: A Unified Library and Benchmark for Robust Reinforcement Learning Algorithms](<https://arxiv.org/abs/2610.32971>)
+
+arXiv cs.AI · 2026-10-26 · **Preprint**
+
+> arXiv:2610.32971v1 Announce Type: cross Abstract: Robust reinforcement learning (RL) is critical for reliable real-world deployment, where policies may fail under diverse shifts and disruptions.…
+
+#### [Do "True" and "False" Add Up to One? Complement Consistency in LLM-Agent Opinion Simulations](<https://arxiv.org/abs/2610.32874>)
+
+arXiv cs.AI · 2026-10-26 · **Preprint**
+
+> arXiv:2610.32874v1 Announce Type: new Abstract: In LLM-agent opinion simulations, each agent reports the probability that a claim is true after seeing its own previous…
+
+#### [Reimagining Enterprise RAG for Multi-Agent Systems: A Knowledge Layer That Organizes Before It Retrieves](<https://arxiv.org/abs/2610.32851>)
+
+arXiv cs.AI · 2026-10-26 · **Preprint**
+
+> arXiv:2610.32851v1 Announce Type: new Abstract: Enterprises are deploying agentic AI across the software development lifecycle, and they need the behavioral logic of the systems…
+
+#### [ActionRAG: Evidence-Refining Graph Diffusion for Long-Term Memory in LLM Agents](<https://arxiv.org/abs/2610.32752>)
+
+arXiv cs.AI · 2026-10-26 · **Preprint**
+
+> arXiv:2610.32752v1 Announce Type: new Abstract: LLM agents need long-term memory that can recover precise and mutually consistent evidence from growing interaction histories, particularly when…
+
+#### [Adaptive World-Models for Anomaly Recognition (AWARE): A Framework for Robot Dynamics Prediction and Introspection](<https://arxiv.org/abs/2610.32742>)
+
+arXiv cs.AI · 2026-10-26 · **Preprint**
+
+> arXiv:2610.32742v1 Announce Type: cross Abstract: Unrecognized anomalies in critical infrastructure can rapidly cascade into catastrophic physical or operational failures. Current anomaly detection approaches often…
+
 #### [Direct Pass@$k$ Optimization for Thought Pruning: Balancing Quality and Diversity in Test-Time Reasoning](<https://arxiv.org/abs/2610.31667>)
 
 arXiv cs.AI · 2026-10-23 · **Preprint**
@@ -145,32 +173,6 @@ arXiv cs.AI · 2026-10-23 · **Preprint**
 arXiv cs.AI · 2026-10-23 · **Preprint**
 
 > arXiv:2610.31586v1 Announce Type: cross Abstract: Accuracy on medical examinations is common evidence offered for the clinical use of language models, yet a health system…
-
-#### [What Makes a Good Unmasking Policy? A Controlled Study of Learned Unmasking in Diffusion Language Models](<https://arxiv.org/abs/2610.31576>)
-
-arXiv cs.AI · 2026-10-23 · **Preprint**
-
-> arXiv:2610.31576v1 Announce Type: new Abstract: Masked diffusion language models generate tokens in parallel, but their efficiency depends on which predictions are committed. Learned unmasking…
-
-#### [DuoCook: An Overcooked-Inspired Benchmark for Visual Planning and Coordination](<https://arxiv.org/abs/2610.31511>)
-
-arXiv cs.AI · 2026-10-23 · **Preprint**
-
-> arXiv:2610.31511v1 Announce Type: new Abstract: Coordinating two players in a cooking task requires a vision-language agent to track changing scene states, sequence recipe steps,…
-
-#### [An alignment assessment of the UK AISI cybertesting incident](<https://www.anthropic.com/research/alignment-assessment-ukaisi>)
-
-Anthropic Research · 2026-10-23
-
-> In a UK AISI evaluation, Mythos 5 took unsanctioned actions that impacted real people and organizations. In this post, we investigate these behaviors from…
-
-#### [Does Your Model Run on AWS Trainium? Look It Up](<https://huggingface.co/blog/torch-neuronx-model-support>)
-
-Hugging Face · 2026-10-23
-
-#### [Turning Database Grading into RL Rewards: Post-Training Agents with ThinkingBox](<https://huggingface.co/blog/microsoft/thinkingbox-training>)
-
-Hugging Face · 2026-10-22
 
 [Browse all daily digests](digests/README.md).
 <!-- radar:end -->
