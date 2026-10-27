@@ -12,51 +12,51 @@ Publisher excerpts reflect their claims. Research entries are not independently 
 
 ### Company announcements
 
+#### [Greptile takes bug detection beyond code review with GPT-6 Astra](<https://openai.com/index/greptile-code-review-codex-astra>)
+
+OpenAI · 2026-10-26
+
+> How Greptile uses GPT-6 Astra to test user workflows, Daybreak to strengthen security, and Codex to reduce rework.
+
+#### [Our newest AI Quest: Mapping the human brain](<https://blog.google/products-and-platforms/products/education/ai-quests-polar-peaks>)
+
+Google AI · 2026-10-26
+
+> An illustration of a planet rotating to show various cartoon figures waving. At the top is the text "AI Quests"
+
+#### [Working with academic communities to build scientific understanding](<https://openai.com/index/building-scientific-understanding-with-academic-communities>)
+
+OpenAI · 2026-10-26
+
+> OpenAI shares model results on the Kakeya conjecture, Exponential Time Hypothesis, and quantum chromodynamics—and how researchers can verify and build on them.
+
+#### [GPT-6.1 Sol helps CodeRabbit strengthen security across complex codebases](<https://openai.com/index/gpt-6-1-sol-coderabbit-code-security>)
+
+OpenAI · 2026-10-26
+
+> CodeRabbit uses GPT-6.1 Sol to investigate security risks across complex codebases. Its security agent helps developers review findings and proposed fixes.
+
+#### [ChatGPT’s expanding world of work](<https://openai.com/index/chatgpt-expanding-world-of-work>)
+
+OpenAI · 2026-10-26
+
+> Explore OpenAI Signals data on 165 work activities across nearly 100 countries, revealing how people use ChatGPT for work and how usage changes over…
+
+#### [How Ultrafast cut incident investigation from hours to minutes at OpenAI](<https://openai.com/index/openai-cut-incident-investigation>)
+
+OpenAI · 2026-10-26
+
+> See how OpenAI engineers use Codex Ultrafast to investigate incidents in minutes. Explore faster security analysis, code refactoring, and daily workflows.
+
+#### [How Fanatics and OpenAI streamline the fan experience](<https://openai.com/index/fanatics-streamline-fan-experience>)
+
+OpenAI · 2026-10-26
+
+> Fanatics uses OpenAI to help fans complete their game-day outfits with Shop the Look. Testing across roughly 30,000 MLB products showed 10% higher engagement.
+
 #### [Anthropic files S-1 with the SEC for proposed initial public offering](<https://www.anthropic.com/news/s1-sec>)
 
 Anthropic · 2026-10-26
-
-#### [Rapidly scaling online storage to serve over 1 billion ChatGPT users (Part II)](<https://openai.com/index/scaling-storage-one-billion-users-part-two>)
-
-OpenAI · 2026-10-23
-
-> Learn how OpenAI scaled Habitat with reliable multi-tenancy, global caching, and Azure Cosmos DB to deliver 12× faster reads for ChatGPT.
-
-#### [Securing our frontier model training environment](<https://openai.com/index/securing-our-frontier-model-training-environment>)
-
-OpenAI · 2026-10-23
-
-> OpenAI explains how we strengthened containment for frontier model training and evaluation, including offline environments and high-compute red-teaming.
-
-#### [Kazakhstan Expands Compute for Its AI Future](<https://blogs.nvidia.com/blog/kazakhstan-ai-compute-ecosystem>)
-
-NVIDIA · 2026-10-23
-
-> Kazakhstan’s AI ecosystem is moving from infrastructure plans to deployment. The shift is visible across the full AI stack — from infrastructure to models…
-
-#### [OpenAI and Poland’s NASK partner to advance AI safety and security](<https://openai.com/index/openai-nask-ai-safety-security-partnership>)
-
-OpenAI · 2026-10-23
-
-> OpenAI and Poland’s NASK are partnering on AI safety, security, and technical research to strengthen safeguards and support a more resilient digital ecosystem.
-
-#### [Build more responsive apps with the Decisions API](<https://openai.com/index/decisions-api>)
-
-OpenAI · 2026-10-22
-
-> Fast, focused, low-cost decisions for any application.
-
-#### [NVIDIA Unveils Minerva to Bring End-to-End Observability for AI Factories](<https://blogs.nvidia.com/blog/minerva-platform-infrastructure>)
-
-NVIDIA · 2026-10-22
-
-> Launched today, NVIDIA Minerva is an AIOps platform built to help teams find problems earlier and keep AI factories productive. It brings together telemetry…
-
-#### [Beyond tree cover: mapping the world’s forest types](<https://deepmind.google/blog/beyond-tree-cover-mapping-the-worlds-forest-types>)
-
-Google DeepMind · 2026-10-22
-
-> A global map categorizing every 10-meter patch of land on Earth into distinct forest types.
 
 ### Models with published weights
 
