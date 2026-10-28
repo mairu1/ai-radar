@@ -12,53 +12,83 @@ Publisher excerpts reflect their claims. Research entries are not independently 
 
 ### Company announcements
 
-#### [Greptile takes bug detection beyond code review with GPT-6 Astra](<https://openai.com/index/greptile-code-review-codex-astra>)
+#### [Legora is building the agentic operating system for legal work](<https://openai.com/index/legora-agentic-operating-system-for-legal-work>)
 
-OpenAI · 2026-10-26
+OpenAI · 2026-10-28
 
-> How Greptile uses GPT-6 Astra to test user workflows, Daybreak to strengthen security, and Codex to reduce rework.
+> See how Legora uses OpenAI models, ChatGPT, and Codex to accelerate legal workflows, expand contract analysis, and free lawyers to focus on higher-value work.
 
-#### [Our newest AI Quest: Mapping the human brain](<https://blog.google/products-and-platforms/products/education/ai-quests-polar-peaks>)
+#### [Genie 4: A new generation of world simulation](<https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation>)
 
-Google AI · 2026-10-26
+Google DeepMind · 2026-10-27
 
-> An illustration of a planet rotating to show various cartoon figures waving. At the top is the text "AI Quests"
+> Genie 4: our new world model unlocking unprecedented realism in real-time simulation.
 
-#### [Working with academic communities to build scientific understanding](<https://openai.com/index/building-scientific-understanding-with-academic-communities>)
+#### [How AI Is Changing the Pace of Discovery for Millions Living With Dementia](<https://blogs.nvidia.com/blog/open-source-ai-tools-cbrain-dementia>)
 
-OpenAI · 2026-10-26
+NVIDIA · 2026-10-27
 
-> OpenAI shares model results on the Kakeya conjecture, Exponential Time Hypothesis, and quantum chromodynamics—and how researchers can verify and build on them.
+> There are 57 million people worldwide living with dementia today. For the researchers working to help them, the obstacle isn’t a lack of effort…
 
-#### [GPT-6.1 Sol helps CodeRabbit strengthen security across complex codebases](<https://openai.com/index/gpt-6-1-sol-coderabbit-code-security>)
+#### [Retell uses OpenAI models to help power 100M monthly calls](<https://openai.com/index/retell-ai>)
 
-OpenAI · 2026-10-26
+OpenAI · 2026-10-27
 
-> CodeRabbit uses GPT-6.1 Sol to investigate security risks across complex codebases. Its security agent helps developers review findings and proposed fixes.
+> GPT-6 Astra tops Retell’s voice agent benchmark, while Codex helps it reach a $1.6M annual revenue run rate per employee.
 
-#### [ChatGPT’s expanding world of work](<https://openai.com/index/chatgpt-expanding-world-of-work>)
+#### [OpenAI expands partnership with Oracle to bring its apps to ChatGPT](<https://openai.com/index/oracle-apps-in-chatgpt>)
 
-OpenAI · 2026-10-26
+OpenAI · 2026-10-27
 
-> Explore OpenAI Signals data on 165 work activities across nearly 100 countries, revealing how people use ChatGPT for work and how usage changes over…
+> OpenAI and Oracle are expanding their partnership to bring business applications and AI agents into ChatGPT and power new Oracle offerings.
 
-#### [How Ultrafast cut incident investigation from hours to minutes at OpenAI](<https://openai.com/index/openai-cut-incident-investigation>)
+#### [Partnerships](<https://www.anthropic.com/news/partnerships>)
 
-OpenAI · 2026-10-26
+Anthropic · 2026-10-27
 
-> See how OpenAI engineers use Codex Ultrafast to investigate incidents in minutes. Explore faster security analysis, code refactoring, and daily workflows.
+#### [Expanding our partnership with GSA to bring Claude to all levels of government](<https://www.anthropic.com/news/expanding-partnership-gsa>)
 
-#### [How Fanatics and OpenAI streamline the fan experience](<https://openai.com/index/fanatics-streamline-fan-experience>)
+Anthropic · 2026-10-27
 
-OpenAI · 2026-10-26
+#### [How Check Point accelerates vulnerability research with Daybreak](<https://openai.com/index/check-point-daybreak>)
 
-> Fanatics uses OpenAI to help fans complete their game-day outfits with Shop the Look. Testing across roughly 30,000 MLB products showed 10% higher engagement.
+OpenAI · 2026-10-27
 
-#### [Anthropic files S-1 with the SEC for proposed initial public offering](<https://www.anthropic.com/news/s1-sec>)
-
-Anthropic · 2026-10-26
+> With OpenAI Daybreak, Check Point speeds up the research behind new security protections, enabling its analysts to turn vulnerability intelligence into customer defenses faster.
 
 ### Models with published weights
+
+#### [LiquidAI/LFM3-1.7B-Base](<https://huggingface.co/LiquidAI/LFM3-1.7B-Base>)
+
+LiquidAI · 2026-10-26
+
+Task: text-generation · License: lfm1.0 · Access: ungated
+
+Weight files found in the repository. Check its model card and license before use.
+
+#### [LiquidAI/LFM3-VL-2B-NVFP4](<https://huggingface.co/LiquidAI/LFM3-VL-2B-NVFP4>)
+
+LiquidAI · 2026-10-24
+
+Task: image-text-to-text · License: lfm1.0 · Access: ungated
+
+Weight files found in the repository. Check its model card and license before use.
+
+#### [LiquidAI/LFM3-1.7B-NVFP4](<https://huggingface.co/LiquidAI/LFM3-1.7B-NVFP4>)
+
+LiquidAI · 2026-10-24
+
+Task: text-generation · License: lfm1.0 · Access: ungated
+
+Weight files found in the repository. Check its model card and license before use.
+
+#### [LiquidAI/d1-Omni-2B](<https://huggingface.co/LiquidAI/d1-Omni-2B>)
+
+LiquidAI · 2026-10-24
+
+Task: audio-text-to-text · License: lfm1.0 · Access: ungated
+
+Weight files found in the repository. Check its model card and license before use.
 
 #### [LiquidAI/LFM2.5-24B-A2B-DSpark](<https://huggingface.co/LiquidAI/LFM2.5-24B-A2B-DSpark>)
 
@@ -92,87 +122,53 @@ Task: image-to-video · License: nvidia-open-model-license · Access: ungated
 
 Weight files found in the repository. Check its model card and license before use.
 
-#### [nvidia/cosmos3-nano-libero10-sdg-export-D2\_s43](<https://huggingface.co/nvidia/cosmos3-nano-libero10-sdg-export-D2_s43>)
-
-nvidia · 2026-10-19
-
-Task: robotics · License: nvidia-open-model-license · Access: ungated
-
-Weight files found in the repository. Check its model card and license before use.
-
-#### [deepseek-ai/DeepSeek-V4.1-Flash-1017](<https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017>)
-
-deepseek-ai · 2026-10-17
-
-Task: image-text-to-text · License: mit · Access: ungated
-
-Weight files found in the repository. Check its model card and license before use.
-
-#### [microsoft/Sentiment-Analysis-7B](<https://huggingface.co/microsoft/Sentiment-Analysis-7B>)
-
-microsoft · 2026-10-17
-
-Task: text-generation · License: mit · Access: ungated
-
-Weight files found in the repository. Check its model card and license before use.
-
-#### [nvidia/NVIDIA-Nemotron-Labs-Dory1.0-4B-NVFP4](<https://huggingface.co/nvidia/NVIDIA-Nemotron-Labs-Dory1.0-4B-NVFP4>)
-
-nvidia · 2026-10-16
-
-Task: text-generation · License: openmdw-1.1 · Access: ungated
-
-Weight files found in the repository. Check its model card and license before use.
-
 ### Research & engineering
 
-#### [RobustRLlib: A Unified Library and Benchmark for Robust Reinforcement Learning Algorithms](<https://arxiv.org/abs/2610.32971>)
+#### [Honeycomb-Surfels: Compact Hexagonal Primitives for Efficient Scene Rendering and Reconstruction](<https://arxiv.org/abs/2610.37668>)
 
-arXiv cs.AI · 2026-10-26 · **Preprint**
+arXiv cs.AI · 2026-10-28 · **Preprint**
 
-> arXiv:2610.32971v1 Announce Type: cross Abstract: Robust reinforcement learning (RL) is critical for reliable real-world deployment, where policies may fail under diverse shifts and disruptions.…
+> arXiv:2610.37668v1 Announce Type: cross Abstract: Novel view synthesis and 3D reconstruction have advanced rapidly with radiance fields and splatting, yet their memory and computational…
 
-#### [Do "True" and "False" Add Up to One? Complement Consistency in LLM-Agent Opinion Simulations](<https://arxiv.org/abs/2610.32874>)
+#### [ThinkWorld: World Imagination Reinforces Chain-of-Dynamics Reasoning](<https://arxiv.org/abs/2610.37666>)
 
-arXiv cs.AI · 2026-10-26 · **Preprint**
+arXiv cs.AI · 2026-10-28 · **Preprint**
 
-> arXiv:2610.32874v1 Announce Type: new Abstract: In LLM-agent opinion simulations, each agent reports the probability that a claim is true after seeing its own previous…
+> arXiv:2610.37666v1 Announce Type: cross Abstract: Vision-Language-Action (VLA) models have made substantial progress in robotic manipulation, but their generalization remains constrained by the diversity and…
 
-#### [Reimagining Enterprise RAG for Multi-Agent Systems: A Knowledge Layer That Organizes Before It Retrieves](<https://arxiv.org/abs/2610.32851>)
+#### [VideoLVR: Latent Visual Reasoning over Grounded Video Evidence](<https://arxiv.org/abs/2610.37613>)
 
-arXiv cs.AI · 2026-10-26 · **Preprint**
+arXiv cs.AI · 2026-10-28 · **Preprint**
 
-> arXiv:2610.32851v1 Announce Type: new Abstract: Enterprises are deploying agentic AI across the software development lifecycle, and they need the behavioral logic of the systems…
+> arXiv:2610.37613v1 Announce Type: cross Abstract: Chain-of-thought reasoning has substantially advanced video understanding in multimodal large language models (MLLMs). However, language-based reasoning traces do not…
 
-#### [ActionRAG: Evidence-Refining Graph Diffusion for Long-Term Memory in LLM Agents](<https://arxiv.org/abs/2610.32752>)
+#### [MoI-Bench: A Benchmark for Image Generation and Editing on Mobile Devices](<https://arxiv.org/abs/2610.37599>)
 
-arXiv cs.AI · 2026-10-26 · **Preprint**
+arXiv cs.AI · 2026-10-28 · **Preprint**
 
-> arXiv:2610.32752v1 Announce Type: new Abstract: LLM agents need long-term memory that can recover precise and mutually consistent evidence from growing interaction histories, particularly when…
+> arXiv:2610.37599v1 Announce Type: cross Abstract: Developing on-device image models requires considering practical user needs, task types and device resource constraints. However, existing benchmarks provide…
 
-#### [Adaptive World-Models for Anomaly Recognition (AWARE): A Framework for Robot Dynamics Prediction and Introspection](<https://arxiv.org/abs/2610.32742>)
+#### [When, Where, and What to Correct: Human-Guided Adaptive Residual Correction for Robot Policies](<https://arxiv.org/abs/2610.37547>)
 
-arXiv cs.AI · 2026-10-26 · **Preprint**
+arXiv cs.AI · 2026-10-28 · **Preprint**
 
-> arXiv:2610.32742v1 Announce Type: cross Abstract: Unrecognized anomalies in critical infrastructure can rapidly cascade into catastrophic physical or operational failures. Current anomaly detection approaches often…
+> arXiv:2610.37547v1 Announce Type: cross Abstract: Imitation policies that reliably execute most of a manipulation trajectory can still fail in localized regions requiring last-mile precision.…
 
-#### [Direct Pass@$k$ Optimization for Thought Pruning: Balancing Quality and Diversity in Test-Time Reasoning](<https://arxiv.org/abs/2610.31667>)
+#### [Build specialized multimodal models with LFM3](<https://huggingface.co/blog/LiquidAI/lfm3>)
 
-arXiv cs.AI · 2026-10-23 · **Preprint**
+Hugging Face · 2026-10-27
 
-> arXiv:2610.31667v1 Announce Type: new Abstract: Test-time scaling has emerged as a key inference strategy for reasoning models, where a model generates a large number…
+#### [Early progress on accelerating drug development with Claude](<https://www.anthropic.com/research/early-progress-drug-development>)
 
-#### [METTA: Memory-Enhanced Test-Time Adaptation for Meta-Reinforcement Learning](<https://arxiv.org/abs/2610.31656>)
+Anthropic Research · 2026-10-27
 
-arXiv cs.AI · 2026-10-23 · **Preprint**
+> Over the past several months, we’ve partnered with six organizations to accelerate curing disease. We’ve also started drug discovery efforts of our own, including…
 
-> arXiv:2610.31656v1 Announce Type: cross Abstract: Meta-reinforcement learning aims to train agents that adapt quickly to unseen tasks from limited interaction, but this requires representing…
+#### [How AI agents shape experts’ judgment calls](<https://www.anthropic.com/research/agents-judgment-calls>)
 
-#### [Would an LLM Match into a Residency? Uncertainty, Reasoning and Image Use of Open Language Models on the Spanish MIR Examination](<https://arxiv.org/abs/2610.31586>)
+Anthropic Research · 2026-10-27
 
-arXiv cs.AI · 2026-10-23 · **Preprint**
-
-> arXiv:2610.31586v1 Announce Type: cross Abstract: Accuracy on medical examinations is common evidence offered for the clinical use of language models, yet a health system…
+> In a randomized trial, professional analysts working with an AI coding agent went with the option the agent was randomly assigned to favor 86%…
 
 [Browse all daily digests](digests/README.md).
 <!-- radar:end -->
