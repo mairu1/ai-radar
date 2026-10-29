@@ -12,11 +12,45 @@ Publisher excerpts reflect their claims. Research entries are not independently 
 
 ### Company announcements
 
+#### [Mistral Large 4 (Le Chonk) is now open weight \| Mistral](<https://mistral.ai/news/mistral-large-4-oss>)
+
+Mistral AI · 2026-10-29
+
+> The weights of Mistral Large 4 (Le Chonk) are now open. A 1T parameter multimodal model, and best open-weight model for coding, trained in…
+
+#### [Gemini 4 Carbon: Our next frontier model](<https://deepmind.google/blog/gemini-4-carbon-our-next-frontier-model>)
+
+Google DeepMind · 2026-10-28
+
+#### [Thin, Light and Built for Everything: NVIDIA RTX Spark Windows Laptops Gain New Models, Agent Tools and Games](<https://blogs.nvidia.com/blog/local-ai-rtx-spark-laptops-updates-models-agents-games>)
+
+NVIDIA · 2026-10-28
+
+> NVIDIA RTX Spark powers thin and light laptops built for everything that developers, creators and gamers do. RTX Spark laptops are now available from…
+
+#### [OpenAI and ServiceNow expand partnership across enterprise workflows](<https://openai.com/index/openai-servicenow-partnership-expansion>)
+
+OpenAI · 2026-10-28
+
+> OpenAI and ServiceNow expand their partnership to bring OpenAI models and agents into ServiceNow and ServiceNow workflows into ChatGPT and Codex.
+
+#### [The future of the firm](<https://openai.com/index/the-future-of-the-firm>)
+
+OpenAI · 2026-10-28
+
+> How AI might enter the org chart—beneath, beside, and between us.
+
 #### [Legora is building the agentic operating system for legal work](<https://openai.com/index/legora-agentic-operating-system-for-legal-work>)
 
 OpenAI · 2026-10-28
 
 > See how Legora uses OpenAI models, ChatGPT, and Codex to accelerate legal workflows, expand contract analysis, and free lawyers to focus on higher-value work.
+
+#### [AI for Science expands to foundations and institutions](<https://www.anthropic.com/news/ai-for-science-expands-foundations-research-institutions>)
+
+Anthropic · 2026-10-28
+
+> We’re highlighting 20 scientific foundations, institutions, and research groups from around the world that we’ve partnered with in an expansion of our AI for…
 
 #### [Genie 4: A new generation of world simulation](<https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation>)
 
@@ -24,39 +58,15 @@ Google DeepMind · 2026-10-27
 
 > Genie 4: our new world model unlocking unprecedented realism in real-time simulation.
 
-#### [How AI Is Changing the Pace of Discovery for Millions Living With Dementia](<https://blogs.nvidia.com/blog/open-source-ai-tools-cbrain-dementia>)
-
-NVIDIA · 2026-10-27
-
-> There are 57 million people worldwide living with dementia today. For the researchers working to help them, the obstacle isn’t a lack of effort…
-
-#### [Retell uses OpenAI models to help power 100M monthly calls](<https://openai.com/index/retell-ai>)
-
-OpenAI · 2026-10-27
-
-> GPT-6 Astra tops Retell’s voice agent benchmark, while Codex helps it reach a $1.6M annual revenue run rate per employee.
-
-#### [OpenAI expands partnership with Oracle to bring its apps to ChatGPT](<https://openai.com/index/oracle-apps-in-chatgpt>)
-
-OpenAI · 2026-10-27
-
-> OpenAI and Oracle are expanding their partnership to bring business applications and AI agents into ChatGPT and power new Oracle offerings.
-
-#### [Partnerships](<https://www.anthropic.com/news/partnerships>)
-
-Anthropic · 2026-10-27
-
-#### [Expanding our partnership with GSA to bring Claude to all levels of government](<https://www.anthropic.com/news/expanding-partnership-gsa>)
-
-Anthropic · 2026-10-27
-
-#### [How Check Point accelerates vulnerability research with Daybreak](<https://openai.com/index/check-point-daybreak>)
-
-OpenAI · 2026-10-27
-
-> With OpenAI Daybreak, Check Point speeds up the research behind new security protections, enabling its analysts to turn vulnerability intelligence into customer defenses faster.
-
 ### Models with published weights
+
+#### [nvidia/Metatron-v1](<https://huggingface.co/nvidia/Metatron-v1>)
+
+nvidia · 2026-10-27
+
+Task: reinforcement-learning · License: nvidia-open-model-license · Access: ungated
+
+Weight files found in the repository. Check its model card and license before use.
 
 #### [LiquidAI/LFM3-1.7B-Base](<https://huggingface.co/LiquidAI/LFM3-1.7B-Base>)
 
@@ -114,15 +124,19 @@ Task: robotics · License: nvidia-open-model-license · Access: ungated
 
 Weight files found in the repository. Check its model card and license before use.
 
-#### [nvidia/Cosmos3-H-Dreams](<https://huggingface.co/nvidia/Cosmos3-H-Dreams>)
-
-nvidia · 2026-10-19
-
-Task: image-to-video · License: nvidia-open-model-license · Access: ungated
-
-Weight files found in the repository. Check its model card and license before use.
-
 ### Research & engineering
+
+#### [Welcome Le Chonk: Mistral Large 4 on Hugging Face](<https://huggingface.co/blog/mistral-large4>)
+
+Hugging Face · 2026-10-29
+
+#### [Introducing AnySpeechRecognizer and AnyDecisionModel: Open Models for Speech and Decisions on Apple Platforms](<https://huggingface.co/blog/anydecisionmodel>)
+
+Hugging Face · 2026-10-29
+
+#### [NVIDIA Nemotron 3.5 Transcribe and Granary v2: Intelligent Multilingual Transcription You Can Prompt and Adapt](<https://huggingface.co/blog/nvidia/nemotron-transcribe-granary>)
+
+Hugging Face · 2026-10-28
 
 #### [Honeycomb-Surfels: Compact Hexagonal Primitives for Efficient Scene Rendering and Reconstruction](<https://arxiv.org/abs/2610.37668>)
 
@@ -153,22 +167,6 @@ arXiv cs.AI · 2026-10-28 · **Preprint**
 arXiv cs.AI · 2026-10-28 · **Preprint**
 
 > arXiv:2610.37547v1 Announce Type: cross Abstract: Imitation policies that reliably execute most of a manipulation trajectory can still fail in localized regions requiring last-mile precision.…
-
-#### [Build specialized multimodal models with LFM3](<https://huggingface.co/blog/LiquidAI/lfm3>)
-
-Hugging Face · 2026-10-27
-
-#### [Early progress on accelerating drug development with Claude](<https://www.anthropic.com/research/early-progress-drug-development>)
-
-Anthropic Research · 2026-10-27
-
-> Over the past several months, we’ve partnered with six organizations to accelerate curing disease. We’ve also started drug discovery efforts of our own, including…
-
-#### [How AI agents shape experts’ judgment calls](<https://www.anthropic.com/research/agents-judgment-calls>)
-
-Anthropic Research · 2026-10-27
-
-> In a randomized trial, professional analysts working with an AI coding agent went with the option the agent was randomly assigned to favor 86%…
 
 [Browse all daily digests](digests/README.md).
 <!-- radar:end -->

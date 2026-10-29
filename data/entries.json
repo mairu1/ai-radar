@@ -1,5 +1,93 @@
 [
   {
+    "id": "https://mistral.ai/news/mistral-large-4-oss",
+    "title": "Mistral Large 4 (Le Chonk) is now open weight | Mistral",
+    "url": "https://mistral.ai/news/mistral-large-4-oss",
+    "source": "Mistral AI",
+    "category": "announcements",
+    "published": "2026-10-29T12:00:07+00:00",
+    "summary": "The weights of Mistral Large 4 (Le Chonk) are now open. A 1T parameter multimodal model, and best open-weight model for coding, trained in…",
+    "preprint": false,
+    "discovered": "2026-10-29"
+  },
+  {
+    "id": "https://huggingface.co/blog/mistral-large4",
+    "title": "Welcome Le Chonk: Mistral Large 4 on Hugging Face",
+    "url": "https://huggingface.co/blog/mistral-large4",
+    "source": "Hugging Face",
+    "category": "research",
+    "published": "2026-10-29T00:00:00+00:00",
+    "summary": "",
+    "preprint": false,
+    "discovered": "2026-10-29"
+  },
+  {
+    "id": "https://huggingface.co/blog/anydecisionmodel",
+    "title": "Introducing AnySpeechRecognizer and AnyDecisionModel: Open Models for Speech and Decisions on Apple Platforms",
+    "url": "https://huggingface.co/blog/anydecisionmodel",
+    "source": "Hugging Face",
+    "category": "research",
+    "published": "2026-10-29T00:00:00+00:00",
+    "summary": "",
+    "preprint": false,
+    "discovered": "2026-10-29"
+  },
+  {
+    "id": "https://deepmind.google/blog/gemini-4-carbon-our-next-frontier-model",
+    "title": "Gemini 4 Carbon: Our next frontier model",
+    "url": "https://deepmind.google/blog/gemini-4-carbon-our-next-frontier-model",
+    "source": "Google DeepMind",
+    "category": "announcements",
+    "published": "2026-10-28T17:00:58+00:00",
+    "summary": "",
+    "preprint": false,
+    "discovered": "2026-10-29"
+  },
+  {
+    "id": "https://blogs.nvidia.com/blog/local-ai-rtx-spark-laptops-updates-models-agents-games",
+    "title": "Thin, Light and Built for Everything: NVIDIA RTX Spark Windows Laptops Gain New Models, Agent Tools and Games",
+    "url": "https://blogs.nvidia.com/blog/local-ai-rtx-spark-laptops-updates-models-agents-games",
+    "source": "NVIDIA",
+    "category": "announcements",
+    "published": "2026-10-28T15:00:46+00:00",
+    "summary": "NVIDIA RTX Spark powers thin and light laptops built for everything that developers, creators and gamers do. RTX Spark laptops are now available from…",
+    "preprint": false,
+    "discovered": "2026-10-29"
+  },
+  {
+    "id": "https://huggingface.co/blog/nvidia/nemotron-transcribe-granary",
+    "title": "NVIDIA Nemotron 3.5 Transcribe and Granary v2: Intelligent Multilingual Transcription You Can Prompt and Adapt",
+    "url": "https://huggingface.co/blog/nvidia/nemotron-transcribe-granary",
+    "source": "Hugging Face",
+    "category": "research",
+    "published": "2026-10-28T14:58:17+00:00",
+    "summary": "",
+    "preprint": false,
+    "discovered": "2026-10-29"
+  },
+  {
+    "id": "https://openai.com/index/openai-servicenow-partnership-expansion",
+    "title": "OpenAI and ServiceNow expand partnership across enterprise workflows",
+    "url": "https://openai.com/index/openai-servicenow-partnership-expansion",
+    "source": "OpenAI",
+    "category": "announcements",
+    "published": "2026-10-28T13:15:00+00:00",
+    "summary": "OpenAI and ServiceNow expand their partnership to bring OpenAI models and agents into ServiceNow and ServiceNow workflows into ChatGPT and Codex.",
+    "preprint": false,
+    "discovered": "2026-10-29"
+  },
+  {
+    "id": "https://openai.com/index/the-future-of-the-firm",
+    "title": "The future of the firm",
+    "url": "https://openai.com/index/the-future-of-the-firm",
+    "source": "OpenAI",
+    "category": "announcements",
+    "published": "2026-10-28T10:00:00+00:00",
+    "summary": "How AI might enter the org chart—beneath, beside, and between us.",
+    "preprint": false,
+    "discovered": "2026-10-29"
+  },
+  {
     "id": "https://openai.com/index/legora-agentic-operating-system-for-legal-work",
     "title": "Legora is building the agentic operating system for legal work",
     "url": "https://openai.com/index/legora-agentic-operating-system-for-legal-work",
@@ -64,6 +152,31 @@
     "summary": "arXiv:2610.37547v1 Announce Type: cross Abstract: Imitation policies that reliably execute most of a manipulation trajectory can still fail in localized regions requiring last-mile precision.…",
     "preprint": true,
     "discovered": "2026-10-28"
+  },
+  {
+    "id": "https://www.anthropic.com/news/ai-for-science-expands-foundations-research-institutions",
+    "title": "AI for Science expands to foundations and institutions",
+    "url": "https://www.anthropic.com/news/ai-for-science-expands-foundations-research-institutions",
+    "source": "Anthropic",
+    "category": "announcements",
+    "published": "2026-10-28T00:00:00+00:00",
+    "summary": "We’re highlighting 20 scientific foundations, institutions, and research groups from around the world that we’ve partnered with in an expansion of our AI for…",
+    "preprint": false,
+    "discovered": "2026-10-29"
+  },
+  {
+    "id": "https://huggingface.co/nvidia/Metatron-v1",
+    "title": "nvidia/Metatron-v1",
+    "url": "https://huggingface.co/nvidia/Metatron-v1",
+    "source": "nvidia",
+    "category": "models",
+    "published": "2026-10-27T21:43:16+00:00",
+    "summary": "",
+    "license": "nvidia-open-model-license",
+    "task": "reinforcement-learning",
+    "gated": false,
+    "weight_files": 1,
+    "discovered": "2026-10-29"
   },
   {
     "id": "https://huggingface.co/blog/LiquidAI/lfm3",
@@ -1531,6 +1644,20 @@
     "summary": "",
     "preprint": false,
     "discovered": "2026-10-17"
+  },
+  {
+    "id": "https://huggingface.co/mistralai/Mistral-Large-4-1T-A52B-NVFP4",
+    "title": "mistralai/Mistral-Large-4-1T-A52B-NVFP4",
+    "url": "https://huggingface.co/mistralai/Mistral-Large-4-1T-A52B-NVFP4",
+    "source": "mistralai",
+    "category": "models",
+    "published": "2026-10-15T19:09:41+00:00",
+    "summary": "",
+    "license": "custom (see model card)",
+    "task": "not specified",
+    "gated": false,
+    "weight_files": 32,
+    "discovered": "2026-10-29"
   },
   {
     "id": "https://openai.com/index/introducing-the-rosalind-academic-plan",
