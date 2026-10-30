@@ -1,5 +1,107 @@
 [
   {
+    "id": "https://www.microsoft.com/en-us/research/blog/from-synthetic-enterprise-data-evaluations-to-real-microsoft-copilot-ai-confidence",
+    "title": "From synthetic enterprise data evaluations to real Microsoft Copilot AI confidence",
+    "url": "https://www.microsoft.com/en-us/research/blog/from-synthetic-enterprise-data-evaluations-to-real-microsoft-copilot-ai-confidence",
+    "source": "Microsoft Research",
+    "category": "research",
+    "published": "2026-10-30T13:05:28+00:00",
+    "summary": "Evaluating Microsoft Copilot at enterprise scale requires test data that captures the full complexity of real organizations, yet real enterprise data contains sensitive information…",
+    "preprint": false,
+    "discovered": "2026-10-30"
+  },
+  {
+    "id": "https://huggingface.co/microsoft/Mage-VL-Cowork",
+    "title": "microsoft/Mage-VL-Cowork",
+    "url": "https://huggingface.co/microsoft/Mage-VL-Cowork",
+    "source": "microsoft",
+    "category": "models",
+    "published": "2026-10-30T12:13:24+00:00",
+    "summary": "",
+    "license": "apache-2.0",
+    "task": "image-text-to-text",
+    "gated": false,
+    "weight_files": 2,
+    "discovered": "2026-10-30"
+  },
+  {
+    "id": "https://arxiv.org/abs/2610.40588",
+    "title": "Pre-Crime for Agents, at the Last Second: Probing When a Recruited Agent Gives In",
+    "url": "https://arxiv.org/abs/2610.40588",
+    "source": "arXiv cs.AI",
+    "category": "research",
+    "published": "2026-10-30T04:00:00+00:00",
+    "summary": "arXiv:2610.40588v1 Announce Type: new Abstract: When AI agents share channels and credentials, one agent can press another to break its operator's rule, a first…",
+    "preprint": true,
+    "discovered": "2026-10-30"
+  },
+  {
+    "id": "https://arxiv.org/abs/2610.40556",
+    "title": "Advancing Clinical Genomic Analysis with a Skill-Centred Agent",
+    "url": "https://arxiv.org/abs/2610.40556",
+    "source": "arXiv cs.AI",
+    "category": "research",
+    "published": "2026-10-30T04:00:00+00:00",
+    "summary": "arXiv:2610.40556v1 Announce Type: new Abstract: Clinical genomic analysis requires experts to integrate evolving guidelines, databases, and computational evidence. As sequencing has become increasingly accessible,…",
+    "preprint": true,
+    "discovered": "2026-10-30"
+  },
+  {
+    "id": "https://arxiv.org/abs/2610.40535",
+    "title": "Efficient Scalable Oversight via Rewinding",
+    "url": "https://arxiv.org/abs/2610.40535",
+    "source": "arXiv cs.AI",
+    "category": "research",
+    "published": "2026-10-30T04:00:00+00:00",
+    "summary": "arXiv:2610.40535v1 Announce Type: new Abstract: Scalable oversight asks how a weak verifier can check the outputs of computations performed by more powerful AI systems.…",
+    "preprint": true,
+    "discovered": "2026-10-30"
+  },
+  {
+    "id": "https://arxiv.org/abs/2610.40503",
+    "title": "Algebraic World Model: From Exploration to Proofs",
+    "url": "https://arxiv.org/abs/2610.40503",
+    "source": "arXiv cs.AI",
+    "category": "research",
+    "published": "2026-10-30T04:00:00+00:00",
+    "summary": "arXiv:2610.40503v1 Announce Type: new Abstract: AI has made remarkable progress in mathematics, solving challenging problems with machine-checkable proofs in Lean, yet typically relying on…",
+    "preprint": true,
+    "discovered": "2026-10-30"
+  },
+  {
+    "id": "https://arxiv.org/abs/2610.40418",
+    "title": "IMPACT: Inverter-Informed Multimodal Learning for Photovoltaic Generation Forecasting",
+    "url": "https://arxiv.org/abs/2610.40418",
+    "source": "arXiv cs.AI",
+    "category": "research",
+    "published": "2026-10-30T04:00:00+00:00",
+    "summary": "arXiv:2610.40418v1 Announce Type: cross Abstract: This work develops a physics-informed multimodal deep learning framework for 10- to 110-minute-ahead probabilistic photovoltaic power forecasting. The forecasting…",
+    "preprint": true,
+    "discovered": "2026-10-30"
+  },
+  {
+    "id": "https://www.microsoft.com/en-us/research/podcast/microsoft-research-focus-edition-97",
+    "title": "Microsoft Research Focus – Edition #97",
+    "url": "https://www.microsoft.com/en-us/research/podcast/microsoft-research-focus-edition-97",
+    "source": "Microsoft Research",
+    "category": "research",
+    "published": "2026-10-29T19:19:16+00:00",
+    "summary": "Host Sowbhagya Suresh shares some of the latest news and cutting-edge research from across Microsoft—from understanding the challenges facing coding agents to uncovering how…",
+    "preprint": false,
+    "discovered": "2026-10-30"
+  },
+  {
+    "id": "https://openai.com/index/updated-model-spec",
+    "title": "An updated Model Spec for more capable and beneficial AI",
+    "url": "https://openai.com/index/updated-model-spec",
+    "source": "OpenAI",
+    "category": "announcements",
+    "published": "2026-10-29T17:00:00+00:00",
+    "summary": "OpenAI’s updated Model Spec outlines five core values to guide more capable AI toward sound judgment, human agency, and faithfulness to human intent.",
+    "preprint": false,
+    "discovered": "2026-10-30"
+  },
+  {
     "id": "https://mistral.ai/news/mistral-large-4-oss",
     "title": "Mistral Large 4 (Le Chonk) is now open weight | Mistral",
     "url": "https://mistral.ai/news/mistral-large-4-oss",
@@ -9,6 +111,28 @@
     "summary": "The weights of Mistral Large 4 (Le Chonk) are now open. A 1T parameter multimodal model, and best open-weight model for coding, trained in…",
     "preprint": false,
     "discovered": "2026-10-29"
+  },
+  {
+    "id": "https://openai.com/index/how-we-detect-frontier-model-misalignment",
+    "title": "How we detect frontier model misalignment",
+    "url": "https://openai.com/index/how-we-detect-frontier-model-misalignment",
+    "source": "OpenAI",
+    "category": "announcements",
+    "published": "2026-10-29T09:00:00+00:00",
+    "summary": "OpenAI uses layered monitoring to detect frontier model misalignment and unauthorized agent behavior so responders can intervene before incidents escalate.",
+    "preprint": false,
+    "discovered": "2026-10-30"
+  },
+  {
+    "id": "https://openai.com/index/ropes-gray-ai-diligence",
+    "title": "How Ropes & Gray is developing AI for transactional diligence",
+    "url": "https://openai.com/index/ropes-gray-ai-diligence",
+    "source": "OpenAI",
+    "category": "announcements",
+    "published": "2026-10-29T07:00:00+00:00",
+    "summary": "Ropes & Gray is developing AI for transactional diligence with OpenAI. Lawyers review grouped documents, summaries, and reports before advising clients.",
+    "preprint": false,
+    "discovered": "2026-10-30"
   },
   {
     "id": "https://huggingface.co/blog/mistral-large4",
@@ -31,6 +155,17 @@
     "summary": "",
     "preprint": false,
     "discovered": "2026-10-29"
+  },
+  {
+    "id": "https://huggingface.co/blog/announcing-project-protostar",
+    "title": "Announcing Project ProtoStar: Making Publicly Funded Science AI-Ready",
+    "url": "https://huggingface.co/blog/announcing-project-protostar",
+    "source": "Hugging Face",
+    "category": "research",
+    "published": "2026-10-29T00:00:00+00:00",
+    "summary": "",
+    "preprint": false,
+    "discovered": "2026-10-30"
   },
   {
     "id": "https://deepmind.google/blog/gemini-4-carbon-our-next-frontier-model",

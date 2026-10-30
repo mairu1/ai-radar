@@ -12,11 +12,29 @@ Publisher excerpts reflect their claims. Research entries are not independently 
 
 ### Company announcements
 
+#### [An updated Model Spec for more capable and beneficial AI](<https://openai.com/index/updated-model-spec>)
+
+OpenAI · 2026-10-29
+
+> OpenAI’s updated Model Spec outlines five core values to guide more capable AI toward sound judgment, human agency, and faithfulness to human intent.
+
 #### [Mistral Large 4 (Le Chonk) is now open weight \| Mistral](<https://mistral.ai/news/mistral-large-4-oss>)
 
 Mistral AI · 2026-10-29
 
 > The weights of Mistral Large 4 (Le Chonk) are now open. A 1T parameter multimodal model, and best open-weight model for coding, trained in…
+
+#### [How we detect frontier model misalignment](<https://openai.com/index/how-we-detect-frontier-model-misalignment>)
+
+OpenAI · 2026-10-29
+
+> OpenAI uses layered monitoring to detect frontier model misalignment and unauthorized agent behavior so responders can intervene before incidents escalate.
+
+#### [How Ropes &amp; Gray is developing AI for transactional diligence](<https://openai.com/index/ropes-gray-ai-diligence>)
+
+OpenAI · 2026-10-29
+
+> Ropes &amp; Gray is developing AI for transactional diligence with OpenAI. Lawyers review grouped documents, summaries, and reports before advising clients.
 
 #### [Gemini 4 Carbon: Our next frontier model](<https://deepmind.google/blog/gemini-4-carbon-our-next-frontier-model>)
 
@@ -40,25 +58,15 @@ OpenAI · 2026-10-28
 
 > How AI might enter the org chart—beneath, beside, and between us.
 
-#### [Legora is building the agentic operating system for legal work](<https://openai.com/index/legora-agentic-operating-system-for-legal-work>)
-
-OpenAI · 2026-10-28
-
-> See how Legora uses OpenAI models, ChatGPT, and Codex to accelerate legal workflows, expand contract analysis, and free lawyers to focus on higher-value work.
-
-#### [AI for Science expands to foundations and institutions](<https://www.anthropic.com/news/ai-for-science-expands-foundations-research-institutions>)
-
-Anthropic · 2026-10-28
-
-> We’re highlighting 20 scientific foundations, institutions, and research groups from around the world that we’ve partnered with in an expansion of our AI for…
-
-#### [Genie 4: A new generation of world simulation](<https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation>)
-
-Google DeepMind · 2026-10-27
-
-> Genie 4: our new world model unlocking unprecedented realism in real-time simulation.
-
 ### Models with published weights
+
+#### [microsoft/Mage-VL-Cowork](<https://huggingface.co/microsoft/Mage-VL-Cowork>)
+
+microsoft · 2026-10-30
+
+Task: image-text-to-text · License: apache-2.0 · Access: ungated
+
+Weight files found in the repository. Check its model card and license before use.
 
 #### [nvidia/Metatron-v1](<https://huggingface.co/nvidia/Metatron-v1>)
 
@@ -116,57 +124,53 @@ Task: robotics · License: nvidia-open-model-license · Access: ungated
 
 Weight files found in the repository. Check its model card and license before use.
 
-#### [nvidia/Cosmos3-H-Embodied-Nano](<https://huggingface.co/nvidia/Cosmos3-H-Embodied-Nano>)
-
-nvidia · 2026-10-19
-
-Task: robotics · License: nvidia-open-model-license · Access: ungated
-
-Weight files found in the repository. Check its model card and license before use.
-
 ### Research & engineering
+
+#### [From synthetic enterprise data evaluations to real Microsoft Copilot AI confidence](<https://www.microsoft.com/en-us/research/blog/from-synthetic-enterprise-data-evaluations-to-real-microsoft-copilot-ai-confidence>)
+
+Microsoft Research · 2026-10-30
+
+> Evaluating Microsoft Copilot at enterprise scale requires test data that captures the full complexity of real organizations, yet real enterprise data contains sensitive information…
+
+#### [Pre-Crime for Agents, at the Last Second: Probing When a Recruited Agent Gives In](<https://arxiv.org/abs/2610.40588>)
+
+arXiv cs.AI · 2026-10-30 · **Preprint**
+
+> arXiv:2610.40588v1 Announce Type: new Abstract: When AI agents share channels and credentials, one agent can press another to break its operator's rule, a first…
+
+#### [Advancing Clinical Genomic Analysis with a Skill-Centred Agent](<https://arxiv.org/abs/2610.40556>)
+
+arXiv cs.AI · 2026-10-30 · **Preprint**
+
+> arXiv:2610.40556v1 Announce Type: new Abstract: Clinical genomic analysis requires experts to integrate evolving guidelines, databases, and computational evidence. As sequencing has become increasingly accessible,…
+
+#### [Efficient Scalable Oversight via Rewinding](<https://arxiv.org/abs/2610.40535>)
+
+arXiv cs.AI · 2026-10-30 · **Preprint**
+
+> arXiv:2610.40535v1 Announce Type: new Abstract: Scalable oversight asks how a weak verifier can check the outputs of computations performed by more powerful AI systems.…
+
+#### [Algebraic World Model: From Exploration to Proofs](<https://arxiv.org/abs/2610.40503>)
+
+arXiv cs.AI · 2026-10-30 · **Preprint**
+
+> arXiv:2610.40503v1 Announce Type: new Abstract: AI has made remarkable progress in mathematics, solving challenging problems with machine-checkable proofs in Lean, yet typically relying on…
+
+#### [IMPACT: Inverter-Informed Multimodal Learning for Photovoltaic Generation Forecasting](<https://arxiv.org/abs/2610.40418>)
+
+arXiv cs.AI · 2026-10-30 · **Preprint**
+
+> arXiv:2610.40418v1 Announce Type: cross Abstract: This work develops a physics-informed multimodal deep learning framework for 10- to 110-minute-ahead probabilistic photovoltaic power forecasting. The forecasting…
+
+#### [Microsoft Research Focus – Edition #97](<https://www.microsoft.com/en-us/research/podcast/microsoft-research-focus-edition-97>)
+
+Microsoft Research · 2026-10-29
+
+> Host Sowbhagya Suresh shares some of the latest news and cutting-edge research from across Microsoft—from understanding the challenges facing coding agents to uncovering how…
 
 #### [Welcome Le Chonk: Mistral Large 4 on Hugging Face](<https://huggingface.co/blog/mistral-large4>)
 
 Hugging Face · 2026-10-29
-
-#### [Introducing AnySpeechRecognizer and AnyDecisionModel: Open Models for Speech and Decisions on Apple Platforms](<https://huggingface.co/blog/anydecisionmodel>)
-
-Hugging Face · 2026-10-29
-
-#### [NVIDIA Nemotron 3.5 Transcribe and Granary v2: Intelligent Multilingual Transcription You Can Prompt and Adapt](<https://huggingface.co/blog/nvidia/nemotron-transcribe-granary>)
-
-Hugging Face · 2026-10-28
-
-#### [Honeycomb-Surfels: Compact Hexagonal Primitives for Efficient Scene Rendering and Reconstruction](<https://arxiv.org/abs/2610.37668>)
-
-arXiv cs.AI · 2026-10-28 · **Preprint**
-
-> arXiv:2610.37668v1 Announce Type: cross Abstract: Novel view synthesis and 3D reconstruction have advanced rapidly with radiance fields and splatting, yet their memory and computational…
-
-#### [ThinkWorld: World Imagination Reinforces Chain-of-Dynamics Reasoning](<https://arxiv.org/abs/2610.37666>)
-
-arXiv cs.AI · 2026-10-28 · **Preprint**
-
-> arXiv:2610.37666v1 Announce Type: cross Abstract: Vision-Language-Action (VLA) models have made substantial progress in robotic manipulation, but their generalization remains constrained by the diversity and…
-
-#### [VideoLVR: Latent Visual Reasoning over Grounded Video Evidence](<https://arxiv.org/abs/2610.37613>)
-
-arXiv cs.AI · 2026-10-28 · **Preprint**
-
-> arXiv:2610.37613v1 Announce Type: cross Abstract: Chain-of-thought reasoning has substantially advanced video understanding in multimodal large language models (MLLMs). However, language-based reasoning traces do not…
-
-#### [MoI-Bench: A Benchmark for Image Generation and Editing on Mobile Devices](<https://arxiv.org/abs/2610.37599>)
-
-arXiv cs.AI · 2026-10-28 · **Preprint**
-
-> arXiv:2610.37599v1 Announce Type: cross Abstract: Developing on-device image models requires considering practical user needs, task types and device resource constraints. However, existing benchmarks provide…
-
-#### [When, Where, and What to Correct: Human-Guided Adaptive Residual Correction for Robot Policies](<https://arxiv.org/abs/2610.37547>)
-
-arXiv cs.AI · 2026-10-28 · **Preprint**
-
-> arXiv:2610.37547v1 Announce Type: cross Abstract: Imitation policies that reliably execute most of a manipulation trajectory can still fail in localized regions requiring last-mile precision.…
 
 [Browse all daily digests](digests/README.md).
 <!-- radar:end -->
