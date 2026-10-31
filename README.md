@@ -12,6 +12,30 @@ Publisher excerpts reflect their claims. Research entries are not independently 
 
 ### Company announcements
 
+#### [Things That Go Beep in the Night: Agentic AI Joins the Search for Extraterrestrial Signals](<https://blogs.nvidia.com/blog/ai-joins-the-search-for-extraterrestrial-signals>)
+
+NVIDIA · 2026-10-30
+
+> While science fiction lore tells us that humans will meet extraterrestrial life in the form of little green men, the detail that should raise…
+
+#### [Making it easier for websites to express AI training preferences](<https://openai.com/index/helping-websites-express-ai-training-preferences>)
+
+OpenAI · 2026-10-30
+
+> OpenAI will honor a shared robots.txt signal to help website operators communicate their AI training preferences to participating providers.
+
+#### [Community safety report and new protections for teens](<https://openai.com/index/community-safety-report-and-new-protections-for-teens>)
+
+OpenAI · 2026-10-30
+
+> OpenAI is strengthening violence prevention in ChatGPT with expanded safeguards, earlier interventions, and a new commitment to public safety reporting.
+
+#### [Fair use benefits everyone](<https://openai.com/index/fair-use-benefits-everyone>)
+
+OpenAI · 2026-10-30
+
+> OpenAI shares excerpts from court briefs by creators, academics, accessibility advocates, and legal experts, among others, on how fair use supports AI training and…
+
 #### [An updated Model Spec for more capable and beneficial AI](<https://openai.com/index/updated-model-spec>)
 
 OpenAI · 2026-10-29
@@ -36,29 +60,15 @@ OpenAI · 2026-10-29
 
 > Ropes &amp; Gray is developing AI for transactional diligence with OpenAI. Lawyers review grouped documents, summaries, and reports before advising clients.
 
-#### [Gemini 4 Carbon: Our next frontier model](<https://deepmind.google/blog/gemini-4-carbon-our-next-frontier-model>)
-
-Google DeepMind · 2026-10-28
-
-#### [Thin, Light and Built for Everything: NVIDIA RTX Spark Windows Laptops Gain New Models, Agent Tools and Games](<https://blogs.nvidia.com/blog/local-ai-rtx-spark-laptops-updates-models-agents-games>)
-
-NVIDIA · 2026-10-28
-
-> NVIDIA RTX Spark powers thin and light laptops built for everything that developers, creators and gamers do. RTX Spark laptops are now available from…
-
-#### [OpenAI and ServiceNow expand partnership across enterprise workflows](<https://openai.com/index/openai-servicenow-partnership-expansion>)
-
-OpenAI · 2026-10-28
-
-> OpenAI and ServiceNow expand their partnership to bring OpenAI models and agents into ServiceNow and ServiceNow workflows into ChatGPT and Codex.
-
-#### [The future of the firm](<https://openai.com/index/the-future-of-the-firm>)
-
-OpenAI · 2026-10-28
-
-> How AI might enter the org chart—beneath, beside, and between us.
-
 ### Models with published weights
+
+#### [nvidia/DeepSeek-V4.1-Flash-1017-NVFP4](<https://huggingface.co/nvidia/DeepSeek-V4.1-Flash-1017-NVFP4>)
+
+nvidia · 2026-10-30
+
+Task: image-text-to-text · License: mit · Access: ungated
+
+Weight files found in the repository. Check its model card and license before use.
 
 #### [microsoft/Mage-VL-Cowork](<https://huggingface.co/microsoft/Mage-VL-Cowork>)
 
@@ -116,15 +126,11 @@ Task: text-generation · License: lfm1.0 · Access: ungated
 
 Weight files found in the repository. Check its model card and license before use.
 
-#### [nvidia/cosmos3-nano-libero10-sdg-export-S5\_2\_s43](<https://huggingface.co/nvidia/cosmos3-nano-libero10-sdg-export-S5_2_s43>)
-
-nvidia · 2026-10-19
-
-Task: robotics · License: nvidia-open-model-license · Access: ungated
-
-Weight files found in the repository. Check its model card and license before use.
-
 ### Research & engineering
+
+#### [nemotron-halloween](<https://huggingface.co/blog/nvidia/nemotron-halloween>)
+
+Hugging Face · 2026-10-30
 
 #### [From synthetic enterprise data evaluations to real Microsoft Copilot AI confidence](<https://www.microsoft.com/en-us/research/blog/from-synthetic-enterprise-data-evaluations-to-real-microsoft-copilot-ai-confidence>)
 
@@ -167,10 +173,6 @@ arXiv cs.AI · 2026-10-30 · **Preprint**
 Microsoft Research · 2026-10-29
 
 > Host Sowbhagya Suresh shares some of the latest news and cutting-edge research from across Microsoft—from understanding the challenges facing coding agents to uncovering how…
-
-#### [Welcome Le Chonk: Mistral Large 4 on Hugging Face](<https://huggingface.co/blog/mistral-large4>)
-
-Hugging Face · 2026-10-29
 
 [Browse all daily digests](digests/README.md).
 <!-- radar:end -->

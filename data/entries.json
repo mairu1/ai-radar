@@ -1,5 +1,41 @@
 [
   {
+    "id": "https://huggingface.co/blog/nvidia/nemotron-halloween",
+    "title": "nemotron-halloween",
+    "url": "https://huggingface.co/blog/nvidia/nemotron-halloween",
+    "source": "Hugging Face",
+    "category": "research",
+    "published": "2026-10-30T17:57:24+00:00",
+    "summary": "",
+    "preprint": false,
+    "discovered": "2026-10-31"
+  },
+  {
+    "id": "https://huggingface.co/nvidia/DeepSeek-V4.1-Flash-1017-NVFP4",
+    "title": "nvidia/DeepSeek-V4.1-Flash-1017-NVFP4",
+    "url": "https://huggingface.co/nvidia/DeepSeek-V4.1-Flash-1017-NVFP4",
+    "source": "nvidia",
+    "category": "models",
+    "published": "2026-10-30T17:37:02+00:00",
+    "summary": "",
+    "license": "mit",
+    "task": "image-text-to-text",
+    "gated": false,
+    "weight_files": 48,
+    "discovered": "2026-10-31"
+  },
+  {
+    "id": "https://blogs.nvidia.com/blog/ai-joins-the-search-for-extraterrestrial-signals",
+    "title": "Things That Go Beep in the Night: Agentic AI Joins the Search for Extraterrestrial Signals",
+    "url": "https://blogs.nvidia.com/blog/ai-joins-the-search-for-extraterrestrial-signals",
+    "source": "NVIDIA",
+    "category": "announcements",
+    "published": "2026-10-30T15:00:10+00:00",
+    "summary": "While science fiction lore tells us that humans will meet extraterrestrial life in the form of little green men, the detail that should raise…",
+    "preprint": false,
+    "discovered": "2026-10-31"
+  },
+  {
     "id": "https://www.microsoft.com/en-us/research/blog/from-synthetic-enterprise-data-evaluations-to-real-microsoft-copilot-ai-confidence",
     "title": "From synthetic enterprise data evaluations to real Microsoft Copilot AI confidence",
     "url": "https://www.microsoft.com/en-us/research/blog/from-synthetic-enterprise-data-evaluations-to-real-microsoft-copilot-ai-confidence",
@@ -23,6 +59,28 @@
     "gated": false,
     "weight_files": 2,
     "discovered": "2026-10-30"
+  },
+  {
+    "id": "https://openai.com/index/helping-websites-express-ai-training-preferences",
+    "title": "Making it easier for websites to express AI training preferences",
+    "url": "https://openai.com/index/helping-websites-express-ai-training-preferences",
+    "source": "OpenAI",
+    "category": "announcements",
+    "published": "2026-10-30T09:30:00+00:00",
+    "summary": "OpenAI will honor a shared robots.txt signal to help website operators communicate their AI training preferences to participating providers.",
+    "preprint": false,
+    "discovered": "2026-10-31"
+  },
+  {
+    "id": "https://openai.com/index/community-safety-report-and-new-protections-for-teens",
+    "title": "Community safety report and new protections for teens",
+    "url": "https://openai.com/index/community-safety-report-and-new-protections-for-teens",
+    "source": "OpenAI",
+    "category": "announcements",
+    "published": "2026-10-30T09:00:00+00:00",
+    "summary": "OpenAI is strengthening violence prevention in ChatGPT with expanded safeguards, earlier interventions, and a new commitment to public safety reporting.",
+    "preprint": false,
+    "discovered": "2026-10-31"
   },
   {
     "id": "https://arxiv.org/abs/2610.40588",
@@ -78,6 +136,17 @@
     "summary": "arXiv:2610.40418v1 Announce Type: cross Abstract: This work develops a physics-informed multimodal deep learning framework for 10- to 110-minute-ahead probabilistic photovoltaic power forecasting. The forecasting…",
     "preprint": true,
     "discovered": "2026-10-30"
+  },
+  {
+    "id": "https://openai.com/index/fair-use-benefits-everyone",
+    "title": "Fair use benefits everyone",
+    "url": "https://openai.com/index/fair-use-benefits-everyone",
+    "source": "OpenAI",
+    "category": "announcements",
+    "published": "2026-10-30T00:00:00+00:00",
+    "summary": "OpenAI shares excerpts from court briefs by creators, academics, accessibility advocates, and legal experts, among others, on how fair use supports AI training and…",
+    "preprint": false,
+    "discovered": "2026-10-31"
   },
   {
     "id": "https://www.microsoft.com/en-us/research/podcast/microsoft-research-focus-edition-97",
