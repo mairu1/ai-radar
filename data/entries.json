@@ -1,5 +1,71 @@
 [
   {
+    "id": "https://openai.com/index/grid-protectors-program",
+    "title": "Introducing the Grid Protectors Program",
+    "url": "https://openai.com/index/grid-protectors-program",
+    "source": "OpenAI",
+    "category": "announcements",
+    "published": "2026-11-02T15:00:00+00:00",
+    "summary": "OpenAI’s Grid Protectors Program will work with utilities to help future compute campuses support grid reliability and protect consumer electricity costs.",
+    "preprint": false,
+    "discovered": "2026-11-02"
+  },
+  {
+    "id": "https://arxiv.org/abs/2610.42147",
+    "title": "Latent Sparse Attention: Towards Subquadratic Ultra-Long Context Attention",
+    "url": "https://arxiv.org/abs/2610.42147",
+    "source": "arXiv cs.AI",
+    "category": "research",
+    "published": "2026-11-02T05:00:00+00:00",
+    "summary": "arXiv:2610.42147v1 Announce Type: new Abstract: Agentic workflows are increasingly shifting towards long-horizon tasks, such as open-ended scientific work, where models benefit from long context…",
+    "preprint": true,
+    "discovered": "2026-11-02"
+  },
+  {
+    "id": "https://arxiv.org/abs/2610.42054",
+    "title": "CRoS: Causality Reward on Scrambled CoTs Improves Accuracy and Reasoning Faithfulness",
+    "url": "https://arxiv.org/abs/2610.42054",
+    "source": "arXiv cs.AI",
+    "category": "research",
+    "published": "2026-11-02T05:00:00+00:00",
+    "summary": "arXiv:2610.42054v1 Announce Type: cross Abstract: Reinforcement learning with verifiable rewards (RLVR) has become the standard method for training language models to reason. However, RLVR…",
+    "preprint": true,
+    "discovered": "2026-11-02"
+  },
+  {
+    "id": "https://arxiv.org/abs/2610.42030",
+    "title": "There Is No Free Loop: When Does Looping a Trained Model Pay for Its Inference Compute?",
+    "url": "https://arxiv.org/abs/2610.42030",
+    "source": "arXiv cs.AI",
+    "category": "research",
+    "published": "2026-11-02T05:00:00+00:00",
+    "summary": "arXiv:2610.42030v1 Announce Type: cross Abstract: Looping re-applies a block of layers so that each token passes through the block more than once. Adding a…",
+    "preprint": true,
+    "discovered": "2026-11-02"
+  },
+  {
+    "id": "https://arxiv.org/abs/2610.42004",
+    "title": "TradeWar: A Benchmark for Execution-Grounded Trade Negotiation with Adaptive LLM Agents",
+    "url": "https://arxiv.org/abs/2610.42004",
+    "source": "arXiv cs.AI",
+    "category": "research",
+    "published": "2026-11-02T05:00:00+00:00",
+    "summary": "arXiv:2610.42004v1 Announce Type: new Abstract: Multi-turn negotiation remains a challenging problem for large language model (LLM) agents. While LLMs can conduct natural-language dialogue, existing…",
+    "preprint": true,
+    "discovered": "2026-11-02"
+  },
+  {
+    "id": "https://arxiv.org/abs/2610.41968",
+    "title": "Prune Gradually, Adapt Sparsely: Efficient Pruning of Large Language Models at Extreme Sparsity",
+    "url": "https://arxiv.org/abs/2610.41968",
+    "source": "arXiv cs.AI",
+    "category": "research",
+    "published": "2026-11-02T05:00:00+00:00",
+    "summary": "arXiv:2610.41968v1 Announce Type: new Abstract: Weight pruning can reduce the storage and inference cost of large language models (LLMs), but preserving quality at high…",
+    "preprint": true,
+    "discovered": "2026-11-02"
+  },
+  {
     "id": "https://huggingface.co/blog/nvidia/nemotron-halloween",
     "title": "nemotron-halloween",
     "url": "https://huggingface.co/blog/nvidia/nemotron-halloween",
@@ -34,6 +100,17 @@
     "summary": "While science fiction lore tells us that humans will meet extraterrestrial life in the form of little green men, the detail that should raise…",
     "preprint": false,
     "discovered": "2026-10-31"
+  },
+  {
+    "id": "https://deepmind.google/blog/speeding-up-planning-decisions-with-ai",
+    "title": "Speeding up planning decisions with AI",
+    "url": "https://deepmind.google/blog/speeding-up-planning-decisions-with-ai",
+    "source": "Google DeepMind",
+    "category": "announcements",
+    "published": "2026-10-30T14:18:30+00:00",
+    "summary": "Google DeepMind and UK government work together to reduce planning assessment times",
+    "preprint": false,
+    "discovered": "2026-11-02"
   },
   {
     "id": "https://www.microsoft.com/en-us/research/blog/from-synthetic-enterprise-data-evaluations-to-real-microsoft-copilot-ai-confidence",

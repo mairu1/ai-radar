@@ -12,11 +12,23 @@ Publisher excerpts reflect their claims. Research entries are not independently 
 
 ### Company announcements
 
+#### [Introducing the Grid Protectors Program](<https://openai.com/index/grid-protectors-program>)
+
+OpenAI · 2026-11-02
+
+> OpenAI’s Grid Protectors Program will work with utilities to help future compute campuses support grid reliability and protect consumer electricity costs.
+
 #### [Things That Go Beep in the Night: Agentic AI Joins the Search for Extraterrestrial Signals](<https://blogs.nvidia.com/blog/ai-joins-the-search-for-extraterrestrial-signals>)
 
 NVIDIA · 2026-10-30
 
 > While science fiction lore tells us that humans will meet extraterrestrial life in the form of little green men, the detail that should raise…
+
+#### [Speeding up planning decisions with AI](<https://deepmind.google/blog/speeding-up-planning-decisions-with-ai>)
+
+Google DeepMind · 2026-10-30
+
+> Google DeepMind and UK government work together to reduce planning assessment times
 
 #### [Making it easier for websites to express AI training preferences](<https://openai.com/index/helping-websites-express-ai-training-preferences>)
 
@@ -47,18 +59,6 @@ OpenAI · 2026-10-29
 Mistral AI · 2026-10-29
 
 > The weights of Mistral Large 4 (Le Chonk) are now open. A 1T parameter multimodal model, and best open-weight model for coding, trained in…
-
-#### [How we detect frontier model misalignment](<https://openai.com/index/how-we-detect-frontier-model-misalignment>)
-
-OpenAI · 2026-10-29
-
-> OpenAI uses layered monitoring to detect frontier model misalignment and unauthorized agent behavior so responders can intervene before incidents escalate.
-
-#### [How Ropes &amp; Gray is developing AI for transactional diligence](<https://openai.com/index/ropes-gray-ai-diligence>)
-
-OpenAI · 2026-10-29
-
-> Ropes &amp; Gray is developing AI for transactional diligence with OpenAI. Lawyers review grouped documents, summaries, and reports before advising clients.
 
 ### Models with published weights
 
@@ -128,6 +128,36 @@ Weight files found in the repository. Check its model card and license before us
 
 ### Research & engineering
 
+#### [Latent Sparse Attention: Towards Subquadratic Ultra-Long Context Attention](<https://arxiv.org/abs/2610.42147>)
+
+arXiv cs.AI · 2026-11-02 · **Preprint**
+
+> arXiv:2610.42147v1 Announce Type: new Abstract: Agentic workflows are increasingly shifting towards long-horizon tasks, such as open-ended scientific work, where models benefit from long context…
+
+#### [CRoS: Causality Reward on Scrambled CoTs Improves Accuracy and Reasoning Faithfulness](<https://arxiv.org/abs/2610.42054>)
+
+arXiv cs.AI · 2026-11-02 · **Preprint**
+
+> arXiv:2610.42054v1 Announce Type: cross Abstract: Reinforcement learning with verifiable rewards (RLVR) has become the standard method for training language models to reason. However, RLVR…
+
+#### [There Is No Free Loop: When Does Looping a Trained Model Pay for Its Inference Compute?](<https://arxiv.org/abs/2610.42030>)
+
+arXiv cs.AI · 2026-11-02 · **Preprint**
+
+> arXiv:2610.42030v1 Announce Type: cross Abstract: Looping re-applies a block of layers so that each token passes through the block more than once. Adding a…
+
+#### [TradeWar: A Benchmark for Execution-Grounded Trade Negotiation with Adaptive LLM Agents](<https://arxiv.org/abs/2610.42004>)
+
+arXiv cs.AI · 2026-11-02 · **Preprint**
+
+> arXiv:2610.42004v1 Announce Type: new Abstract: Multi-turn negotiation remains a challenging problem for large language model (LLM) agents. While LLMs can conduct natural-language dialogue, existing…
+
+#### [Prune Gradually, Adapt Sparsely: Efficient Pruning of Large Language Models at Extreme Sparsity](<https://arxiv.org/abs/2610.41968>)
+
+arXiv cs.AI · 2026-11-02 · **Preprint**
+
+> arXiv:2610.41968v1 Announce Type: new Abstract: Weight pruning can reduce the storage and inference cost of large language models (LLMs), but preserving quality at high…
+
 #### [nemotron-halloween](<https://huggingface.co/blog/nvidia/nemotron-halloween>)
 
 Hugging Face · 2026-10-30
@@ -143,36 +173,6 @@ Microsoft Research · 2026-10-30
 arXiv cs.AI · 2026-10-30 · **Preprint**
 
 > arXiv:2610.40588v1 Announce Type: new Abstract: When AI agents share channels and credentials, one agent can press another to break its operator's rule, a first…
-
-#### [Advancing Clinical Genomic Analysis with a Skill-Centred Agent](<https://arxiv.org/abs/2610.40556>)
-
-arXiv cs.AI · 2026-10-30 · **Preprint**
-
-> arXiv:2610.40556v1 Announce Type: new Abstract: Clinical genomic analysis requires experts to integrate evolving guidelines, databases, and computational evidence. As sequencing has become increasingly accessible,…
-
-#### [Efficient Scalable Oversight via Rewinding](<https://arxiv.org/abs/2610.40535>)
-
-arXiv cs.AI · 2026-10-30 · **Preprint**
-
-> arXiv:2610.40535v1 Announce Type: new Abstract: Scalable oversight asks how a weak verifier can check the outputs of computations performed by more powerful AI systems.…
-
-#### [Algebraic World Model: From Exploration to Proofs](<https://arxiv.org/abs/2610.40503>)
-
-arXiv cs.AI · 2026-10-30 · **Preprint**
-
-> arXiv:2610.40503v1 Announce Type: new Abstract: AI has made remarkable progress in mathematics, solving challenging problems with machine-checkable proofs in Lean, yet typically relying on…
-
-#### [IMPACT: Inverter-Informed Multimodal Learning for Photovoltaic Generation Forecasting](<https://arxiv.org/abs/2610.40418>)
-
-arXiv cs.AI · 2026-10-30 · **Preprint**
-
-> arXiv:2610.40418v1 Announce Type: cross Abstract: This work develops a physics-informed multimodal deep learning framework for 10- to 110-minute-ahead probabilistic photovoltaic power forecasting. The forecasting…
-
-#### [Microsoft Research Focus – Edition #97](<https://www.microsoft.com/en-us/research/podcast/microsoft-research-focus-edition-97>)
-
-Microsoft Research · 2026-10-29
-
-> Host Sowbhagya Suresh shares some of the latest news and cutting-edge research from across Microsoft—from understanding the challenges facing coding agents to uncovering how…
 
 [Browse all daily digests](digests/README.md).
 <!-- radar:end -->
