@@ -12,53 +12,53 @@ Publisher excerpts reflect their claims. Research entries are not independently 
 
 ### Company announcements
 
+#### [Heimstaden is changing residential real estate management with AI](<https://openai.com/index/heimstaden>)
+
+OpenAI · 2026-11-03
+
+> Discover how Heimstaden uses OpenAI’s ChatGPT Enterprise and Codex to transform property management, cut costs, and empower employees across Europe.
+
+#### [Cities Worldwide Build and Scale AI Services With NVIDIA Physical and Agentic AI](<https://blogs.nvidia.com/blog/cities-physical-agentic-ai-applications>)
+
+NVIDIA · 2026-11-03
+
+> Cities generate enormous amounts of data from cameras, sensors and operational systems, but turning it into useful action — for planning, maintenance and public…
+
+#### [Rewarding defenders with bigger bug bounties](<https://openai.com/index/rewarding-defenders-with-bigger-bug-bounties>)
+
+OpenAI · 2026-11-02
+
+> OpenAI is raising Security Bug Bounty rewards and introducing report quality, loyalty, and priority campaign bonuses for independent security researchers.
+
+#### [Preparing our next security sprint to harden OpenAI](<https://openai.com/index/preparing-our-next-security-sprint-to-harden-openai>)
+
+OpenAI · 2026-11-02
+
+> OpenAI is preparing its next internal security sprint with Cathedral Systems to test and strengthen its defenses using AI.
+
+#### [The latest AI news we announced in October 2026](<https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-october-2026>)
+
+Google AI · 2026-11-02
+
+> Animated carousel of images from AI posts in October
+
+#### [Scaling Git at OpenAI](<https://openai.com/index/scaling-git-at-openai>)
+
+OpenAI · 2026-11-02
+
+> How OpenAI built Pando, a Git-compatible backend designed for the scale of development that Codex makes possible.
+
 #### [Introducing the Grid Protectors Program](<https://openai.com/index/grid-protectors-program>)
 
 OpenAI · 2026-11-02
 
 > OpenAI’s Grid Protectors Program will work with utilities to help future compute campuses support grid reliability and protect consumer electricity costs.
 
-#### [Things That Go Beep in the Night: Agentic AI Joins the Search for Extraterrestrial Signals](<https://blogs.nvidia.com/blog/ai-joins-the-search-for-extraterrestrial-signals>)
+#### [LifeVal](<https://openai.com/index/lifeval>)
 
-NVIDIA · 2026-10-30
+OpenAI · 2026-11-02
 
-> While science fiction lore tells us that humans will meet extraterrestrial life in the form of little green men, the detail that should raise…
-
-#### [Speeding up planning decisions with AI](<https://deepmind.google/blog/speeding-up-planning-decisions-with-ai>)
-
-Google DeepMind · 2026-10-30
-
-> Google DeepMind and UK government work together to reduce planning assessment times
-
-#### [Making it easier for websites to express AI training preferences](<https://openai.com/index/helping-websites-express-ai-training-preferences>)
-
-OpenAI · 2026-10-30
-
-> OpenAI will honor a shared robots.txt signal to help website operators communicate their AI training preferences to participating providers.
-
-#### [Community safety report and new protections for teens](<https://openai.com/index/community-safety-report-and-new-protections-for-teens>)
-
-OpenAI · 2026-10-30
-
-> OpenAI is strengthening violence prevention in ChatGPT with expanded safeguards, earlier interventions, and a new commitment to public safety reporting.
-
-#### [Fair use benefits everyone](<https://openai.com/index/fair-use-benefits-everyone>)
-
-OpenAI · 2026-10-30
-
-> OpenAI shares excerpts from court briefs by creators, academics, accessibility advocates, and legal experts, among others, on how fair use supports AI training and…
-
-#### [An updated Model Spec for more capable and beneficial AI](<https://openai.com/index/updated-model-spec>)
-
-OpenAI · 2026-10-29
-
-> OpenAI’s updated Model Spec outlines five core values to guide more capable AI toward sound judgment, human agency, and faithfulness to human intent.
-
-#### [Mistral Large 4 (Le Chonk) is now open weight \| Mistral](<https://mistral.ai/news/mistral-large-4-oss>)
-
-Mistral AI · 2026-10-29
-
-> The weights of Mistral Large 4 (Le Chonk) are now open. A 1T parameter multimodal model, and best open-weight model for coding, trained in…
+> Introducing LifeVal, a benchmark measuring how well AI helps people complete everyday tasks, from finding childcare to managing finances and government paperwork.
 
 ### Models with published weights
 
@@ -128,6 +128,40 @@ Weight files found in the repository. Check its model card and license before us
 
 ### Research & engineering
 
+#### [Pixel: A Co-Designed Full-Stack Robot System for Learning General-Purpose Mobile Manipulation](<https://arxiv.org/abs/2611.03648>)
+
+arXiv cs.AI · 2026-11-03 · **Preprint**
+
+> arXiv:2611.03648v1 Announce Type: cross Abstract: General-purpose mobile manipulation requires a combination of capable robot hardware, scalable demonstration collection, expressive whole-body control, and effective policy…
+
+#### [WebHarbor: Docking Real Websites for Evolving GUI Agent Environments](<https://arxiv.org/abs/2611.03634>)
+
+arXiv cs.AI · 2026-11-03 · **Preprint**
+
+> arXiv:2611.03634v1 Announce Type: new Abstract: GUI web agents require realistic and interactive environments that remain stable during both evaluation and training. Live website evaluation…
+
+#### [Strategist: Evolving Reasoning with Agents](<https://arxiv.org/abs/2611.03618>)
+
+arXiv cs.AI · 2026-11-03 · **Preprint**
+
+> arXiv:2611.03618v1 Announce Type: new Abstract: A model is only half of an AI agent system. The other half is the inference strategy: the reasoning…
+
+#### [Four Bridges: Measuring Deception Propensity in a Multi-Agent Game](<https://arxiv.org/abs/2611.03600>)
+
+arXiv cs.AI · 2026-11-03 · **Preprint**
+
+> arXiv:2611.03600v1 Announce Type: new Abstract: AI agents are increasingly deployed in settings where they interact and coordinate with other agents, yet honesty is mostly…
+
+#### [Spacetime Emergence in the Memory of a Learning Agent](<https://arxiv.org/abs/2611.03596>)
+
+arXiv cs.AI · 2026-11-03 · **Preprint**
+
+> arXiv:2611.03596v1 Announce Type: cross Abstract: We show that the causal structure of spacetime can emerge within the memory of a learning agent performing a…
+
+#### [Transformers Model Integration Contracts](<https://huggingface.co/blog/transformers-mic>)
+
+Hugging Face · 2026-11-03
+
 #### [Latent Sparse Attention: Towards Subquadratic Ultra-Long Context Attention](<https://arxiv.org/abs/2610.42147>)
 
 arXiv cs.AI · 2026-11-02 · **Preprint**
@@ -139,40 +173,6 @@ arXiv cs.AI · 2026-11-02 · **Preprint**
 arXiv cs.AI · 2026-11-02 · **Preprint**
 
 > arXiv:2610.42054v1 Announce Type: cross Abstract: Reinforcement learning with verifiable rewards (RLVR) has become the standard method for training language models to reason. However, RLVR…
-
-#### [There Is No Free Loop: When Does Looping a Trained Model Pay for Its Inference Compute?](<https://arxiv.org/abs/2610.42030>)
-
-arXiv cs.AI · 2026-11-02 · **Preprint**
-
-> arXiv:2610.42030v1 Announce Type: cross Abstract: Looping re-applies a block of layers so that each token passes through the block more than once. Adding a…
-
-#### [TradeWar: A Benchmark for Execution-Grounded Trade Negotiation with Adaptive LLM Agents](<https://arxiv.org/abs/2610.42004>)
-
-arXiv cs.AI · 2026-11-02 · **Preprint**
-
-> arXiv:2610.42004v1 Announce Type: new Abstract: Multi-turn negotiation remains a challenging problem for large language model (LLM) agents. While LLMs can conduct natural-language dialogue, existing…
-
-#### [Prune Gradually, Adapt Sparsely: Efficient Pruning of Large Language Models at Extreme Sparsity](<https://arxiv.org/abs/2610.41968>)
-
-arXiv cs.AI · 2026-11-02 · **Preprint**
-
-> arXiv:2610.41968v1 Announce Type: new Abstract: Weight pruning can reduce the storage and inference cost of large language models (LLMs), but preserving quality at high…
-
-#### [nemotron-halloween](<https://huggingface.co/blog/nvidia/nemotron-halloween>)
-
-Hugging Face · 2026-10-30
-
-#### [From synthetic enterprise data evaluations to real Microsoft Copilot AI confidence](<https://www.microsoft.com/en-us/research/blog/from-synthetic-enterprise-data-evaluations-to-real-microsoft-copilot-ai-confidence>)
-
-Microsoft Research · 2026-10-30
-
-> Evaluating Microsoft Copilot at enterprise scale requires test data that captures the full complexity of real organizations, yet real enterprise data contains sensitive information…
-
-#### [Pre-Crime for Agents, at the Last Second: Probing When a Recruited Agent Gives In](<https://arxiv.org/abs/2610.40588>)
-
-arXiv cs.AI · 2026-10-30 · **Preprint**
-
-> arXiv:2610.40588v1 Announce Type: new Abstract: When AI agents share channels and credentials, one agent can press another to break its operator's rule, a first…
 
 [Browse all daily digests](digests/README.md).
 <!-- radar:end -->
