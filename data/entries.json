@@ -1,5 +1,181 @@
 [
   {
+    "id": "https://arxiv.org/abs/2611.08483",
+    "title": "SwarmEvolve: Latent Agent Swarms for Evolutionary Discovery and Optimization",
+    "url": "https://arxiv.org/abs/2611.08483",
+    "source": "arXiv cs.AI",
+    "category": "research",
+    "published": "2026-11-06T05:00:00+00:00",
+    "summary": "arXiv:2611.08483v1 Announce Type: new Abstract: LLM-guided evolutionary search uses AI agents to improve programs for mathematical and computational problems by iteratively refining solutions and…",
+    "preprint": true,
+    "discovered": "2026-11-06"
+  },
+  {
+    "id": "https://arxiv.org/abs/2611.08472",
+    "title": "XStack: A Benchmark for ML Repo Migration",
+    "url": "https://arxiv.org/abs/2611.08472",
+    "source": "arXiv cs.AI",
+    "category": "research",
+    "published": "2026-11-06T05:00:00+00:00",
+    "summary": "arXiv:2611.08472v1 Announce Type: cross Abstract: ML code should run where researchers choose, not where it was first written. Today, machine learning code mainly lives…",
+    "preprint": true,
+    "discovered": "2026-11-06"
+  },
+  {
+    "id": "https://arxiv.org/abs/2611.08438",
+    "title": "Understanding AI from the Inside: The State of Mechanistic Interpretability for AI Safety",
+    "url": "https://arxiv.org/abs/2611.08438",
+    "source": "arXiv cs.AI",
+    "category": "research",
+    "published": "2026-11-06T05:00:00+00:00",
+    "summary": "arXiv:2611.08438v1 Announce Type: cross Abstract: Neural networks are likely to be among the most consequential artefacts in human history. As these systems become more…",
+    "preprint": true,
+    "discovered": "2026-11-06"
+  },
+  {
+    "id": "https://arxiv.org/abs/2611.08403",
+    "title": "StepBack: Step-Level Error-Localized Resampling for Efficient Test-Time Reasoning",
+    "url": "https://arxiv.org/abs/2611.08403",
+    "source": "arXiv cs.AI",
+    "category": "research",
+    "published": "2026-11-06T05:00:00+00:00",
+    "summary": "arXiv:2611.08403v1 Announce Type: new Abstract: Self-consistency (SC) is a widely used decoding strategy for improving chain-of-thought reasoning, but it requires sampling many complete reasoning…",
+    "preprint": true,
+    "discovered": "2026-11-06"
+  },
+  {
+    "id": "https://arxiv.org/abs/2611.08392",
+    "title": "Learning a patient world model for health system simulation in intensive care",
+    "url": "https://arxiv.org/abs/2611.08392",
+    "source": "arXiv cs.AI",
+    "category": "research",
+    "published": "2026-11-06T05:00:00+00:00",
+    "summary": "arXiv:2611.08392v1 Announce Type: new Abstract: Designing healthcare strategies requires anticipating their clinical and operational consequences before implementation, a task that often relies on health…",
+    "preprint": true,
+    "discovered": "2026-11-06"
+  },
+  {
+    "id": "https://huggingface.co/blog/open-asr-leaderboard-liva",
+    "title": "Egyptian and Nigerian English join the Open ASR Leaderboard",
+    "url": "https://huggingface.co/blog/open-asr-leaderboard-liva",
+    "source": "Hugging Face",
+    "category": "research",
+    "published": "2026-11-06T00:00:00+00:00",
+    "summary": "",
+    "preprint": false,
+    "discovered": "2026-11-06"
+  },
+  {
+    "id": "https://blogs.nvidia.com/blog/vera-cpu-highest-throughput-fastest-agents",
+    "title": "Vera Delivers the Best of Both Worlds: Highest Throughput and Fastest Agents",
+    "url": "https://blogs.nvidia.com/blog/vera-cpu-highest-throughput-fastest-agents",
+    "source": "NVIDIA",
+    "category": "announcements",
+    "published": "2026-11-05T20:00:41+00:00",
+    "summary": "AI agents do more than generate answers. They search for information, query databases, write and test code and take action. Each of those steps…",
+    "preprint": false,
+    "discovered": "2026-11-06"
+  },
+  {
+    "id": "https://openai.com/index/cultfit-builds-with-codex",
+    "title": "Cult.fit builds operational muscle with Codex",
+    "url": "https://openai.com/index/cultfit-builds-with-codex",
+    "source": "OpenAI",
+    "category": "announcements",
+    "published": "2026-11-05T20:00:00+00:00",
+    "summary": "Cult.fit is using Codex to help teams across functions build tools, move faster, and change how work gets done.",
+    "preprint": false,
+    "discovered": "2026-11-06"
+  },
+  {
+    "id": "https://huggingface.co/blog/nvidia/cosmos-interactive-world-simulation",
+    "title": "New NVIDIA Cosmos 3 Open Models for Interactive World Simulation",
+    "url": "https://huggingface.co/blog/nvidia/cosmos-interactive-world-simulation",
+    "source": "Hugging Face",
+    "category": "research",
+    "published": "2026-11-05T19:35:16+00:00",
+    "summary": "",
+    "preprint": false,
+    "discovered": "2026-11-06"
+  },
+  {
+    "id": "https://deepmind.google/blog/gemini-omni-12-flash-fast-and-cost-effective-with-longer-clips",
+    "title": "Gemini Omni 1.2 Flash: Fast and cost-effective with longer clips",
+    "url": "https://deepmind.google/blog/gemini-omni-12-flash-fast-and-cost-effective-with-longer-clips",
+    "source": "Google DeepMind",
+    "category": "announcements",
+    "published": "2026-11-05T17:05:16+00:00",
+    "summary": "",
+    "preprint": false,
+    "discovered": "2026-11-06"
+  },
+  {
+    "id": "https://openai.com/index/australian-universities-ai-native-graduates",
+    "title": "Australian universities are creating AI-native graduates",
+    "url": "https://openai.com/index/australian-universities-ai-native-graduates",
+    "source": "OpenAI",
+    "category": "announcements",
+    "published": "2026-11-05T17:00:00+00:00",
+    "summary": "Australian universities are expanding access to ChatGPT and bringing AI into teaching and learning to prepare students for an AI-enabled workforce.",
+    "preprint": false,
+    "discovered": "2026-11-06"
+  },
+  {
+    "id": "https://blogs.nvidia.com/blog/nvidia-life-chris-alexiuk",
+    "title": "The Wizard of Open Weights: Chris Alexiuk Makes AI Easy With Open Models",
+    "url": "https://blogs.nvidia.com/blog/nvidia-life-chris-alexiuk",
+    "source": "NVIDIA",
+    "category": "announcements",
+    "published": "2026-11-05T16:00:05+00:00",
+    "summary": "Chris Alexiuk has a simple rule about open source AI: If you believe in it, be loud about it. “We should be shouting about…",
+    "preprint": false,
+    "discovered": "2026-11-06"
+  },
+  {
+    "id": "https://www.microsoft.com/en-us/research/blog/formally-verifying-agent-written-full-stack-web-apps-with-pdd-kit",
+    "title": "Formally verifying agent-written full-stack web apps with PDD Kit",
+    "url": "https://www.microsoft.com/en-us/research/blog/formally-verifying-agent-written-full-stack-web-apps-with-pdd-kit",
+    "source": "Microsoft Research",
+    "category": "research",
+    "published": "2026-11-05T16:00:00+00:00",
+    "summary": "AI agents can generate code at a scale that’s hard for humans to review line-by-line. PDD Kit helps ensure the code is doing what…",
+    "preprint": false,
+    "discovered": "2026-11-06"
+  },
+  {
+    "id": "https://blogs.nvidia.com/blog/memory-full-stack-codesign",
+    "title": "More Performance From Every Byte: How Full-Stack Codesign Solves AI’s Memory Challenge",
+    "url": "https://blogs.nvidia.com/blog/memory-full-stack-codesign",
+    "source": "NVIDIA",
+    "category": "announcements",
+    "published": "2026-11-05T16:00:00+00:00",
+    "summary": "Larger models, longer contexts and agentic applications are increasing GPU memory pressure while supply tightens and prices rise — a trend expected to continue…",
+    "preprint": false,
+    "discovered": "2026-11-06"
+  },
+  {
+    "id": "https://openai.com/index/introducing-gpt-6-cyber",
+    "title": "GPT‑6 Cyber: Advancing the frontier of aligned cybersecurity agents",
+    "url": "https://openai.com/index/introducing-gpt-6-cyber",
+    "source": "OpenAI",
+    "category": "announcements",
+    "published": "2026-11-05T09:00:00+00:00",
+    "summary": "Introducing GPT‑6 Cyber, OpenAI’s cybersecurity model for finding exploitable vulnerabilities and developing fixes, trained to stay within authorized scope.",
+    "preprint": false,
+    "discovered": "2026-11-06"
+  },
+  {
+    "id": "https://openai.com/index/merge-builds-with-openai",
+    "title": "Merge builds product and business tools with OpenAI technology",
+    "url": "https://openai.com/index/merge-builds-with-openai",
+    "source": "OpenAI",
+    "category": "announcements",
+    "published": "2026-11-05T08:00:00+00:00",
+    "summary": "Merge uses GPT-6 Astra, ChatGPT, and Codex to review product code and support marketing. Its teams also use AI to plan executive dinners and…",
+    "preprint": false,
+    "discovered": "2026-11-06"
+  },
+  {
     "id": "https://huggingface.co/nvidia/MetricTrail",
     "title": "nvidia/MetricTrail",
     "url": "https://huggingface.co/nvidia/MetricTrail",
@@ -80,6 +256,17 @@
     "discovered": "2026-11-05"
   },
   {
+    "id": "https://openai.com/ads/customers/flipsnack",
+    "title": "Flipsnack grows product signups with conversion optimization",
+    "url": "https://openai.com/ads/customers/flipsnack",
+    "source": "OpenAI",
+    "category": "announcements",
+    "published": "2026-11-05T00:45:15+00:00",
+    "summary": "Flipsnack focused its ChatGPT Ads campaigns on getting people to try its product, growing registrations while lowering the cost per signup.",
+    "preprint": false,
+    "discovered": "2026-11-06"
+  },
+  {
     "id": "https://www.anthropic.com/research/how-researchers-use-claude",
     "title": "How scientists use Claude",
     "url": "https://www.anthropic.com/research/how-researchers-use-claude",
@@ -89,6 +276,17 @@
     "summary": "In this report, we use privacy-preserving infrastructure to study the scientific use of Claude, Claude Code, and Claude Science. We document how usage varies…",
     "preprint": false,
     "discovered": "2026-11-05"
+  },
+  {
+    "id": "https://mistral.ai/news/build-with-studio",
+    "title": "Build Enterprise Agents, Workflows & Apps in Mistral Studio",
+    "url": "https://mistral.ai/news/build-with-studio",
+    "source": "Mistral AI",
+    "category": "announcements",
+    "published": "2026-11-05T00:00:00+00:00",
+    "summary": "Build and deploy enterprise agents, workflows and apps faster with Mistral Studio and Le Chonk full control over your models, data and infrastructure.",
+    "preprint": false,
+    "discovered": "2026-11-06"
   },
   {
     "id": "https://huggingface.co/blog/phonon-tts",

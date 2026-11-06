@@ -12,53 +12,51 @@ Publisher excerpts reflect their claims. Research entries are not independently 
 
 ### Company announcements
 
-#### [Setting a new standard for responsible AI infrastructure](<https://openai.com/index/setting-new-standard-responsible-ai-infrastructure>)
+#### [Vera Delivers the Best of Both Worlds: Highest Throughput and Fastest Agents](<https://blogs.nvidia.com/blog/vera-cpu-highest-throughput-fastest-agents>)
+
+NVIDIA · 2026-11-05
+
+> AI agents do more than generate answers. They search for information, query databases, write and test code and take action. Each of those steps…
+
+#### [Cult.fit builds operational muscle with Codex](<https://openai.com/index/cultfit-builds-with-codex>)
 
 OpenAI · 2026-11-05
 
-> OpenAI introduces its National Community Compact and Compute Campus Policy Blueprint to protect local resources, create jobs, and guide responsible AI infrastructure development.
+> Cult.fit is using Codex to help teams across functions build tools, move faster, and change how work gets done.
 
-#### [OpenAI to acquire Pierre Computer Company, Inc.](<https://openai.com/index/openai-to-acquire-pierre>)
+#### [Gemini Omni 1.2 Flash: Fast and cost-effective with longer clips](<https://deepmind.google/blog/gemini-omni-12-flash-fast-and-cost-effective-with-longer-clips>)
 
-OpenAI · 2026-11-04
+Google DeepMind · 2026-11-05
 
-> OpenAI will acquire Pierre Computer Company, expanding Codex’s tools for building, understanding, and reviewing code.
+#### [Australian universities are creating AI-native graduates](<https://openai.com/index/australian-universities-ai-native-graduates>)
 
-#### [A thousand fewer paths to root](<https://openai.com/index/a-thousand-fewer-paths-to-root>)
+OpenAI · 2026-11-05
 
-OpenAI · 2026-11-04
+> Australian universities are expanding access to ChatGPT and bringing AI into teaching and learning to prepare students for an AI-enabled workforce.
 
-> OpenAI built an autonomous pipeline that found, validated, and generated patches for 948 local privilege-escalation vulnerabilities in the Linux kernel.
+#### [The Wizard of Open Weights: Chris Alexiuk Makes AI Easy With Open Models](<https://blogs.nvidia.com/blog/nvidia-life-chris-alexiuk>)
 
-#### [Daybreak Red is now available in AWS GovCloud (US-East)](<https://openai.com/index/daybreak-red-aws-govcloud>)
+NVIDIA · 2026-11-05
 
-OpenAI · 2026-11-04
+> Chris Alexiuk has a simple rule about open source AI: If you believe in it, be loud about it. “We should be shouting about…
 
-> Daybreak Red brings GPT-5.6 Cyber to approved customers in AWS GovCloud (US-East) through Amazon Bedrock for authorized cybersecurity work.
+#### [More Performance From Every Byte: How Full-Stack Codesign Solves AI’s Memory Challenge](<https://blogs.nvidia.com/blog/memory-full-stack-codesign>)
 
-#### [Introducing Images 2.6](<https://openai.com/index/introducing-images-2-6>)
+NVIDIA · 2026-11-05
 
-OpenAI · 2026-11-04
+> Larger models, longer contexts and agentic applications are increasing GPU memory pressure while supply tightens and prices rise — a trend expected to continue…
 
-> Images 2.6 brings faster image generation, GIF creation, more precise editing, and new API controls across ChatGPT, Codex, and the API.
+#### [GPT‑6 Cyber: Advancing the frontier of aligned cybersecurity agents](<https://openai.com/index/introducing-gpt-6-cyber>)
 
-#### [DevRev delivers autonomous self-service with GPT-6.1 Sol](<https://openai.com/index/devrev-enterprise-self-service>)
+OpenAI · 2026-11-05
 
-OpenAI · 2026-11-04
+> Introducing GPT‑6 Cyber, OpenAI’s cybersecurity model for finding exploitable vulnerabilities and developing fixes, trained to stay within authorized scope.
 
-> DevRev uses GPT-6.1 Sol to power Computer and Operator, balancing reasoning, speed, and cost for enterprise service.
+#### [Merge builds product and business tools with OpenAI technology](<https://openai.com/index/merge-builds-with-openai>)
 
-#### [Agentic cheminformatics with Google Antigravity](<https://deepmind.google/blog/agentic-cheminformatics-with-google-antigravity>)
+OpenAI · 2026-11-05
 
-Google DeepMind · 2026-11-03
-
-> Learn how Google Antigravity and our Cheminformatics Skills accelerate drug discovery workflows, search compounds, and propose novel rigidified macrocycles.
-
-#### [AI Is Changing How Semiconductor Fabs Work — and Engineers Are Moving Faster Because of It](<https://blogs.nvidia.com/blog/ai-semiconductor-fabs>)
-
-NVIDIA · 2026-11-03
-
-> Demand for advanced chips is rising. The processes to build them are getting more complex. And the margin for error is shrinking. For engineers,…
+> Merge uses GPT-6 Astra, ChatGPT, and Codex to review product code and support marketing. Its teams also use AI to plan executive dinners and…
 
 ### Models with published weights
 
@@ -128,51 +126,49 @@ Weight files found in the repository. Check its model card and license before us
 
 ### Research & engineering
 
-#### [BEAKER: An Expert-Curated Benchmark for Embodied Brains in Self-Driving Chemical Laboratories](<https://arxiv.org/abs/2611.06911>)
+#### [SwarmEvolve: Latent Agent Swarms for Evolutionary Discovery and Optimization](<https://arxiv.org/abs/2611.08483>)
 
-arXiv cs.AI · 2026-11-05 · **Preprint**
+arXiv cs.AI · 2026-11-06 · **Preprint**
 
-> arXiv:2611.06911v1 Announce Type: new Abstract: Self-Driving Chemical Laboratories (SDCLs) are moving chemical experimentation toward embodied automation, where machines must perceive laboratory scenes, reason about…
+> arXiv:2611.08483v1 Announce Type: new Abstract: LLM-guided evolutionary search uses AI agents to improve programs for mathematical and computational problems by iteratively refining solutions and…
 
-#### [Task-Efficient Agent Evaluation Using Cached Traces](<https://arxiv.org/abs/2611.06803>)
+#### [XStack: A Benchmark for ML Repo Migration](<https://arxiv.org/abs/2611.08472>)
 
-arXiv cs.AI · 2026-11-05 · **Preprint**
+arXiv cs.AI · 2026-11-06 · **Preprint**
 
-> arXiv:2611.06803v1 Announce Type: new Abstract: Efficient benchmarking estimates a system's full benchmark performance from a small number of task executions. Standard approaches rely solely…
+> arXiv:2611.08472v1 Announce Type: cross Abstract: ML code should run where researchers choose, not where it was first written. Today, machine learning code mainly lives…
 
-#### [ConceptARC at Scale: Studying Conceptual Understanding in Reasoning Models](<https://arxiv.org/abs/2611.06732>)
+#### [Understanding AI from the Inside: The State of Mechanistic Interpretability for AI Safety](<https://arxiv.org/abs/2611.08438>)
 
-arXiv cs.AI · 2026-11-05 · **Preprint**
+arXiv cs.AI · 2026-11-06 · **Preprint**
 
-> arXiv:2611.06732v1 Announce Type: new Abstract: Large reasoning models (LRMs) perform well on challenging benchmarks, yet it remains unclear whether they form generalizable abstractions across…
+> arXiv:2611.08438v1 Announce Type: cross Abstract: Neural networks are likely to be among the most consequential artefacts in human history. As these systems become more…
 
-#### [Reasoning over Non-Parametric Memory in Multilingual LLMs: A Cognitive-Based Analysis of Relational Knowledge](<https://arxiv.org/abs/2611.06715>)
+#### [StepBack: Step-Level Error-Localized Resampling for Efficient Test-Time Reasoning](<https://arxiv.org/abs/2611.08403>)
 
-arXiv cs.AI · 2026-11-05 · **Preprint**
+arXiv cs.AI · 2026-11-06 · **Preprint**
 
-> arXiv:2611.06715v1 Announce Type: cross Abstract: Retrieval-augmented generation (RAG) assumes that language models can reason over relations stated in their context rather than fall back…
+> arXiv:2611.08403v1 Announce Type: new Abstract: Self-consistency (SC) is a widely used decoding strategy for improving chain-of-thought reasoning, but it requires sampling many complete reasoning…
 
-#### [Trick-or-Treat: Adversarial Evaluation of Multimodal Medical Reasoning with Synthetic Images](<https://arxiv.org/abs/2611.06631>)
+#### [Learning a patient world model for health system simulation in intensive care](<https://arxiv.org/abs/2611.08392>)
 
-arXiv cs.AI · 2026-11-05 · **Preprint**
+arXiv cs.AI · 2026-11-06 · **Preprint**
 
-> arXiv:2611.06631v1 Announce Type: cross Abstract: We used medical image synthesis to create a challenging multimodal evaluation framework that exposes hallucination behaviors in frontier models.…
+> arXiv:2611.08392v1 Announce Type: new Abstract: Designing healthcare strategies requires anticipating their clinical and operational consequences before implementation, a task that often relies on health…
 
-#### [How scientists use Claude](<https://www.anthropic.com/research/how-researchers-use-claude>)
+#### [Egyptian and Nigerian English join the Open ASR Leaderboard](<https://huggingface.co/blog/open-asr-leaderboard-liva>)
 
-Anthropic Research · 2026-11-05
+Hugging Face · 2026-11-06
 
-> In this report, we use privacy-preserving infrastructure to study the scientific use of Claude, Claude Code, and Claude Science. We document how usage varies…
-
-#### [A Closer Look at Phonon TTS. Launching High-Quality On-Device Speech That Tops the Benchmarks.](<https://huggingface.co/blog/phonon-tts>)
+#### [New NVIDIA Cosmos 3 Open Models for Interactive World Simulation](<https://huggingface.co/blog/nvidia/cosmos-interactive-world-simulation>)
 
 Hugging Face · 2026-11-05
 
-#### [DreamX: Video Diffusion Model is a Universal Latent Action Learner](<https://arxiv.org/abs/2611.05377>)
+#### [Formally verifying agent-written full-stack web apps with PDD Kit](<https://www.microsoft.com/en-us/research/blog/formally-verifying-agent-written-full-stack-web-apps-with-pdd-kit>)
 
-arXiv cs.AI · 2026-11-04 · **Preprint**
+Microsoft Research · 2026-11-05
 
-> arXiv:2611.05377v1 Announce Type: cross Abstract: Learning a universal action representation from video requires modeling dynamics that are consistent across different executions of the same…
+> AI agents can generate code at a scale that’s hard for humans to review line-by-line. PDD Kit helps ensure the code is doing what…
 
 [Browse all daily digests](digests/README.md).
 <!-- radar:end -->
