@@ -1,5 +1,27 @@
 [
   {
+    "id": "https://blogs.nvidia.com/blog/telco-open-source-tools-research-6g-networks",
+    "title": "How NVIDIA Open Source Tools Are Helping Researchers Build Next-Generation 6G Networks",
+    "url": "https://blogs.nvidia.com/blog/telco-open-source-tools-research-6g-networks",
+    "source": "NVIDIA",
+    "category": "announcements",
+    "published": "2026-11-06T16:00:35+00:00",
+    "summary": "A year ago, NVIDIA open sourced its Aerial wireless software, joining Sionna and a broader suite of open source tools for accelerating next-generation 6G…",
+    "preprint": false,
+    "discovered": "2026-11-07"
+  },
+  {
+    "id": "https://openai.com/index/partnering-with-hacktron",
+    "title": "Partnering with Hacktron to find vulnerabilities in OpenAI’s systems",
+    "url": "https://openai.com/index/partnering-with-hacktron",
+    "source": "OpenAI",
+    "category": "announcements",
+    "published": "2026-11-06T08:00:00+00:00",
+    "summary": "OpenAI is partnering with Hacktron to find vulnerabilities, test connections with third-party services, and strengthen defenses with frontier AI.",
+    "preprint": false,
+    "discovered": "2026-11-07"
+  },
+  {
     "id": "https://arxiv.org/abs/2611.08483",
     "title": "SwarmEvolve: Latent Agent Swarms for Evolutionary Discovery and Optimization",
     "url": "https://arxiv.org/abs/2611.08483",
@@ -53,6 +75,39 @@
     "summary": "arXiv:2611.08392v1 Announce Type: new Abstract: Designing healthcare strategies requires anticipating their clinical and operational consequences before implementation, a task that often relies on health…",
     "preprint": true,
     "discovered": "2026-11-06"
+  },
+  {
+    "id": "https://www.anthropic.com/research/teaching-ai-to-build-scientific-models",
+    "title": "Teaching AI to build scientific models",
+    "url": "https://www.anthropic.com/research/teaching-ai-to-build-scientific-models",
+    "source": "Anthropic Research",
+    "category": "research",
+    "published": "2026-11-06T00:00:00+00:00",
+    "summary": "AI for Science grantees Jakob Macke, Daniel Gedon, and Stefan Wahl on how AI is starting to change how scientific models are built and…",
+    "preprint": false,
+    "discovered": "2026-11-07"
+  },
+  {
+    "id": "https://www.anthropic.com/research/components-of-agent-memory",
+    "title": "The components of agent memory",
+    "url": "https://www.anthropic.com/research/components-of-agent-memory",
+    "source": "Anthropic Research",
+    "category": "research",
+    "published": "2026-11-06T00:00:00+00:00",
+    "summary": "For Claude to learn from experience, it has to decide what’s worth remembering before it knows what’s next. Here’s how “dreaming” helps it organize…",
+    "preprint": false,
+    "discovered": "2026-11-07"
+  },
+  {
+    "id": "https://openai.com/index/measuring-how-ai-agents-handle-wet-lab-science",
+    "title": "Measuring how AI agents handle everyday wet-lab science",
+    "url": "https://openai.com/index/measuring-how-ai-agents-handle-wet-lab-science",
+    "source": "OpenAI",
+    "category": "announcements",
+    "published": "2026-11-06T00:00:00+00:00",
+    "summary": "OpenAI introduces BioBasicsBench, a 100-task benchmark measuring how well AI agents interpret raw experimental data and handle everyday wet-lab science.",
+    "preprint": false,
+    "discovered": "2026-11-07"
   },
   {
     "id": "https://huggingface.co/blog/open-asr-leaderboard-liva",

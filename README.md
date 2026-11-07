@@ -12,6 +12,24 @@ Publisher excerpts reflect their claims. Research entries are not independently 
 
 ### Company announcements
 
+#### [How NVIDIA Open Source Tools Are Helping Researchers Build Next-Generation 6G Networks](<https://blogs.nvidia.com/blog/telco-open-source-tools-research-6g-networks>)
+
+NVIDIA · 2026-11-06
+
+> A year ago, NVIDIA open sourced its Aerial wireless software, joining Sionna and a broader suite of open source tools for accelerating next-generation 6G…
+
+#### [Partnering with Hacktron to find vulnerabilities in OpenAI’s systems](<https://openai.com/index/partnering-with-hacktron>)
+
+OpenAI · 2026-11-06
+
+> OpenAI is partnering with Hacktron to find vulnerabilities, test connections with third-party services, and strengthen defenses with frontier AI.
+
+#### [Measuring how AI agents handle everyday wet-lab science](<https://openai.com/index/measuring-how-ai-agents-handle-wet-lab-science>)
+
+OpenAI · 2026-11-06
+
+> OpenAI introduces BioBasicsBench, a 100-task benchmark measuring how well AI agents interpret raw experimental data and handle everyday wet-lab science.
+
 #### [Vera Delivers the Best of Both Worlds: Highest Throughput and Fastest Agents](<https://blogs.nvidia.com/blog/vera-cpu-highest-throughput-fastest-agents>)
 
 NVIDIA · 2026-11-05
@@ -39,24 +57,6 @@ OpenAI · 2026-11-05
 NVIDIA · 2026-11-05
 
 > Chris Alexiuk has a simple rule about open source AI: If you believe in it, be loud about it. “We should be shouting about…
-
-#### [More Performance From Every Byte: How Full-Stack Codesign Solves AI’s Memory Challenge](<https://blogs.nvidia.com/blog/memory-full-stack-codesign>)
-
-NVIDIA · 2026-11-05
-
-> Larger models, longer contexts and agentic applications are increasing GPU memory pressure while supply tightens and prices rise — a trend expected to continue…
-
-#### [GPT‑6 Cyber: Advancing the frontier of aligned cybersecurity agents](<https://openai.com/index/introducing-gpt-6-cyber>)
-
-OpenAI · 2026-11-05
-
-> Introducing GPT‑6 Cyber, OpenAI’s cybersecurity model for finding exploitable vulnerabilities and developing fixes, trained to stay within authorized scope.
-
-#### [Merge builds product and business tools with OpenAI technology](<https://openai.com/index/merge-builds-with-openai>)
-
-OpenAI · 2026-11-05
-
-> Merge uses GPT-6 Astra, ChatGPT, and Codex to review product code and support marketing. Its teams also use AI to plan executive dinners and…
 
 ### Models with published weights
 
@@ -156,19 +156,21 @@ arXiv cs.AI · 2026-11-06 · **Preprint**
 
 > arXiv:2611.08392v1 Announce Type: new Abstract: Designing healthcare strategies requires anticipating their clinical and operational consequences before implementation, a task that often relies on health…
 
+#### [Teaching AI to build scientific models](<https://www.anthropic.com/research/teaching-ai-to-build-scientific-models>)
+
+Anthropic Research · 2026-11-06
+
+> AI for Science grantees Jakob Macke, Daniel Gedon, and Stefan Wahl on how AI is starting to change how scientific models are built and…
+
+#### [The components of agent memory](<https://www.anthropic.com/research/components-of-agent-memory>)
+
+Anthropic Research · 2026-11-06
+
+> For Claude to learn from experience, it has to decide what’s worth remembering before it knows what’s next. Here’s how “dreaming” helps it organize…
+
 #### [Egyptian and Nigerian English join the Open ASR Leaderboard](<https://huggingface.co/blog/open-asr-leaderboard-liva>)
 
 Hugging Face · 2026-11-06
-
-#### [New NVIDIA Cosmos 3 Open Models for Interactive World Simulation](<https://huggingface.co/blog/nvidia/cosmos-interactive-world-simulation>)
-
-Hugging Face · 2026-11-05
-
-#### [Formally verifying agent-written full-stack web apps with PDD Kit](<https://www.microsoft.com/en-us/research/blog/formally-verifying-agent-written-full-stack-web-apps-with-pdd-kit>)
-
-Microsoft Research · 2026-11-05
-
-> AI agents can generate code at a scale that’s hard for humans to review line-by-line. PDD Kit helps ensure the code is doing what…
 
 [Browse all daily digests](digests/README.md).
 <!-- radar:end -->
