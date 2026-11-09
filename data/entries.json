@@ -1,5 +1,137 @@
 [
   {
+    "id": "https://huggingface.co/blog/nvidia/nemotron-personas-finance-japan",
+    "title": "Nemotron-Personas-Finance-Japan: A Synthetic Dataset Capturing Japan's Demographics and Financial Context",
+    "url": "https://huggingface.co/blog/nvidia/nemotron-personas-finance-japan",
+    "source": "Hugging Face",
+    "category": "research",
+    "published": "2026-11-09T15:05:57+00:00",
+    "summary": "",
+    "preprint": false,
+    "discovered": "2026-11-09"
+  },
+  {
+    "id": "https://blogs.nvidia.com/blog/robotics-simulation-advancements-corl",
+    "title": "Practice Makes Precise: At CoRL, NVIDIA and Partners Reveal How Robots Rehearse Delicate Work in Simulation",
+    "url": "https://blogs.nvidia.com/blog/robotics-simulation-advancements-corl",
+    "source": "NVIDIA",
+    "category": "announcements",
+    "published": "2026-11-09T14:00:01+00:00",
+    "summary": "Simulation, which has long been the proving ground for robots learning to walk, roll and hop, is now helping researchers teach robots tasks that…",
+    "preprint": false,
+    "discovered": "2026-11-09"
+  },
+  {
+    "id": "https://blogs.nvidia.com/blog/korean-startup-investments-msit",
+    "title": "NVIDIA Announces New Planned Investments in Korean Startups at the MSIT-NVIDIA AI Startup Partnership Forum",
+    "url": "https://blogs.nvidia.com/blog/korean-startup-investments-msit",
+    "source": "NVIDIA",
+    "category": "announcements",
+    "published": "2026-11-09T08:00:53+00:00",
+    "summary": "Korea’s Ministry of Science and ICT and NVIDIA hosted the MSIT-NVIDIA AI Startup Partnership Forum at COEX. Ryu Je-myung, vice minister of science and…",
+    "preprint": false,
+    "discovered": "2026-11-09"
+  },
+  {
+    "id": "https://blogs.nvidia.com/blog/korea-physical-ai-ecosystem",
+    "title": "Korea Advances Physical AI Across Industries With NVIDIA",
+    "url": "https://blogs.nvidia.com/blog/korea-physical-ai-ecosystem",
+    "source": "NVIDIA",
+    "category": "announcements",
+    "published": "2026-11-09T05:00:40+00:00",
+    "summary": "Tapping into the country’s strengths in manufacturing and engineering, NVIDIA is helping advance Korea’s physical AI ecosystem. The country’s industry leaders are applying accelerated…",
+    "preprint": false,
+    "discovered": "2026-11-09"
+  },
+  {
+    "id": "https://blogs.nvidia.com/blog/korea-secure-agentic-ai",
+    "title": "Korea’s AI Ecosystem Advances and Secures Agentic AI With NVIDIA",
+    "url": "https://blogs.nvidia.com/blog/korea-secure-agentic-ai",
+    "source": "NVIDIA",
+    "category": "announcements",
+    "published": "2026-11-09T05:00:39+00:00",
+    "summary": "As AI agents take on more work, they need capable open models and security that advances alongside them. Hyundai Motor Group is exploring NVIDIA…",
+    "preprint": false,
+    "discovered": "2026-11-09"
+  },
+  {
+    "id": "https://blogs.nvidia.com/blog/korea-sovereign-ai-collaboration",
+    "title": "From Chips to Skills, NVIDIA and Korea Expand Sovereign AI Collaboration",
+    "url": "https://blogs.nvidia.com/blog/korea-sovereign-ai-collaboration",
+    "source": "NVIDIA",
+    "category": "announcements",
+    "published": "2026-11-09T05:00:04+00:00",
+    "summary": "NVIDIA and Korea’s Ministry of Science and ICT (MSIT) are expanding their collaboration across the country’s sovereign AI ecosystem, from AI semiconductors and data…",
+    "preprint": false,
+    "discovered": "2026-11-09"
+  },
+  {
+    "id": "https://blogs.nvidia.com/blog/nvidia-dynamo-korea-open-models",
+    "title": "NVIDIA Dynamo Recipes Bring Korea’s Leading Open Models to Production",
+    "url": "https://blogs.nvidia.com/blog/nvidia-dynamo-korea-open-models",
+    "source": "NVIDIA",
+    "category": "announcements",
+    "published": "2026-11-09T05:00:00+00:00",
+    "summary": "NVIDIA is releasing Dynamo-optimized deployment recipes for Korea’s leading open models: A.X K2 from SK Telecom, K-EXAONE 2.0 from LG AI Research, Solar Open…",
+    "preprint": false,
+    "discovered": "2026-11-09"
+  },
+  {
+    "id": "https://arxiv.org/abs/2611.09891",
+    "title": "CPU-ARC: Agentic Reasoning Caching for on-CPU Reasoning Reuse",
+    "url": "https://arxiv.org/abs/2611.09891",
+    "source": "arXiv cs.AI",
+    "category": "research",
+    "published": "2026-11-09T05:00:00+00:00",
+    "summary": "arXiv:2611.09891v1 Announce Type: new Abstract: Large language models reinvent the wheel all the time. They conflate task-solving with the execution of the solutions, which…",
+    "preprint": true,
+    "discovered": "2026-11-09"
+  },
+  {
+    "id": "https://arxiv.org/abs/2611.09872",
+    "title": "On the Reliability of Majority-Vote Pseudo-Labels in Test-Time Reinforcement Learning",
+    "url": "https://arxiv.org/abs/2611.09872",
+    "source": "arXiv cs.AI",
+    "category": "research",
+    "published": "2026-11-09T05:00:00+00:00",
+    "summary": "arXiv:2611.09872v1 Announce Type: new Abstract: Test-time reinforcement learning (TTRL) adapts pretrained language models to unlabeled target-domain data using self-generated pseudo-labels, whose reliability remains poorly…",
+    "preprint": true,
+    "discovered": "2026-11-09"
+  },
+  {
+    "id": "https://arxiv.org/abs/2611.09798",
+    "title": "Test-Time Compute Scales Better with Parallel Agent Teams",
+    "url": "https://arxiv.org/abs/2611.09798",
+    "source": "arXiv cs.AI",
+    "category": "research",
+    "published": "2026-11-09T05:00:00+00:00",
+    "summary": "arXiv:2611.09798v1 Announce Type: new Abstract: Test-time scaling improves the performance of a fixed model by spending more computation at inference. There are two common…",
+    "preprint": true,
+    "discovered": "2026-11-09"
+  },
+  {
+    "id": "https://arxiv.org/abs/2611.09770",
+    "title": "ROSE: Risk-Aware Orthogonal Subspace Navigation for Lifelong Knowledge Editing in Multimodal Large Language Models",
+    "url": "https://arxiv.org/abs/2611.09770",
+    "source": "arXiv cs.AI",
+    "category": "research",
+    "published": "2026-11-09T05:00:00+00:00",
+    "summary": "arXiv:2611.09770v1 Announce Type: cross Abstract: Multimodal Large Language Models (MLLMs) require continuous factual updates to stay current, yet lifelong knowledge editing remains a daunting…",
+    "preprint": true,
+    "discovered": "2026-11-09"
+  },
+  {
+    "id": "https://arxiv.org/abs/2611.09721",
+    "title": "MemoryDojo: Benchmarking Poisoning Through LLM Agent Memory",
+    "url": "https://arxiv.org/abs/2611.09721",
+    "source": "arXiv cs.AI",
+    "category": "research",
+    "published": "2026-11-09T05:00:00+00:00",
+    "summary": "arXiv:2611.09721v1 Announce Type: cross Abstract: LLM agents benefit from using memory systems to improve performance on long-horizon, multi-session tasks. However, memory introduces a critical…",
+    "preprint": true,
+    "discovered": "2026-11-09"
+  },
+  {
     "id": "https://blogs.nvidia.com/blog/telco-open-source-tools-research-6g-networks",
     "title": "How NVIDIA Open Source Tools Are Helping Researchers Build Next-Generation 6G Networks",
     "url": "https://blogs.nvidia.com/blog/telco-open-source-tools-research-6g-networks",

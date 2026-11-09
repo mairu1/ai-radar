@@ -12,6 +12,42 @@ Publisher excerpts reflect their claims. Research entries are not independently 
 
 ### Company announcements
 
+#### [Practice Makes Precise: At CoRL, NVIDIA and Partners Reveal How Robots Rehearse Delicate Work in Simulation](<https://blogs.nvidia.com/blog/robotics-simulation-advancements-corl>)
+
+NVIDIA · 2026-11-09
+
+> Simulation, which has long been the proving ground for robots learning to walk, roll and hop, is now helping researchers teach robots tasks that…
+
+#### [NVIDIA Announces New Planned Investments in Korean Startups at the MSIT-NVIDIA AI Startup Partnership Forum](<https://blogs.nvidia.com/blog/korean-startup-investments-msit>)
+
+NVIDIA · 2026-11-09
+
+> Korea’s Ministry of Science and ICT and NVIDIA hosted the MSIT-NVIDIA AI Startup Partnership Forum at COEX. Ryu Je-myung, vice minister of science and…
+
+#### [Korea Advances Physical AI Across Industries With NVIDIA](<https://blogs.nvidia.com/blog/korea-physical-ai-ecosystem>)
+
+NVIDIA · 2026-11-09
+
+> Tapping into the country’s strengths in manufacturing and engineering, NVIDIA is helping advance Korea’s physical AI ecosystem. The country’s industry leaders are applying accelerated…
+
+#### [Korea’s AI Ecosystem Advances and Secures Agentic AI With NVIDIA](<https://blogs.nvidia.com/blog/korea-secure-agentic-ai>)
+
+NVIDIA · 2026-11-09
+
+> As AI agents take on more work, they need capable open models and security that advances alongside them. Hyundai Motor Group is exploring NVIDIA…
+
+#### [From Chips to Skills, NVIDIA and Korea Expand Sovereign AI Collaboration](<https://blogs.nvidia.com/blog/korea-sovereign-ai-collaboration>)
+
+NVIDIA · 2026-11-09
+
+> NVIDIA and Korea’s Ministry of Science and ICT (MSIT) are expanding their collaboration across the country’s sovereign AI ecosystem, from AI semiconductors and data…
+
+#### [NVIDIA Dynamo Recipes Bring Korea’s Leading Open Models to Production](<https://blogs.nvidia.com/blog/nvidia-dynamo-korea-open-models>)
+
+NVIDIA · 2026-11-09
+
+> NVIDIA is releasing Dynamo-optimized deployment recipes for Korea’s leading open models: A.X K2 from SK Telecom, K-EXAONE 2.0 from LG AI Research, Solar Open…
+
 #### [How NVIDIA Open Source Tools Are Helping Researchers Build Next-Generation 6G Networks](<https://blogs.nvidia.com/blog/telco-open-source-tools-research-6g-networks>)
 
 NVIDIA · 2026-11-06
@@ -23,40 +59,6 @@ NVIDIA · 2026-11-06
 OpenAI · 2026-11-06
 
 > OpenAI is partnering with Hacktron to find vulnerabilities, test connections with third-party services, and strengthen defenses with frontier AI.
-
-#### [Measuring how AI agents handle everyday wet-lab science](<https://openai.com/index/measuring-how-ai-agents-handle-wet-lab-science>)
-
-OpenAI · 2026-11-06
-
-> OpenAI introduces BioBasicsBench, a 100-task benchmark measuring how well AI agents interpret raw experimental data and handle everyday wet-lab science.
-
-#### [Vera Delivers the Best of Both Worlds: Highest Throughput and Fastest Agents](<https://blogs.nvidia.com/blog/vera-cpu-highest-throughput-fastest-agents>)
-
-NVIDIA · 2026-11-05
-
-> AI agents do more than generate answers. They search for information, query databases, write and test code and take action. Each of those steps…
-
-#### [Cult.fit builds operational muscle with Codex](<https://openai.com/index/cultfit-builds-with-codex>)
-
-OpenAI · 2026-11-05
-
-> Cult.fit is using Codex to help teams across functions build tools, move faster, and change how work gets done.
-
-#### [Gemini Omni 1.2 Flash: Fast and cost-effective with longer clips](<https://deepmind.google/blog/gemini-omni-12-flash-fast-and-cost-effective-with-longer-clips>)
-
-Google DeepMind · 2026-11-05
-
-#### [Australian universities are creating AI-native graduates](<https://openai.com/index/australian-universities-ai-native-graduates>)
-
-OpenAI · 2026-11-05
-
-> Australian universities are expanding access to ChatGPT and bringing AI into teaching and learning to prepare students for an AI-enabled workforce.
-
-#### [The Wizard of Open Weights: Chris Alexiuk Makes AI Easy With Open Models](<https://blogs.nvidia.com/blog/nvidia-life-chris-alexiuk>)
-
-NVIDIA · 2026-11-05
-
-> Chris Alexiuk has a simple rule about open source AI: If you believe in it, be loud about it. “We should be shouting about…
 
 ### Models with published weights
 
@@ -126,6 +128,40 @@ Weight files found in the repository. Check its model card and license before us
 
 ### Research & engineering
 
+#### [Nemotron-Personas-Finance-Japan: A Synthetic Dataset Capturing Japan's Demographics and Financial Context](<https://huggingface.co/blog/nvidia/nemotron-personas-finance-japan>)
+
+Hugging Face · 2026-11-09
+
+#### [CPU-ARC: Agentic Reasoning Caching for on-CPU Reasoning Reuse](<https://arxiv.org/abs/2611.09891>)
+
+arXiv cs.AI · 2026-11-09 · **Preprint**
+
+> arXiv:2611.09891v1 Announce Type: new Abstract: Large language models reinvent the wheel all the time. They conflate task-solving with the execution of the solutions, which…
+
+#### [On the Reliability of Majority-Vote Pseudo-Labels in Test-Time Reinforcement Learning](<https://arxiv.org/abs/2611.09872>)
+
+arXiv cs.AI · 2026-11-09 · **Preprint**
+
+> arXiv:2611.09872v1 Announce Type: new Abstract: Test-time reinforcement learning (TTRL) adapts pretrained language models to unlabeled target-domain data using self-generated pseudo-labels, whose reliability remains poorly…
+
+#### [Test-Time Compute Scales Better with Parallel Agent Teams](<https://arxiv.org/abs/2611.09798>)
+
+arXiv cs.AI · 2026-11-09 · **Preprint**
+
+> arXiv:2611.09798v1 Announce Type: new Abstract: Test-time scaling improves the performance of a fixed model by spending more computation at inference. There are two common…
+
+#### [ROSE: Risk-Aware Orthogonal Subspace Navigation for Lifelong Knowledge Editing in Multimodal Large Language Models](<https://arxiv.org/abs/2611.09770>)
+
+arXiv cs.AI · 2026-11-09 · **Preprint**
+
+> arXiv:2611.09770v1 Announce Type: cross Abstract: Multimodal Large Language Models (MLLMs) require continuous factual updates to stay current, yet lifelong knowledge editing remains a daunting…
+
+#### [MemoryDojo: Benchmarking Poisoning Through LLM Agent Memory](<https://arxiv.org/abs/2611.09721>)
+
+arXiv cs.AI · 2026-11-09 · **Preprint**
+
+> arXiv:2611.09721v1 Announce Type: cross Abstract: LLM agents benefit from using memory systems to improve performance on long-horizon, multi-session tasks. However, memory introduces a critical…
+
 #### [SwarmEvolve: Latent Agent Swarms for Evolutionary Discovery and Optimization](<https://arxiv.org/abs/2611.08483>)
 
 arXiv cs.AI · 2026-11-06 · **Preprint**
@@ -137,40 +173,6 @@ arXiv cs.AI · 2026-11-06 · **Preprint**
 arXiv cs.AI · 2026-11-06 · **Preprint**
 
 > arXiv:2611.08472v1 Announce Type: cross Abstract: ML code should run where researchers choose, not where it was first written. Today, machine learning code mainly lives…
-
-#### [Understanding AI from the Inside: The State of Mechanistic Interpretability for AI Safety](<https://arxiv.org/abs/2611.08438>)
-
-arXiv cs.AI · 2026-11-06 · **Preprint**
-
-> arXiv:2611.08438v1 Announce Type: cross Abstract: Neural networks are likely to be among the most consequential artefacts in human history. As these systems become more…
-
-#### [StepBack: Step-Level Error-Localized Resampling for Efficient Test-Time Reasoning](<https://arxiv.org/abs/2611.08403>)
-
-arXiv cs.AI · 2026-11-06 · **Preprint**
-
-> arXiv:2611.08403v1 Announce Type: new Abstract: Self-consistency (SC) is a widely used decoding strategy for improving chain-of-thought reasoning, but it requires sampling many complete reasoning…
-
-#### [Learning a patient world model for health system simulation in intensive care](<https://arxiv.org/abs/2611.08392>)
-
-arXiv cs.AI · 2026-11-06 · **Preprint**
-
-> arXiv:2611.08392v1 Announce Type: new Abstract: Designing healthcare strategies requires anticipating their clinical and operational consequences before implementation, a task that often relies on health…
-
-#### [Teaching AI to build scientific models](<https://www.anthropic.com/research/teaching-ai-to-build-scientific-models>)
-
-Anthropic Research · 2026-11-06
-
-> AI for Science grantees Jakob Macke, Daniel Gedon, and Stefan Wahl on how AI is starting to change how scientific models are built and…
-
-#### [The components of agent memory](<https://www.anthropic.com/research/components-of-agent-memory>)
-
-Anthropic Research · 2026-11-06
-
-> For Claude to learn from experience, it has to decide what’s worth remembering before it knows what’s next. Here’s how “dreaming” helps it organize…
-
-#### [Egyptian and Nigerian English join the Open ASR Leaderboard](<https://huggingface.co/blog/open-asr-leaderboard-liva>)
-
-Hugging Face · 2026-11-06
 
 [Browse all daily digests](digests/README.md).
 <!-- radar:end -->
