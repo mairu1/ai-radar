@@ -1,5 +1,170 @@
 [
   {
+    "id": "https://blog.google/company-news/inside-google/company-announcements/adobe-google-partnership-integration",
+    "title": "We’re bringing Adobe’s creative and productivity tools closer to your everyday Google apps.",
+    "url": "https://blog.google/company-news/inside-google/company-announcements/adobe-google-partnership-integration",
+    "source": "Google AI",
+    "category": "announcements",
+    "published": "2026-11-10T14:00:00+00:00",
+    "summary": "Google and Adobe are integrating creative and productivity tools. Edit PDFs in Drive and use Adobe AI in Gemini. See what’s new in this…",
+    "preprint": false,
+    "discovered": "2026-11-10"
+  },
+  {
+    "id": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/gemini-for-healthcare",
+    "title": "Google Cloud launches Gemini for healthcare.",
+    "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/gemini-for-healthcare",
+    "source": "Google AI",
+    "category": "announcements",
+    "published": "2026-11-10T13:00:00+00:00",
+    "summary": "Google Cloud launches Gemini for healthcare to unify clinical data and automate workflows. Reduce administrative burnout. See how it works.",
+    "preprint": false,
+    "discovered": "2026-11-10"
+  },
+  {
+    "id": "https://deepmind.google/blog/introducing-alphaproof-code",
+    "title": "Introducing AlphaProof Code: a breakthrough in verifying complex software at depth",
+    "url": "https://deepmind.google/blog/introducing-alphaproof-code",
+    "source": "Google DeepMind",
+    "category": "announcements",
+    "published": "2026-11-10T12:02:28+00:00",
+    "summary": "AlphaProof Code agents wrote three million lines of proofs in Lean to verify Signal’s core encryption.",
+    "preprint": false,
+    "discovered": "2026-11-10"
+  },
+  {
+    "id": "https://openai.com/index/helping-caregivers-use-ai-in-everyday-life",
+    "title": "Helping caregivers use AI in everyday life",
+    "url": "https://openai.com/index/helping-caregivers-use-ai-in-everyday-life",
+    "source": "OpenAI",
+    "category": "announcements",
+    "published": "2026-11-10T12:00:00+00:00",
+    "summary": "OpenAI Academy is bringing free, hands-on ChatGPT workshops to caregivers in five U.S. cities, helping them build practical AI skills for everyday life.",
+    "preprint": false,
+    "discovered": "2026-11-10"
+  },
+  {
+    "id": "https://openai.com/index/closing-ai-guidance-gap-education",
+    "title": "Closing the AI guidance gap in education",
+    "url": "https://openai.com/index/closing-ai-guidance-gap-education",
+    "source": "OpenAI",
+    "category": "announcements",
+    "published": "2026-11-10T09:00:00+00:00",
+    "summary": "New ThinkYoung research and lessons from OpenAI’s EMEA education partnerships on supporting teachers, AI literacy, and independent learning.",
+    "preprint": false,
+    "discovered": "2026-11-10"
+  },
+  {
+    "id": "https://openai.com/index/ai-effect-on-freelance-work",
+    "title": "Work at the Frontier: AI’s effect on freelance work",
+    "url": "https://openai.com/index/ai-effect-on-freelance-work",
+    "source": "OpenAI",
+    "category": "announcements",
+    "published": "2026-11-10T07:00:00+00:00",
+    "summary": "New research from OpenAI and Upwork finds shifting demand for freelance work, new skill combinations, and larger budgets and more hours for AI-related projects.",
+    "preprint": false,
+    "discovered": "2026-11-10"
+  },
+  {
+    "id": "https://arxiv.org/abs/2611.12872",
+    "title": "HiVe-Mem: Interleaving Horizontal Memory Expansion and Vertical Evidence Composition for Multimodal Agents",
+    "url": "https://arxiv.org/abs/2611.12872",
+    "source": "arXiv cs.AI",
+    "category": "research",
+    "published": "2026-11-10T05:00:00+00:00",
+    "summary": "arXiv:2611.12872v1 Announce Type: cross Abstract: As multimodal agents accumulate increasingly long interaction histories, effectively retrieving and utilizing past information becomes critical for long-term interaction.…",
+    "preprint": true,
+    "discovered": "2026-11-10"
+  },
+  {
+    "id": "https://arxiv.org/abs/2611.12825",
+    "title": "MaxIM: Maximally Informative Incremental Summarization via Reinforcement Learning",
+    "url": "https://arxiv.org/abs/2611.12825",
+    "source": "arXiv cs.AI",
+    "category": "research",
+    "published": "2026-11-10T05:00:00+00:00",
+    "summary": "arXiv:2611.12825v1 Announce Type: new Abstract: AI systems must often maintain bounded memory of unbounded interaction histories. However, optimizing the memory representation, and its updates,…",
+    "preprint": true,
+    "discovered": "2026-11-10"
+  },
+  {
+    "id": "https://arxiv.org/abs/2611.12799",
+    "title": "Agentic-OPD: Recovering Forgotten Agent Capabilities via On-Policy Distillation for Agentic Tasks",
+    "url": "https://arxiv.org/abs/2611.12799",
+    "source": "arXiv cs.AI",
+    "category": "research",
+    "published": "2026-11-10T05:00:00+00:00",
+    "summary": "arXiv:2611.12799v1 Announce Type: cross Abstract: Reinforcement learning is now the mainstream paradigm for training LLMs on agentic tasks, yet standard practice keeps only the…",
+    "preprint": true,
+    "discovered": "2026-11-10"
+  },
+  {
+    "id": "https://arxiv.org/abs/2611.12760",
+    "title": "DeepChronos: Temporal Neuro-Symbolic Reasoning for Multi-Step Attack Detection",
+    "url": "https://arxiv.org/abs/2611.12760",
+    "source": "arXiv cs.AI",
+    "category": "research",
+    "published": "2026-11-10T05:00:00+00:00",
+    "summary": "arXiv:2611.12760v1 Announce Type: cross Abstract: Modern cyber threats commonly unfold as multi-step attacks comprising temporally and causally related phases. Current defenses commonly follow a…",
+    "preprint": true,
+    "discovered": "2026-11-10"
+  },
+  {
+    "id": "https://arxiv.org/abs/2611.12732",
+    "title": "$\\Sigma$-LeWM: Learning World Models via S-Information for Robot Control",
+    "url": "https://arxiv.org/abs/2611.12732",
+    "source": "arXiv cs.AI",
+    "category": "research",
+    "published": "2026-11-10T05:00:00+00:00",
+    "summary": "arXiv:2611.12732v1 Announce Type: cross Abstract: World models have increasingly been applied as a model-based control method for robotics tasks such as manipulation and locomotion.…",
+    "preprint": true,
+    "discovered": "2026-11-10"
+  },
+  {
+    "id": "https://www.anthropic.com/news/roadshow-launch",
+    "title": "Anthropic launches roadshow for proposed initial public offering",
+    "url": "https://www.anthropic.com/news/roadshow-launch",
+    "source": "Anthropic",
+    "category": "announcements",
+    "published": "2026-11-10T00:00:00+00:00",
+    "summary": "Today Anthropic, PBC launched the roadshow for its proposed initial public offering of its Class A common stock.",
+    "preprint": false,
+    "discovered": "2026-11-10"
+  },
+  {
+    "id": "https://huggingface.co/blog/decision",
+    "title": "Decision Models in Hugging Face",
+    "url": "https://huggingface.co/blog/decision",
+    "source": "Hugging Face",
+    "category": "research",
+    "published": "2026-11-10T00:00:00+00:00",
+    "summary": "",
+    "preprint": false,
+    "discovered": "2026-11-10"
+  },
+  {
+    "id": "https://deepmind.google/blog/gemini-robotics-2-5-accelerates-real-world-physical-intelligence",
+    "title": "Gemini Robotics 2.5 accelerates real-world general dexterity",
+    "url": "https://deepmind.google/blog/gemini-robotics-2-5-accelerates-real-world-physical-intelligence",
+    "source": "Google DeepMind",
+    "category": "announcements",
+    "published": "2026-11-09T19:51:47+00:00",
+    "summary": "Our most capable vision-language-action model enhances robot dexterity, reliability, and safety",
+    "preprint": false,
+    "discovered": "2026-11-10"
+  },
+  {
+    "id": "https://openai.com/index/chatgpt-enterprise-aws-marketplace",
+    "title": "ChatGPT Enterprise now available in AWS Marketplace",
+    "url": "https://openai.com/index/chatgpt-enterprise-aws-marketplace",
+    "source": "OpenAI",
+    "category": "announcements",
+    "published": "2026-11-09T19:00:00+00:00",
+    "summary": "ChatGPT Enterprise is now available through AWS Marketplace, helping organizations simplify procurement through existing AWS purchasing and billing relationships.",
+    "preprint": false,
+    "discovered": "2026-11-10"
+  },
+  {
     "id": "https://huggingface.co/blog/nvidia/nemotron-personas-finance-japan",
     "title": "Nemotron-Personas-Finance-Japan: A Synthetic Dataset Capturing Japan's Demographics and Financial Context",
     "url": "https://huggingface.co/blog/nvidia/nemotron-personas-finance-japan",
@@ -22,6 +187,17 @@
     "discovered": "2026-11-09"
   },
   {
+    "id": "https://openai.com/index/control-room",
+    "title": "Control Room: A central system to track and stop model workloads across our research infrastructure",
+    "url": "https://openai.com/index/control-room",
+    "source": "OpenAI",
+    "category": "announcements",
+    "published": "2026-11-09T13:00:00+00:00",
+    "summary": "Learn how OpenAI’s Control Room tracks model workloads across our research infrastructure and can rapidly stop them when safety or security concerns arise.",
+    "preprint": false,
+    "discovered": "2026-11-10"
+  },
+  {
     "id": "https://blogs.nvidia.com/blog/korean-startup-investments-msit",
     "title": "NVIDIA Announces New Planned Investments in Korean Startups at the MSIT-NVIDIA AI Startup Partnership Forum",
     "url": "https://blogs.nvidia.com/blog/korean-startup-investments-msit",
@@ -31,6 +207,17 @@
     "summary": "Korea’s Ministry of Science and ICT and NVIDIA hosted the MSIT-NVIDIA AI Startup Partnership Forum at COEX. Ryu Je-myung, vice minister of science and…",
     "preprint": false,
     "discovered": "2026-11-09"
+  },
+  {
+    "id": "https://openai.com/index/kuken",
+    "title": "Kuken Industries searches 70 years of drawings in minutes",
+    "url": "https://openai.com/index/kuken",
+    "source": "OpenAI",
+    "category": "announcements",
+    "published": "2026-11-09T08:00:00+00:00",
+    "summary": "Kuken Industries uses the OpenAI API to search 70 years of cooling tower drawings. Engineers can find the drawing for a repair in 4.5…",
+    "preprint": false,
+    "discovered": "2026-11-10"
   },
   {
     "id": "https://blogs.nvidia.com/blog/korea-physical-ai-ecosystem",
@@ -130,6 +317,17 @@
     "summary": "arXiv:2611.09721v1 Announce Type: cross Abstract: LLM agents benefit from using memory systems to improve performance on long-horizon, multi-session tasks. However, memory introduces a critical…",
     "preprint": true,
     "discovered": "2026-11-09"
+  },
+  {
+    "id": "https://www.anthropic.com/research/claude-electronics-design",
+    "title": "Claude can design electronic prototypes from start to finish",
+    "url": "https://www.anthropic.com/research/claude-electronics-design",
+    "source": "Anthropic Research",
+    "category": "research",
+    "published": "2026-11-09T00:00:00+00:00",
+    "summary": "We asked Claude to design three electronic devices: a speakerphone, a voice-assistant hub, and a handheld virtual pet. The prototypes worked without any fixes…",
+    "preprint": false,
+    "discovered": "2026-11-10"
   },
   {
     "id": "https://blogs.nvidia.com/blog/telco-open-source-tools-research-6g-networks",

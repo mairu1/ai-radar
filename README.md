@@ -12,53 +12,53 @@ Publisher excerpts reflect their claims. Research entries are not independently 
 
 ### Company announcements
 
-#### [Practice Makes Precise: At CoRL, NVIDIA and Partners Reveal How Robots Rehearse Delicate Work in Simulation](<https://blogs.nvidia.com/blog/robotics-simulation-advancements-corl>)
+#### [We’re bringing Adobe’s creative and productivity tools closer to your everyday Google apps.](<https://blog.google/company-news/inside-google/company-announcements/adobe-google-partnership-integration>)
 
-NVIDIA · 2026-11-09
+Google AI · 2026-11-10
 
-> Simulation, which has long been the proving ground for robots learning to walk, roll and hop, is now helping researchers teach robots tasks that…
+> Google and Adobe are integrating creative and productivity tools. Edit PDFs in Drive and use Adobe AI in Gemini. See what’s new in this…
 
-#### [NVIDIA Announces New Planned Investments in Korean Startups at the MSIT-NVIDIA AI Startup Partnership Forum](<https://blogs.nvidia.com/blog/korean-startup-investments-msit>)
+#### [Google Cloud launches Gemini for healthcare.](<https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/gemini-for-healthcare>)
 
-NVIDIA · 2026-11-09
+Google AI · 2026-11-10
 
-> Korea’s Ministry of Science and ICT and NVIDIA hosted the MSIT-NVIDIA AI Startup Partnership Forum at COEX. Ryu Je-myung, vice minister of science and…
+> Google Cloud launches Gemini for healthcare to unify clinical data and automate workflows. Reduce administrative burnout. See how it works.
 
-#### [Korea Advances Physical AI Across Industries With NVIDIA](<https://blogs.nvidia.com/blog/korea-physical-ai-ecosystem>)
+#### [Introducing AlphaProof Code: a breakthrough in verifying complex software at depth](<https://deepmind.google/blog/introducing-alphaproof-code>)
 
-NVIDIA · 2026-11-09
+Google DeepMind · 2026-11-10
 
-> Tapping into the country’s strengths in manufacturing and engineering, NVIDIA is helping advance Korea’s physical AI ecosystem. The country’s industry leaders are applying accelerated…
+> AlphaProof Code agents wrote three million lines of proofs in Lean to verify Signal’s core encryption.
 
-#### [Korea’s AI Ecosystem Advances and Secures Agentic AI With NVIDIA](<https://blogs.nvidia.com/blog/korea-secure-agentic-ai>)
+#### [Helping caregivers use AI in everyday life](<https://openai.com/index/helping-caregivers-use-ai-in-everyday-life>)
 
-NVIDIA · 2026-11-09
+OpenAI · 2026-11-10
 
-> As AI agents take on more work, they need capable open models and security that advances alongside them. Hyundai Motor Group is exploring NVIDIA…
+> OpenAI Academy is bringing free, hands-on ChatGPT workshops to caregivers in five U.S. cities, helping them build practical AI skills for everyday life.
 
-#### [From Chips to Skills, NVIDIA and Korea Expand Sovereign AI Collaboration](<https://blogs.nvidia.com/blog/korea-sovereign-ai-collaboration>)
+#### [Closing the AI guidance gap in education](<https://openai.com/index/closing-ai-guidance-gap-education>)
 
-NVIDIA · 2026-11-09
+OpenAI · 2026-11-10
 
-> NVIDIA and Korea’s Ministry of Science and ICT (MSIT) are expanding their collaboration across the country’s sovereign AI ecosystem, from AI semiconductors and data…
+> New ThinkYoung research and lessons from OpenAI’s EMEA education partnerships on supporting teachers, AI literacy, and independent learning.
 
-#### [NVIDIA Dynamo Recipes Bring Korea’s Leading Open Models to Production](<https://blogs.nvidia.com/blog/nvidia-dynamo-korea-open-models>)
+#### [Work at the Frontier: AI’s effect on freelance work](<https://openai.com/index/ai-effect-on-freelance-work>)
 
-NVIDIA · 2026-11-09
+OpenAI · 2026-11-10
 
-> NVIDIA is releasing Dynamo-optimized deployment recipes for Korea’s leading open models: A.X K2 from SK Telecom, K-EXAONE 2.0 from LG AI Research, Solar Open…
+> New research from OpenAI and Upwork finds shifting demand for freelance work, new skill combinations, and larger budgets and more hours for AI-related projects.
 
-#### [How NVIDIA Open Source Tools Are Helping Researchers Build Next-Generation 6G Networks](<https://blogs.nvidia.com/blog/telco-open-source-tools-research-6g-networks>)
+#### [Anthropic launches roadshow for proposed initial public offering](<https://www.anthropic.com/news/roadshow-launch>)
 
-NVIDIA · 2026-11-06
+Anthropic · 2026-11-10
 
-> A year ago, NVIDIA open sourced its Aerial wireless software, joining Sionna and a broader suite of open source tools for accelerating next-generation 6G…
+> Today Anthropic, PBC launched the roadshow for its proposed initial public offering of its Class A common stock.
 
-#### [Partnering with Hacktron to find vulnerabilities in OpenAI’s systems](<https://openai.com/index/partnering-with-hacktron>)
+#### [Gemini Robotics 2.5 accelerates real-world general dexterity](<https://deepmind.google/blog/gemini-robotics-2-5-accelerates-real-world-physical-intelligence>)
 
-OpenAI · 2026-11-06
+Google DeepMind · 2026-11-09
 
-> OpenAI is partnering with Hacktron to find vulnerabilities, test connections with third-party services, and strengthen defenses with frontier AI.
+> Our most capable vision-language-action model enhances robot dexterity, reliability, and safety
 
 ### Models with published weights
 
@@ -128,6 +128,40 @@ Weight files found in the repository. Check its model card and license before us
 
 ### Research & engineering
 
+#### [HiVe-Mem: Interleaving Horizontal Memory Expansion and Vertical Evidence Composition for Multimodal Agents](<https://arxiv.org/abs/2611.12872>)
+
+arXiv cs.AI · 2026-11-10 · **Preprint**
+
+> arXiv:2611.12872v1 Announce Type: cross Abstract: As multimodal agents accumulate increasingly long interaction histories, effectively retrieving and utilizing past information becomes critical for long-term interaction.…
+
+#### [MaxIM: Maximally Informative Incremental Summarization via Reinforcement Learning](<https://arxiv.org/abs/2611.12825>)
+
+arXiv cs.AI · 2026-11-10 · **Preprint**
+
+> arXiv:2611.12825v1 Announce Type: new Abstract: AI systems must often maintain bounded memory of unbounded interaction histories. However, optimizing the memory representation, and its updates,…
+
+#### [Agentic-OPD: Recovering Forgotten Agent Capabilities via On-Policy Distillation for Agentic Tasks](<https://arxiv.org/abs/2611.12799>)
+
+arXiv cs.AI · 2026-11-10 · **Preprint**
+
+> arXiv:2611.12799v1 Announce Type: cross Abstract: Reinforcement learning is now the mainstream paradigm for training LLMs on agentic tasks, yet standard practice keeps only the…
+
+#### [DeepChronos: Temporal Neuro-Symbolic Reasoning for Multi-Step Attack Detection](<https://arxiv.org/abs/2611.12760>)
+
+arXiv cs.AI · 2026-11-10 · **Preprint**
+
+> arXiv:2611.12760v1 Announce Type: cross Abstract: Modern cyber threats commonly unfold as multi-step attacks comprising temporally and causally related phases. Current defenses commonly follow a…
+
+#### [$\\Sigma$-LeWM: Learning World Models via S-Information for Robot Control](<https://arxiv.org/abs/2611.12732>)
+
+arXiv cs.AI · 2026-11-10 · **Preprint**
+
+> arXiv:2611.12732v1 Announce Type: cross Abstract: World models have increasingly been applied as a model-based control method for robotics tasks such as manipulation and locomotion.…
+
+#### [Decision Models in Hugging Face](<https://huggingface.co/blog/decision>)
+
+Hugging Face · 2026-11-10
+
 #### [Nemotron-Personas-Finance-Japan: A Synthetic Dataset Capturing Japan's Demographics and Financial Context](<https://huggingface.co/blog/nvidia/nemotron-personas-finance-japan>)
 
 Hugging Face · 2026-11-09
@@ -137,42 +171,6 @@ Hugging Face · 2026-11-09
 arXiv cs.AI · 2026-11-09 · **Preprint**
 
 > arXiv:2611.09891v1 Announce Type: new Abstract: Large language models reinvent the wheel all the time. They conflate task-solving with the execution of the solutions, which…
-
-#### [On the Reliability of Majority-Vote Pseudo-Labels in Test-Time Reinforcement Learning](<https://arxiv.org/abs/2611.09872>)
-
-arXiv cs.AI · 2026-11-09 · **Preprint**
-
-> arXiv:2611.09872v1 Announce Type: new Abstract: Test-time reinforcement learning (TTRL) adapts pretrained language models to unlabeled target-domain data using self-generated pseudo-labels, whose reliability remains poorly…
-
-#### [Test-Time Compute Scales Better with Parallel Agent Teams](<https://arxiv.org/abs/2611.09798>)
-
-arXiv cs.AI · 2026-11-09 · **Preprint**
-
-> arXiv:2611.09798v1 Announce Type: new Abstract: Test-time scaling improves the performance of a fixed model by spending more computation at inference. There are two common…
-
-#### [ROSE: Risk-Aware Orthogonal Subspace Navigation for Lifelong Knowledge Editing in Multimodal Large Language Models](<https://arxiv.org/abs/2611.09770>)
-
-arXiv cs.AI · 2026-11-09 · **Preprint**
-
-> arXiv:2611.09770v1 Announce Type: cross Abstract: Multimodal Large Language Models (MLLMs) require continuous factual updates to stay current, yet lifelong knowledge editing remains a daunting…
-
-#### [MemoryDojo: Benchmarking Poisoning Through LLM Agent Memory](<https://arxiv.org/abs/2611.09721>)
-
-arXiv cs.AI · 2026-11-09 · **Preprint**
-
-> arXiv:2611.09721v1 Announce Type: cross Abstract: LLM agents benefit from using memory systems to improve performance on long-horizon, multi-session tasks. However, memory introduces a critical…
-
-#### [SwarmEvolve: Latent Agent Swarms for Evolutionary Discovery and Optimization](<https://arxiv.org/abs/2611.08483>)
-
-arXiv cs.AI · 2026-11-06 · **Preprint**
-
-> arXiv:2611.08483v1 Announce Type: new Abstract: LLM-guided evolutionary search uses AI agents to improve programs for mathematical and computational problems by iteratively refining solutions and…
-
-#### [XStack: A Benchmark for ML Repo Migration](<https://arxiv.org/abs/2611.08472>)
-
-arXiv cs.AI · 2026-11-06 · **Preprint**
-
-> arXiv:2611.08472v1 Announce Type: cross Abstract: ML code should run where researchers choose, not where it was first written. Today, machine learning code mainly lives…
 
 [Browse all daily digests](digests/README.md).
 <!-- radar:end -->
