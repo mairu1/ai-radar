@@ -12,55 +12,61 @@ Publisher excerpts reflect their claims. Research entries are not independently 
 
 ### Company announcements
 
+#### [AlphaGenome 2: Deciphering how cells read DNA to better understand disease](<https://deepmind.google/blog/alphagenome-2-deciphering-how-cells-read-dna-to-better-understand-disease>)
+
+Google DeepMind · 2026-11-11
+
+> Predicting how DNA sequences and their variations impact specific human cell types and disease.
+
+#### [Experience the art and legacy of Dr. Esther Mahlangu](<https://blog.google/company-news/outreach-and-initiatives/arts-culture/esther-mahlangu>)
+
+Google AI · 2026-11-11
+
+> A portrait of Dr Nontobeko Ntombela, Senior Lecturer, Department of Curatorial, Public and Visual Cultures, Wits School of Arts, University of the Witwatersrand
+
+#### [ChatGPT Plus for veterans and servicemembers](<https://openai.com/index/chatgpt-plus-for-veterans>)
+
+OpenAI · 2026-11-11
+
+> More than 20,000 veterans and transitioning service members have claimed a free year of ChatGPT Plus. See how they use it to prepare for…
+
+#### [How AI Helps Recyclers Turn Mixed Waste Into Reusable Material](<https://blogs.nvidia.com/blog/ai-recycling-startups>)
+
+NVIDIA · 2026-11-11
+
+> Vision AI and robotics pick what’s worth recovering out of conveyor belts of used clothing, bottles and mixed recyclables, diverting thousands of tons of…
+
+#### [Gemini Intelligence: New features, on more devices](<https://blog.google/products-and-platforms/platforms/android/gemini-intelligence-november-features-devices>)
+
+Google AI · 2026-11-10
+
+> A man speaks into a phone. Text on the screen reads 'Gemini Intelligence'
+
+#### [Gemini 4 Carbon is now available](<https://deepmind.google/blog/gemini-4-carbon-is-now-available>)
+
+Google DeepMind · 2026-11-10
+
+#### [NVIDIA Expands Open Source Commitment With OpenShell Donation and New AI Infrastructure](<https://blogs.nvidia.com/blog/open-source-openshell-infrastructure>)
+
+NVIDIA · 2026-11-10
+
+> Kubernetes, the open source system that manages how applications run across thousands of AI factories, has become the foundation for AI, and the demands…
+
 #### [We’re bringing Adobe’s creative and productivity tools closer to your everyday Google apps.](<https://blog.google/company-news/inside-google/company-announcements/adobe-google-partnership-integration>)
 
 Google AI · 2026-11-10
 
 > Google and Adobe are integrating creative and productivity tools. Edit PDFs in Drive and use Adobe AI in Gemini. See what’s new in this…
 
-#### [Google Cloud launches Gemini for healthcare.](<https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/gemini-for-healthcare>)
-
-Google AI · 2026-11-10
-
-> Google Cloud launches Gemini for healthcare to unify clinical data and automate workflows. Reduce administrative burnout. See how it works.
-
-#### [Introducing AlphaProof Code: a breakthrough in verifying complex software at depth](<https://deepmind.google/blog/introducing-alphaproof-code>)
-
-Google DeepMind · 2026-11-10
-
-> AlphaProof Code agents wrote three million lines of proofs in Lean to verify Signal’s core encryption.
-
-#### [Helping caregivers use AI in everyday life](<https://openai.com/index/helping-caregivers-use-ai-in-everyday-life>)
-
-OpenAI · 2026-11-10
-
-> OpenAI Academy is bringing free, hands-on ChatGPT workshops to caregivers in five U.S. cities, helping them build practical AI skills for everyday life.
-
-#### [Closing the AI guidance gap in education](<https://openai.com/index/closing-ai-guidance-gap-education>)
-
-OpenAI · 2026-11-10
-
-> New ThinkYoung research and lessons from OpenAI’s EMEA education partnerships on supporting teachers, AI literacy, and independent learning.
-
-#### [Work at the Frontier: AI’s effect on freelance work](<https://openai.com/index/ai-effect-on-freelance-work>)
-
-OpenAI · 2026-11-10
-
-> New research from OpenAI and Upwork finds shifting demand for freelance work, new skill combinations, and larger budgets and more hours for AI-related projects.
-
-#### [Anthropic launches roadshow for proposed initial public offering](<https://www.anthropic.com/news/roadshow-launch>)
-
-Anthropic · 2026-11-10
-
-> Today Anthropic, PBC launched the roadshow for its proposed initial public offering of its Class A common stock.
-
-#### [Gemini Robotics 2.5 accelerates real-world general dexterity](<https://deepmind.google/blog/gemini-robotics-2-5-accelerates-real-world-physical-intelligence>)
-
-Google DeepMind · 2026-11-09
-
-> Our most capable vision-language-action model enhances robot dexterity, reliability, and safety
-
 ### Models with published weights
+
+#### [nvidia/Kimi-K3.1-Pro-NVFP4](<https://huggingface.co/nvidia/Kimi-K3.1-Pro-NVFP4>)
+
+nvidia · 2026-11-11
+
+Task: image-text-to-text · License: nvidia-open-model-agreement · Access: ungated
+
+Weight files found in the repository. Check its model card and license before use.
 
 #### [nvidia/MetricTrail](<https://huggingface.co/nvidia/MetricTrail>)
 
@@ -118,59 +124,53 @@ Task: text-generation · License: lfm1.0 · Access: ungated
 
 Weight files found in the repository. Check its model card and license before use.
 
-#### [LiquidAI/d1-Omni-2B](<https://huggingface.co/LiquidAI/d1-Omni-2B>)
-
-LiquidAI · 2026-10-24
-
-Task: audio-text-to-text · License: lfm1.0 · Access: ungated
-
-Weight files found in the repository. Check its model card and license before use.
-
 ### Research & engineering
+
+#### [Comparative Analysis of Agent Evaluation Frameworks: Stability, Detection, and Discovery in Enterprise Analytics Agents](<https://arxiv.org/abs/2611.14493>)
+
+arXiv cs.AI · 2026-11-11 · **Preprint**
+
+> arXiv:2611.14493v1 Announce Type: new Abstract: Deploying LLM-based analytics agents in enterprise settings requires evaluation frameworks that can reliably detect failures across complex, multi-tool workflows.…
+
+#### [Evaluating LLM-Generated World Models for Neuro-Symbolic Reasoning](<https://arxiv.org/abs/2611.14419>)
+
+arXiv cs.AI · 2026-11-11 · **Preprint**
+
+> arXiv:2611.14419v1 Announce Type: new Abstract: Formal world models can support planning, verification, and safety reasoning, but constructing them from open-ended natural-language situations is difficult,…
+
+#### [Bits or permutations? Spending a fixed inference budget on weight precision or on option-order averaging in small local language models](<https://arxiv.org/abs/2611.14413>)
+
+arXiv cs.AI · 2026-11-11 · **Preprint**
+
+> arXiv:2611.14413v1 Announce Type: new Abstract: Local language models can save memory by storing weights in fewer bits, and they can reduce sensitivity to the…
+
+#### [Blurring the Block Boundaries: Overlapping Block Denoising for Efficient Diffusion Language Models](<https://arxiv.org/abs/2611.14387>)
+
+arXiv cs.AI · 2026-11-11 · **Preprint**
+
+> arXiv:2611.14387v1 Announce Type: cross Abstract: Diffusion Language Models (DLMs) have emerged as effective alternatives to autoregressive models for latency-critical tasks, enabling faster token generation.…
+
+#### [EngineAgent: Agentizing On-Device LLM Inference Engines with Inference Stack Hierarchy Awareness and Hardware Abilities](<https://arxiv.org/abs/2611.14356>)
+
+arXiv cs.AI · 2026-11-11 · **Preprint**
+
+> arXiv:2611.14356v1 Announce Type: cross Abstract: Rapidly evolving LLM architectures and heterogeneous mobile hardware make supporting new models in on-device inference engines a recurring and…
+
+#### [Token Pooling-Aware Training for Multi-Vector Embedding Models](<https://huggingface.co/blog/token-pooling>)
+
+Hugging Face · 2026-11-11
+
+#### [Lazare, veni foras: Reprogramming Dormant Neurons to Backdoor AI Agents](<https://www.microsoft.com/en-us/research/blog/lazare-veni-foras-reprogramming-dormant-neurons-to-backdoor-ai-agents>)
+
+Microsoft Research · 2026-11-10
+
+> Microsoft researchers have discovered “Lazarus,” a backdoor technique that can reprogram dormant neurons in an AI model, causing an otherwise normal AI agent to…
 
 #### [HiVe-Mem: Interleaving Horizontal Memory Expansion and Vertical Evidence Composition for Multimodal Agents](<https://arxiv.org/abs/2611.12872>)
 
 arXiv cs.AI · 2026-11-10 · **Preprint**
 
 > arXiv:2611.12872v1 Announce Type: cross Abstract: As multimodal agents accumulate increasingly long interaction histories, effectively retrieving and utilizing past information becomes critical for long-term interaction.…
-
-#### [MaxIM: Maximally Informative Incremental Summarization via Reinforcement Learning](<https://arxiv.org/abs/2611.12825>)
-
-arXiv cs.AI · 2026-11-10 · **Preprint**
-
-> arXiv:2611.12825v1 Announce Type: new Abstract: AI systems must often maintain bounded memory of unbounded interaction histories. However, optimizing the memory representation, and its updates,…
-
-#### [Agentic-OPD: Recovering Forgotten Agent Capabilities via On-Policy Distillation for Agentic Tasks](<https://arxiv.org/abs/2611.12799>)
-
-arXiv cs.AI · 2026-11-10 · **Preprint**
-
-> arXiv:2611.12799v1 Announce Type: cross Abstract: Reinforcement learning is now the mainstream paradigm for training LLMs on agentic tasks, yet standard practice keeps only the…
-
-#### [DeepChronos: Temporal Neuro-Symbolic Reasoning for Multi-Step Attack Detection](<https://arxiv.org/abs/2611.12760>)
-
-arXiv cs.AI · 2026-11-10 · **Preprint**
-
-> arXiv:2611.12760v1 Announce Type: cross Abstract: Modern cyber threats commonly unfold as multi-step attacks comprising temporally and causally related phases. Current defenses commonly follow a…
-
-#### [$\\Sigma$-LeWM: Learning World Models via S-Information for Robot Control](<https://arxiv.org/abs/2611.12732>)
-
-arXiv cs.AI · 2026-11-10 · **Preprint**
-
-> arXiv:2611.12732v1 Announce Type: cross Abstract: World models have increasingly been applied as a model-based control method for robotics tasks such as manipulation and locomotion.…
-
-#### [Decision Models in Hugging Face](<https://huggingface.co/blog/decision>)
-
-Hugging Face · 2026-11-10
-
-#### [Nemotron-Personas-Finance-Japan: A Synthetic Dataset Capturing Japan's Demographics and Financial Context](<https://huggingface.co/blog/nvidia/nemotron-personas-finance-japan>)
-
-Hugging Face · 2026-11-09
-
-#### [CPU-ARC: Agentic Reasoning Caching for on-CPU Reasoning Reuse](<https://arxiv.org/abs/2611.09891>)
-
-arXiv cs.AI · 2026-11-09 · **Preprint**
-
-> arXiv:2611.09891v1 Announce Type: new Abstract: Large language models reinvent the wheel all the time. They conflate task-solving with the execution of the solutions, which…
 
 [Browse all daily digests](digests/README.md).
 <!-- radar:end -->

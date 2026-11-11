@@ -1,5 +1,173 @@
 [
   {
+    "id": "https://deepmind.google/blog/alphagenome-2-deciphering-how-cells-read-dna-to-better-understand-disease",
+    "title": "AlphaGenome 2: Deciphering how cells read DNA to better understand disease",
+    "url": "https://deepmind.google/blog/alphagenome-2-deciphering-how-cells-read-dna-to-better-understand-disease",
+    "source": "Google DeepMind",
+    "category": "announcements",
+    "published": "2026-11-11T15:00:15+00:00",
+    "summary": "Predicting how DNA sequences and their variations impact specific human cell types and disease.",
+    "preprint": false,
+    "discovered": "2026-11-11"
+  },
+  {
+    "id": "https://blog.google/company-news/outreach-and-initiatives/arts-culture/esther-mahlangu",
+    "title": "Experience the art and legacy of Dr. Esther Mahlangu",
+    "url": "https://blog.google/company-news/outreach-and-initiatives/arts-culture/esther-mahlangu",
+    "source": "Google AI",
+    "category": "announcements",
+    "published": "2026-11-11T09:00:00+00:00",
+    "summary": "A portrait of Dr Nontobeko Ntombela, Senior Lecturer, Department of Curatorial, Public and Visual Cultures, Wits School of Arts, University of the Witwatersrand",
+    "preprint": false,
+    "discovered": "2026-11-11"
+  },
+  {
+    "id": "https://openai.com/index/chatgpt-plus-for-veterans",
+    "title": "ChatGPT Plus for veterans and servicemembers",
+    "url": "https://openai.com/index/chatgpt-plus-for-veterans",
+    "source": "OpenAI",
+    "category": "announcements",
+    "published": "2026-11-11T08:00:00+00:00",
+    "summary": "More than 20,000 veterans and transitioning service members have claimed a free year of ChatGPT Plus. See how they use it to prepare for…",
+    "preprint": false,
+    "discovered": "2026-11-11"
+  },
+  {
+    "id": "https://arxiv.org/abs/2611.14493",
+    "title": "Comparative Analysis of Agent Evaluation Frameworks: Stability, Detection, and Discovery in Enterprise Analytics Agents",
+    "url": "https://arxiv.org/abs/2611.14493",
+    "source": "arXiv cs.AI",
+    "category": "research",
+    "published": "2026-11-11T05:00:00+00:00",
+    "summary": "arXiv:2611.14493v1 Announce Type: new Abstract: Deploying LLM-based analytics agents in enterprise settings requires evaluation frameworks that can reliably detect failures across complex, multi-tool workflows.…",
+    "preprint": true,
+    "discovered": "2026-11-11"
+  },
+  {
+    "id": "https://arxiv.org/abs/2611.14419",
+    "title": "Evaluating LLM-Generated World Models for Neuro-Symbolic Reasoning",
+    "url": "https://arxiv.org/abs/2611.14419",
+    "source": "arXiv cs.AI",
+    "category": "research",
+    "published": "2026-11-11T05:00:00+00:00",
+    "summary": "arXiv:2611.14419v1 Announce Type: new Abstract: Formal world models can support planning, verification, and safety reasoning, but constructing them from open-ended natural-language situations is difficult,…",
+    "preprint": true,
+    "discovered": "2026-11-11"
+  },
+  {
+    "id": "https://arxiv.org/abs/2611.14413",
+    "title": "Bits or permutations? Spending a fixed inference budget on weight precision or on option-order averaging in small local language models",
+    "url": "https://arxiv.org/abs/2611.14413",
+    "source": "arXiv cs.AI",
+    "category": "research",
+    "published": "2026-11-11T05:00:00+00:00",
+    "summary": "arXiv:2611.14413v1 Announce Type: new Abstract: Local language models can save memory by storing weights in fewer bits, and they can reduce sensitivity to the…",
+    "preprint": true,
+    "discovered": "2026-11-11"
+  },
+  {
+    "id": "https://arxiv.org/abs/2611.14387",
+    "title": "Blurring the Block Boundaries: Overlapping Block Denoising for Efficient Diffusion Language Models",
+    "url": "https://arxiv.org/abs/2611.14387",
+    "source": "arXiv cs.AI",
+    "category": "research",
+    "published": "2026-11-11T05:00:00+00:00",
+    "summary": "arXiv:2611.14387v1 Announce Type: cross Abstract: Diffusion Language Models (DLMs) have emerged as effective alternatives to autoregressive models for latency-critical tasks, enabling faster token generation.…",
+    "preprint": true,
+    "discovered": "2026-11-11"
+  },
+  {
+    "id": "https://arxiv.org/abs/2611.14356",
+    "title": "EngineAgent: Agentizing On-Device LLM Inference Engines with Inference Stack Hierarchy Awareness and Hardware Abilities",
+    "url": "https://arxiv.org/abs/2611.14356",
+    "source": "arXiv cs.AI",
+    "category": "research",
+    "published": "2026-11-11T05:00:00+00:00",
+    "summary": "arXiv:2611.14356v1 Announce Type: cross Abstract: Rapidly evolving LLM architectures and heterogeneous mobile hardware make supporting new models in on-device inference engines a recurring and…",
+    "preprint": true,
+    "discovered": "2026-11-11"
+  },
+  {
+    "id": "https://blogs.nvidia.com/blog/ai-recycling-startups",
+    "title": "How AI Helps Recyclers Turn Mixed Waste Into Reusable Material",
+    "url": "https://blogs.nvidia.com/blog/ai-recycling-startups",
+    "source": "NVIDIA",
+    "category": "announcements",
+    "published": "2026-11-11T03:00:20+00:00",
+    "summary": "Vision AI and robotics pick what’s worth recovering out of conveyor belts of used clothing, bottles and mixed recyclables, diverting thousands of tons of…",
+    "preprint": false,
+    "discovered": "2026-11-11"
+  },
+  {
+    "id": "https://huggingface.co/nvidia/Kimi-K3.1-Pro-NVFP4",
+    "title": "nvidia/Kimi-K3.1-Pro-NVFP4",
+    "url": "https://huggingface.co/nvidia/Kimi-K3.1-Pro-NVFP4",
+    "source": "nvidia",
+    "category": "models",
+    "published": "2026-11-11T00:57:46+00:00",
+    "summary": "",
+    "license": "nvidia-open-model-agreement",
+    "task": "image-text-to-text",
+    "gated": false,
+    "weight_files": 96,
+    "discovered": "2026-11-11"
+  },
+  {
+    "id": "https://huggingface.co/blog/token-pooling",
+    "title": "Token Pooling-Aware Training for Multi-Vector Embedding Models",
+    "url": "https://huggingface.co/blog/token-pooling",
+    "source": "Hugging Face",
+    "category": "research",
+    "published": "2026-11-11T00:00:00+00:00",
+    "summary": "",
+    "preprint": false,
+    "discovered": "2026-11-11"
+  },
+  {
+    "id": "https://www.microsoft.com/en-us/research/blog/lazare-veni-foras-reprogramming-dormant-neurons-to-backdoor-ai-agents",
+    "title": "Lazare, veni foras: Reprogramming Dormant Neurons to Backdoor AI Agents",
+    "url": "https://www.microsoft.com/en-us/research/blog/lazare-veni-foras-reprogramming-dormant-neurons-to-backdoor-ai-agents",
+    "source": "Microsoft Research",
+    "category": "research",
+    "published": "2026-11-10T20:52:56+00:00",
+    "summary": "Microsoft researchers have discovered “Lazarus,” a backdoor technique that can reprogram dormant neurons in an AI model, causing an otherwise normal AI agent to…",
+    "preprint": false,
+    "discovered": "2026-11-11"
+  },
+  {
+    "id": "https://blog.google/products-and-platforms/platforms/android/gemini-intelligence-november-features-devices",
+    "title": "Gemini Intelligence: New features, on more devices",
+    "url": "https://blog.google/products-and-platforms/platforms/android/gemini-intelligence-november-features-devices",
+    "source": "Google AI",
+    "category": "announcements",
+    "published": "2026-11-10T19:00:00+00:00",
+    "summary": "A man speaks into a phone. Text on the screen reads 'Gemini Intelligence'",
+    "preprint": false,
+    "discovered": "2026-11-11"
+  },
+  {
+    "id": "https://deepmind.google/blog/gemini-4-carbon-is-now-available",
+    "title": "Gemini 4 Carbon is now available",
+    "url": "https://deepmind.google/blog/gemini-4-carbon-is-now-available",
+    "source": "Google DeepMind",
+    "category": "announcements",
+    "published": "2026-11-10T16:03:47+00:00",
+    "summary": "",
+    "preprint": false,
+    "discovered": "2026-11-11"
+  },
+  {
+    "id": "https://blogs.nvidia.com/blog/open-source-openshell-infrastructure",
+    "title": "NVIDIA Expands Open Source Commitment With OpenShell Donation and New AI Infrastructure",
+    "url": "https://blogs.nvidia.com/blog/open-source-openshell-infrastructure",
+    "source": "NVIDIA",
+    "category": "announcements",
+    "published": "2026-11-10T16:00:03+00:00",
+    "summary": "Kubernetes, the open source system that manages how applications run across thousands of AI factories, has become the foundation for AI, and the demands…",
+    "preprint": false,
+    "discovered": "2026-11-11"
+  },
+  {
     "id": "https://blog.google/company-news/inside-google/company-announcements/adobe-google-partnership-integration",
     "title": "We’re bringing Adobe’s creative and productivity tools closer to your everyday Google apps.",
     "url": "https://blog.google/company-news/inside-google/company-announcements/adobe-google-partnership-integration",
@@ -44,6 +212,17 @@
     "discovered": "2026-11-10"
   },
   {
+    "id": "https://openai.com/index/introducing-businesses-chatgpt",
+    "title": "Introducing Businesses in ChatGPT",
+    "url": "https://openai.com/index/introducing-businesses-chatgpt",
+    "source": "OpenAI",
+    "category": "announcements",
+    "published": "2026-11-10T10:00:00+00:00",
+    "summary": "Manage your business information, get insights about how your business shows up, and turn interest into action in ChatGPT.",
+    "preprint": false,
+    "discovered": "2026-11-11"
+  },
+  {
     "id": "https://openai.com/index/closing-ai-guidance-gap-education",
     "title": "Closing the AI guidance gap in education",
     "url": "https://openai.com/index/closing-ai-guidance-gap-education",
@@ -53,6 +232,17 @@
     "summary": "New ThinkYoung research and lessons from OpenAI’s EMEA education partnerships on supporting teachers, AI literacy, and independent learning.",
     "preprint": false,
     "discovered": "2026-11-10"
+  },
+  {
+    "id": "https://openai.com/index/singapore-airlines-travel-work",
+    "title": "Singapore Airlines elevates travel & work with OpenAI technology",
+    "url": "https://openai.com/index/singapore-airlines-travel-work",
+    "source": "OpenAI",
+    "category": "announcements",
+    "published": "2026-11-10T08:00:00+00:00",
+    "summary": "Discover how Singapore Airlines uses OpenAI models and API to enhance customer support, travel discovery, and employee productivity, doubling CSAT for its Kris chatbot.",
+    "preprint": false,
+    "discovered": "2026-11-11"
   },
   {
     "id": "https://openai.com/index/ai-effect-on-freelance-work",
@@ -130,6 +320,17 @@
     "summary": "Today Anthropic, PBC launched the roadshow for its proposed initial public offering of its Class A common stock.",
     "preprint": false,
     "discovered": "2026-11-10"
+  },
+  {
+    "id": "https://huggingface.co/blog/hub-gcp-marketplace",
+    "title": "Pay for Hugging Face Hub with your Google Cloud Account",
+    "url": "https://huggingface.co/blog/hub-gcp-marketplace",
+    "source": "Hugging Face",
+    "category": "research",
+    "published": "2026-11-10T00:00:00+00:00",
+    "summary": "",
+    "preprint": false,
+    "discovered": "2026-11-11"
   },
   {
     "id": "https://huggingface.co/blog/decision",
