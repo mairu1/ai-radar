@@ -12,6 +12,36 @@ Publisher excerpts reflect their claims. Research entries are not independently 
 
 ### Company announcements
 
+#### [Holiday Extras is rethinking what it can build with Codex](<https://openai.com/business/customer-stories/holidays-extras-codex>)
+
+OpenAI · 2026-11-12
+
+> With Codex, Holiday Extras is turning customer expertise into better apps, higher booking conversion and new possibilities for growth.
+
+#### [Gilbert + Tobin rethinks the business of law with AI](<https://openai.com/index/gilbert-tobin-sam-nickless>)
+
+OpenAI · 2026-11-12
+
+> A conversation with Sam Nickless, Partner and Chief Executive Officer at Gilbert + Tobin.
+
+#### [Supporting research on AI and children’s safety](<https://openai.com/index/children-first-declaration>)
+
+OpenAI · 2026-11-12
+
+> OpenAI commits $2 million to research on AI and children’s safety. The work supports shared tools to measure risks and opportunities for young people.
+
+#### [Gemini Decisions API: Fast, calibrated multimodal decisions](<https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api>)
+
+Google AI · 2026-11-11
+
+> Meet the Gemini Decisions API, powered by our state-of-the-art model Gemini Decision for fast, calibrated multimodal decisions.
+
+#### [Try Tabletop: Customizable, collaborative spaces for groups to plan, play and do more together.](<https://blog.google/innovation-and-ai/models-and-research/google-labs/tabletop>)
+
+Google AI · 2026-11-11
+
+> Tabletop is a new Google Labs experiment for group collaboration. Build interactive itineraries, polls, and brackets with your team. Join the waitlist.
+
 #### [AlphaGenome 2: Deciphering how cells read DNA to better understand disease](<https://deepmind.google/blog/alphagenome-2-deciphering-how-cells-read-dna-to-better-understand-disease>)
 
 Google DeepMind · 2026-11-11
@@ -29,34 +59,6 @@ Google AI · 2026-11-11
 OpenAI · 2026-11-11
 
 > More than 20,000 veterans and transitioning service members have claimed a free year of ChatGPT Plus. See how they use it to prepare for…
-
-#### [How AI Helps Recyclers Turn Mixed Waste Into Reusable Material](<https://blogs.nvidia.com/blog/ai-recycling-startups>)
-
-NVIDIA · 2026-11-11
-
-> Vision AI and robotics pick what’s worth recovering out of conveyor belts of used clothing, bottles and mixed recyclables, diverting thousands of tons of…
-
-#### [Gemini Intelligence: New features, on more devices](<https://blog.google/products-and-platforms/platforms/android/gemini-intelligence-november-features-devices>)
-
-Google AI · 2026-11-10
-
-> A man speaks into a phone. Text on the screen reads 'Gemini Intelligence'
-
-#### [Gemini 4 Carbon is now available](<https://deepmind.google/blog/gemini-4-carbon-is-now-available>)
-
-Google DeepMind · 2026-11-10
-
-#### [NVIDIA Expands Open Source Commitment With OpenShell Donation and New AI Infrastructure](<https://blogs.nvidia.com/blog/open-source-openshell-infrastructure>)
-
-NVIDIA · 2026-11-10
-
-> Kubernetes, the open source system that manages how applications run across thousands of AI factories, has become the foundation for AI, and the demands…
-
-#### [We’re bringing Adobe’s creative and productivity tools closer to your everyday Google apps.](<https://blog.google/company-news/inside-google/company-announcements/adobe-google-partnership-integration>)
-
-Google AI · 2026-11-10
-
-> Google and Adobe are integrating creative and productivity tools. Edit PDFs in Drive and use Adobe AI in Gemini. See what’s new in this…
 
 ### Models with published weights
 
@@ -126,6 +128,10 @@ Weight files found in the repository. Check its model card and license before us
 
 ### Research & engineering
 
+#### [The Definitive Fine-Tuning Guide for 3D Generation Models](<https://huggingface.co/blog/3d-lora-finetuning>)
+
+Hugging Face · 2026-11-12
+
 #### [Comparative Analysis of Agent Evaluation Frameworks: Stability, Detection, and Discovery in Enterprise Analytics Agents](<https://arxiv.org/abs/2611.14493>)
 
 arXiv cs.AI · 2026-11-11 · **Preprint**
@@ -165,12 +171,6 @@ Hugging Face · 2026-11-11
 Microsoft Research · 2026-11-10
 
 > Microsoft researchers have discovered “Lazarus,” a backdoor technique that can reprogram dormant neurons in an AI model, causing an otherwise normal AI agent to…
-
-#### [HiVe-Mem: Interleaving Horizontal Memory Expansion and Vertical Evidence Composition for Multimodal Agents](<https://arxiv.org/abs/2611.12872>)
-
-arXiv cs.AI · 2026-11-10 · **Preprint**
-
-> arXiv:2611.12872v1 Announce Type: cross Abstract: As multimodal agents accumulate increasingly long interaction histories, effectively retrieving and utilizing past information becomes critical for long-term interaction.…
 
 [Browse all daily digests](digests/README.md).
 <!-- radar:end -->

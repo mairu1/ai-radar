@@ -1,5 +1,71 @@
 [
   {
+    "id": "https://openai.com/business/customer-stories/holidays-extras-codex",
+    "title": "Holiday Extras is rethinking what it can build with Codex",
+    "url": "https://openai.com/business/customer-stories/holidays-extras-codex",
+    "source": "OpenAI",
+    "category": "announcements",
+    "published": "2026-11-12T09:30:00+00:00",
+    "summary": "With Codex, Holiday Extras is turning customer expertise into better apps, higher booking conversion and new possibilities for growth.",
+    "preprint": false,
+    "discovered": "2026-11-12"
+  },
+  {
+    "id": "https://openai.com/index/gilbert-tobin-sam-nickless",
+    "title": "Gilbert + Tobin rethinks the business of law with AI",
+    "url": "https://openai.com/index/gilbert-tobin-sam-nickless",
+    "source": "OpenAI",
+    "category": "announcements",
+    "published": "2026-11-12T00:00:00+00:00",
+    "summary": "A conversation with Sam Nickless, Partner and Chief Executive Officer at Gilbert + Tobin.",
+    "preprint": false,
+    "discovered": "2026-11-12"
+  },
+  {
+    "id": "https://openai.com/index/children-first-declaration",
+    "title": "Supporting research on AI and children’s safety",
+    "url": "https://openai.com/index/children-first-declaration",
+    "source": "OpenAI",
+    "category": "announcements",
+    "published": "2026-11-12T00:00:00+00:00",
+    "summary": "OpenAI commits $2 million to research on AI and children’s safety. The work supports shared tools to measure risks and opportunities for young people.",
+    "preprint": false,
+    "discovered": "2026-11-12"
+  },
+  {
+    "id": "https://huggingface.co/blog/3d-lora-finetuning",
+    "title": "The Definitive Fine-Tuning Guide for 3D Generation Models",
+    "url": "https://huggingface.co/blog/3d-lora-finetuning",
+    "source": "Hugging Face",
+    "category": "research",
+    "published": "2026-11-12T00:00:00+00:00",
+    "summary": "",
+    "preprint": false,
+    "discovered": "2026-11-12"
+  },
+  {
+    "id": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api",
+    "title": "Gemini Decisions API: Fast, calibrated multimodal decisions",
+    "url": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api",
+    "source": "Google AI",
+    "category": "announcements",
+    "published": "2026-11-11T18:00:00+00:00",
+    "summary": "Meet the Gemini Decisions API, powered by our state-of-the-art model Gemini Decision for fast, calibrated multimodal decisions.",
+    "preprint": false,
+    "discovered": "2026-11-12"
+  },
+  {
+    "id": "https://blog.google/innovation-and-ai/models-and-research/google-labs/tabletop",
+    "title": "Try Tabletop: Customizable, collaborative spaces for groups to plan, play and do more together.",
+    "url": "https://blog.google/innovation-and-ai/models-and-research/google-labs/tabletop",
+    "source": "Google AI",
+    "category": "announcements",
+    "published": "2026-11-11T16:00:00+00:00",
+    "summary": "Tabletop is a new Google Labs experiment for group collaboration. Build interactive itineraries, polls, and brackets with your team. Join the waitlist.",
+    "preprint": false,
+    "discovered": "2026-11-12"
+  },
+  {
     "id": "https://deepmind.google/blog/alphagenome-2-deciphering-how-cells-read-dna-to-better-understand-disease",
     "title": "AlphaGenome 2: Deciphering how cells read DNA to better understand disease",
     "url": "https://deepmind.google/blog/alphagenome-2-deciphering-how-cells-read-dna-to-better-understand-disease",
@@ -111,6 +177,17 @@
     "gated": false,
     "weight_files": 96,
     "discovered": "2026-11-11"
+  },
+  {
+    "id": "https://openai.com/index/jiostar-vijay-seshadri",
+    "title": "JioStar’s chief architect on AI discovery at 500M-user scale",
+    "url": "https://openai.com/index/jiostar-vijay-seshadri",
+    "source": "OpenAI",
+    "category": "announcements",
+    "published": "2026-11-11T00:00:00+00:00",
+    "summary": "JioStar’s Vijay Seshadri explains AI discovery at 500M-user scale. Read his lessons on evals, guardrails, and taking AI into production.",
+    "preprint": false,
+    "discovered": "2026-11-12"
   },
   {
     "id": "https://huggingface.co/blog/token-pooling",
