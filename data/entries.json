@@ -1,5 +1,126 @@
 [
   {
+    "id": "https://blogs.nvidia.com/blog/how-ai-is-helping-care-teams",
+    "title": "How AI Is Helping Care Teams Get Patients the Right Care, Sooner",
+    "url": "https://blogs.nvidia.com/blog/how-ai-is-helping-care-teams",
+    "source": "NVIDIA",
+    "category": "announcements",
+    "published": "2026-11-13T13:00:42+00:00",
+    "summary": "From pediatric research to smart hospitals, AI is helping care teams spend less time on routine tasks and more time with patients. Health systems…",
+    "preprint": false,
+    "discovered": "2026-11-13"
+  },
+  {
+    "id": "https://arxiv.org/abs/2611.17220",
+    "title": "Scalable Conversational Assessment: Chat-Based Exams with a Two-Agent LLM Pipeline",
+    "url": "https://arxiv.org/abs/2611.17220",
+    "source": "arXiv cs.AI",
+    "category": "research",
+    "published": "2026-11-13T05:00:00+00:00",
+    "summary": "arXiv:2611.17220v1 Announce Type: cross Abstract: Oral exams are compelling because (1) students can be asked to provide their reasoning for an answer and (2)…",
+    "preprint": true,
+    "discovered": "2026-11-13"
+  },
+  {
+    "id": "https://arxiv.org/abs/2611.17186",
+    "title": "Cortex-FL: Agent-Mediated Collaboration for Federated Learning",
+    "url": "https://arxiv.org/abs/2611.17186",
+    "source": "arXiv cs.AI",
+    "category": "research",
+    "published": "2026-11-13T05:00:00+00:00",
+    "summary": "arXiv:2611.17186v1 Announce Type: new Abstract: Federated learning (FL) enables independent data owners to train models collaboratively without centralizing raw data. However, identifying collaborators, preparing…",
+    "preprint": true,
+    "discovered": "2026-11-13"
+  },
+  {
+    "id": "https://arxiv.org/abs/2611.17128",
+    "title": "Parameter-Efficient Conciseness Adaptation: Differentiable Length Control for Concise Clinical Reasoning in Smaller Language Models",
+    "url": "https://arxiv.org/abs/2611.17128",
+    "source": "arXiv cs.AI",
+    "category": "research",
+    "published": "2026-11-13T05:00:00+00:00",
+    "summary": "arXiv:2611.17128v1 Announce Type: cross Abstract: Smaller language models (SLMs) make it feasible to deploy clinical natural language processing where large proprietary models are too…",
+    "preprint": true,
+    "discovered": "2026-11-13"
+  },
+  {
+    "id": "https://arxiv.org/abs/2611.17105",
+    "title": "Predicting Ethanol Drinking Status from Nonhuman Primate Liver Histology: A Proof of Concept for Parameter-efficient Fine-tuning in Few-Shot Vision-Language Modeling",
+    "url": "https://arxiv.org/abs/2611.17105",
+    "source": "arXiv cs.AI",
+    "category": "research",
+    "published": "2026-11-13T05:00:00+00:00",
+    "summary": "arXiv:2611.17105v1 Announce Type: cross Abstract: Combining vision-language models (VLMs) with parameter-efficient fine-tuning (PEFT) offers a promising approach to few-shot whole-slide image (WSI) classification in…",
+    "preprint": true,
+    "discovered": "2026-11-13"
+  },
+  {
+    "id": "https://arxiv.org/abs/2611.17072",
+    "title": "Reasoning Supervision and Capability Retention in LoRA Domain Adaptation",
+    "url": "https://arxiv.org/abs/2611.17072",
+    "source": "arXiv cs.AI",
+    "category": "research",
+    "published": "2026-11-13T05:00:00+00:00",
+    "summary": "arXiv:2611.17072v1 Announce Type: new Abstract: Fine-tuning foundation models on financial data has a wide range of applications, including identifying event types from news, monitoring…",
+    "preprint": true,
+    "discovered": "2026-11-13"
+  },
+  {
+    "id": "https://www.microsoft.com/en-us/research/podcast/microsoft-research-focus-edition-98",
+    "title": "Microsoft Research Focus – Edition #98",
+    "url": "https://www.microsoft.com/en-us/research/podcast/microsoft-research-focus-edition-98",
+    "source": "Microsoft Research",
+    "category": "research",
+    "published": "2026-11-12T21:31:57+00:00",
+    "summary": "What's new in research at Microsoft? Host Anson Ho explores the latest, including AI-powered universal translation, a breakthrough in a 31-year-old mathematics challenge, and…",
+    "preprint": false,
+    "discovered": "2026-11-13"
+  },
+  {
+    "id": "https://openai.com/business/customer-stories/amplitude",
+    "title": "How Amplitude ships product improvements in 1–2 days with OpenAI",
+    "url": "https://openai.com/business/customer-stories/amplitude",
+    "source": "OpenAI",
+    "category": "announcements",
+    "published": "2026-11-12T20:00:00+00:00",
+    "summary": "Built primarily on OpenAI models, Amplitude’s proactive product agent, Wave, identifies what to build, helps teams ship changes with coding agents, and measures the…",
+    "preprint": false,
+    "discovered": "2026-11-13"
+  },
+  {
+    "id": "https://deepmind.google/blog/introducing-gemini-4-hydrogen",
+    "title": "Introducing Gemini 4 Hydrogen",
+    "url": "https://deepmind.google/blog/introducing-gemini-4-hydrogen",
+    "source": "Google DeepMind",
+    "category": "announcements",
+    "published": "2026-11-12T18:00:50+00:00",
+    "summary": "",
+    "preprint": false,
+    "discovered": "2026-11-13"
+  },
+  {
+    "id": "https://blog.google/products-and-platforms/products/search/gemini-4-hydrogen-search-upgrade",
+    "title": "Google Search gets a major upgrade with Gemini 4 Hydrogen",
+    "url": "https://blog.google/products-and-platforms/products/search/gemini-4-hydrogen-search-upgrade",
+    "source": "Google AI",
+    "category": "announcements",
+    "published": "2026-11-12T18:00:00+00:00",
+    "summary": "Rotating carousel of cards with text \"Gemini 4 Hydrogen\" \"Now in Google Search\" and examples from the Google Search UI",
+    "preprint": false,
+    "discovered": "2026-11-13"
+  },
+  {
+    "id": "https://openai.com/business/customer-stories/gondola",
+    "title": "Gondola doubles revenue as its team builds more with Codex",
+    "url": "https://openai.com/business/customer-stories/gondola",
+    "source": "OpenAI",
+    "category": "announcements",
+    "published": "2026-11-12T12:00:00+00:00",
+    "summary": "Gondola helps creatives get credit and get hired, with Codex raising its lead engineer’s output by 50% and ChatGPT simplifying daily work.",
+    "preprint": false,
+    "discovered": "2026-11-13"
+  },
+  {
     "id": "https://openai.com/business/customer-stories/holidays-extras-codex",
     "title": "Holiday Extras is rethinking what it can build with Codex",
     "url": "https://openai.com/business/customer-stories/holidays-extras-codex",
@@ -287,6 +408,17 @@
     "summary": "OpenAI Academy is bringing free, hands-on ChatGPT workshops to caregivers in five U.S. cities, helping them build practical AI skills for everyday life.",
     "preprint": false,
     "discovered": "2026-11-10"
+  },
+  {
+    "id": "https://deepmind.google/blog/opening-the-datasets-behind-our-ai-weather-models",
+    "title": "Opening the datasets behind our AI weather models",
+    "url": "https://deepmind.google/blog/opening-the-datasets-behind-our-ai-weather-models",
+    "source": "Google DeepMind",
+    "category": "announcements",
+    "published": "2026-11-10T11:13:04+00:00",
+    "summary": "Foundational precipitation and geostationary satellite datasets to observe the planet clearly.",
+    "preprint": false,
+    "discovered": "2026-11-13"
   },
   {
     "id": "https://openai.com/index/introducing-businesses-chatgpt",

@@ -12,6 +12,34 @@ Publisher excerpts reflect their claims. Research entries are not independently 
 
 ### Company announcements
 
+#### [How AI Is Helping Care Teams Get Patients the Right Care, Sooner](<https://blogs.nvidia.com/blog/how-ai-is-helping-care-teams>)
+
+NVIDIA · 2026-11-13
+
+> From pediatric research to smart hospitals, AI is helping care teams spend less time on routine tasks and more time with patients. Health systems…
+
+#### [How Amplitude ships product improvements in 1–2 days with OpenAI](<https://openai.com/business/customer-stories/amplitude>)
+
+OpenAI · 2026-11-12
+
+> Built primarily on OpenAI models, Amplitude’s proactive product agent, Wave, identifies what to build, helps teams ship changes with coding agents, and measures the…
+
+#### [Introducing Gemini 4 Hydrogen](<https://deepmind.google/blog/introducing-gemini-4-hydrogen>)
+
+Google DeepMind · 2026-11-12
+
+#### [Google Search gets a major upgrade with Gemini 4 Hydrogen](<https://blog.google/products-and-platforms/products/search/gemini-4-hydrogen-search-upgrade>)
+
+Google AI · 2026-11-12
+
+> Rotating carousel of cards with text "Gemini 4 Hydrogen" "Now in Google Search" and examples from the Google Search UI
+
+#### [Gondola doubles revenue as its team builds more with Codex](<https://openai.com/business/customer-stories/gondola>)
+
+OpenAI · 2026-11-12
+
+> Gondola helps creatives get credit and get hired, with Codex raising its lead engineer’s output by 50% and ChatGPT simplifying daily work.
+
 #### [Holiday Extras is rethinking what it can build with Codex](<https://openai.com/business/customer-stories/holidays-extras-codex>)
 
 OpenAI · 2026-11-12
@@ -29,36 +57,6 @@ OpenAI · 2026-11-12
 OpenAI · 2026-11-12
 
 > OpenAI commits $2 million to research on AI and children’s safety. The work supports shared tools to measure risks and opportunities for young people.
-
-#### [Gemini Decisions API: Fast, calibrated multimodal decisions](<https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api>)
-
-Google AI · 2026-11-11
-
-> Meet the Gemini Decisions API, powered by our state-of-the-art model Gemini Decision for fast, calibrated multimodal decisions.
-
-#### [Try Tabletop: Customizable, collaborative spaces for groups to plan, play and do more together.](<https://blog.google/innovation-and-ai/models-and-research/google-labs/tabletop>)
-
-Google AI · 2026-11-11
-
-> Tabletop is a new Google Labs experiment for group collaboration. Build interactive itineraries, polls, and brackets with your team. Join the waitlist.
-
-#### [AlphaGenome 2: Deciphering how cells read DNA to better understand disease](<https://deepmind.google/blog/alphagenome-2-deciphering-how-cells-read-dna-to-better-understand-disease>)
-
-Google DeepMind · 2026-11-11
-
-> Predicting how DNA sequences and their variations impact specific human cell types and disease.
-
-#### [Experience the art and legacy of Dr. Esther Mahlangu](<https://blog.google/company-news/outreach-and-initiatives/arts-culture/esther-mahlangu>)
-
-Google AI · 2026-11-11
-
-> A portrait of Dr Nontobeko Ntombela, Senior Lecturer, Department of Curatorial, Public and Visual Cultures, Wits School of Arts, University of the Witwatersrand
-
-#### [ChatGPT Plus for veterans and servicemembers](<https://openai.com/index/chatgpt-plus-for-veterans>)
-
-OpenAI · 2026-11-11
-
-> More than 20,000 veterans and transitioning service members have claimed a free year of ChatGPT Plus. See how they use it to prepare for…
 
 ### Models with published weights
 
@@ -128,6 +126,42 @@ Weight files found in the repository. Check its model card and license before us
 
 ### Research & engineering
 
+#### [Scalable Conversational Assessment: Chat-Based Exams with a Two-Agent LLM Pipeline](<https://arxiv.org/abs/2611.17220>)
+
+arXiv cs.AI · 2026-11-13 · **Preprint**
+
+> arXiv:2611.17220v1 Announce Type: cross Abstract: Oral exams are compelling because (1) students can be asked to provide their reasoning for an answer and (2)…
+
+#### [Cortex-FL: Agent-Mediated Collaboration for Federated Learning](<https://arxiv.org/abs/2611.17186>)
+
+arXiv cs.AI · 2026-11-13 · **Preprint**
+
+> arXiv:2611.17186v1 Announce Type: new Abstract: Federated learning (FL) enables independent data owners to train models collaboratively without centralizing raw data. However, identifying collaborators, preparing…
+
+#### [Parameter-Efficient Conciseness Adaptation: Differentiable Length Control for Concise Clinical Reasoning in Smaller Language Models](<https://arxiv.org/abs/2611.17128>)
+
+arXiv cs.AI · 2026-11-13 · **Preprint**
+
+> arXiv:2611.17128v1 Announce Type: cross Abstract: Smaller language models (SLMs) make it feasible to deploy clinical natural language processing where large proprietary models are too…
+
+#### [Predicting Ethanol Drinking Status from Nonhuman Primate Liver Histology: A Proof of Concept for Parameter-efficient Fine-tuning in Few-Shot Vision-Language Modeling](<https://arxiv.org/abs/2611.17105>)
+
+arXiv cs.AI · 2026-11-13 · **Preprint**
+
+> arXiv:2611.17105v1 Announce Type: cross Abstract: Combining vision-language models (VLMs) with parameter-efficient fine-tuning (PEFT) offers a promising approach to few-shot whole-slide image (WSI) classification in…
+
+#### [Reasoning Supervision and Capability Retention in LoRA Domain Adaptation](<https://arxiv.org/abs/2611.17072>)
+
+arXiv cs.AI · 2026-11-13 · **Preprint**
+
+> arXiv:2611.17072v1 Announce Type: new Abstract: Fine-tuning foundation models on financial data has a wide range of applications, including identifying event types from news, monitoring…
+
+#### [Microsoft Research Focus – Edition #98](<https://www.microsoft.com/en-us/research/podcast/microsoft-research-focus-edition-98>)
+
+Microsoft Research · 2026-11-12
+
+> What's new in research at Microsoft? Host Anson Ho explores the latest, including AI-powered universal translation, a breakthrough in a 31-year-old mathematics challenge, and…
+
 #### [The Definitive Fine-Tuning Guide for 3D Generation Models](<https://huggingface.co/blog/3d-lora-finetuning>)
 
 Hugging Face · 2026-11-12
@@ -137,40 +171,6 @@ Hugging Face · 2026-11-12
 arXiv cs.AI · 2026-11-11 · **Preprint**
 
 > arXiv:2611.14493v1 Announce Type: new Abstract: Deploying LLM-based analytics agents in enterprise settings requires evaluation frameworks that can reliably detect failures across complex, multi-tool workflows.…
-
-#### [Evaluating LLM-Generated World Models for Neuro-Symbolic Reasoning](<https://arxiv.org/abs/2611.14419>)
-
-arXiv cs.AI · 2026-11-11 · **Preprint**
-
-> arXiv:2611.14419v1 Announce Type: new Abstract: Formal world models can support planning, verification, and safety reasoning, but constructing them from open-ended natural-language situations is difficult,…
-
-#### [Bits or permutations? Spending a fixed inference budget on weight precision or on option-order averaging in small local language models](<https://arxiv.org/abs/2611.14413>)
-
-arXiv cs.AI · 2026-11-11 · **Preprint**
-
-> arXiv:2611.14413v1 Announce Type: new Abstract: Local language models can save memory by storing weights in fewer bits, and they can reduce sensitivity to the…
-
-#### [Blurring the Block Boundaries: Overlapping Block Denoising for Efficient Diffusion Language Models](<https://arxiv.org/abs/2611.14387>)
-
-arXiv cs.AI · 2026-11-11 · **Preprint**
-
-> arXiv:2611.14387v1 Announce Type: cross Abstract: Diffusion Language Models (DLMs) have emerged as effective alternatives to autoregressive models for latency-critical tasks, enabling faster token generation.…
-
-#### [EngineAgent: Agentizing On-Device LLM Inference Engines with Inference Stack Hierarchy Awareness and Hardware Abilities](<https://arxiv.org/abs/2611.14356>)
-
-arXiv cs.AI · 2026-11-11 · **Preprint**
-
-> arXiv:2611.14356v1 Announce Type: cross Abstract: Rapidly evolving LLM architectures and heterogeneous mobile hardware make supporting new models in on-device inference engines a recurring and…
-
-#### [Token Pooling-Aware Training for Multi-Vector Embedding Models](<https://huggingface.co/blog/token-pooling>)
-
-Hugging Face · 2026-11-11
-
-#### [Lazare, veni foras: Reprogramming Dormant Neurons to Backdoor AI Agents](<https://www.microsoft.com/en-us/research/blog/lazare-veni-foras-reprogramming-dormant-neurons-to-backdoor-ai-agents>)
-
-Microsoft Research · 2026-11-10
-
-> Microsoft researchers have discovered “Lazarus,” a backdoor technique that can reprogram dormant neurons in an AI model, causing an otherwise normal AI agent to…
 
 [Browse all daily digests](digests/README.md).
 <!-- radar:end -->
