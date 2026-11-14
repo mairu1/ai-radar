@@ -12,11 +12,23 @@ Publisher excerpts reflect their claims. Research entries are not independently 
 
 ### Company announcements
 
+#### [Introducing ChatGPT Wallet](<https://openai.com/index/introducing-chatgpt-wallet>)
+
+OpenAI · 2026-11-13
+
+> Introducing ChatGPT Wallet, a secure way for agents in ChatGPT Work, Codex, and dots to complete purchases with user approval and existing card protections.
+
 #### [How AI Is Helping Care Teams Get Patients the Right Care, Sooner](<https://blogs.nvidia.com/blog/how-ai-is-helping-care-teams>)
 
 NVIDIA · 2026-11-13
 
 > From pediatric research to smart hospitals, AI is helping care teams spend less time on routine tasks and more time with patients. Health systems…
+
+#### [Shield helps technicians hand off legacy portal work with OpenAI](<https://openai.com/business/customer-stories/shield>)
+
+OpenAI · 2026-11-13
+
+> Shield uses OpenAI to help IT technicians hand off work in legacy portals. Its Forge agents navigate systems so technicians can focus on issues…
 
 #### [How Amplitude ships product improvements in 1–2 days with OpenAI](<https://openai.com/business/customer-stories/amplitude>)
 
@@ -45,18 +57,6 @@ OpenAI · 2026-11-12
 OpenAI · 2026-11-12
 
 > With Codex, Holiday Extras is turning customer expertise into better apps, higher booking conversion and new possibilities for growth.
-
-#### [Gilbert + Tobin rethinks the business of law with AI](<https://openai.com/index/gilbert-tobin-sam-nickless>)
-
-OpenAI · 2026-11-12
-
-> A conversation with Sam Nickless, Partner and Chief Executive Officer at Gilbert + Tobin.
-
-#### [Supporting research on AI and children’s safety](<https://openai.com/index/children-first-declaration>)
-
-OpenAI · 2026-11-12
-
-> OpenAI commits $2 million to research on AI and children’s safety. The work supports shared tools to measure risks and opportunities for young people.
 
 ### Models with published weights
 
@@ -126,6 +126,10 @@ Weight files found in the repository. Check its model card and license before us
 
 ### Research & engineering
 
+#### [Build a Robot Pick-and-Place Simulation with SimReady Assets](<https://huggingface.co/blog/nvidia/simready-assets-robot-pick-and-place>)
+
+Hugging Face · 2026-11-13
+
 #### [Scalable Conversational Assessment: Chat-Based Exams with a Two-Agent LLM Pipeline](<https://arxiv.org/abs/2611.17220>)
 
 arXiv cs.AI · 2026-11-13 · **Preprint**
@@ -156,21 +160,17 @@ arXiv cs.AI · 2026-11-13 · **Preprint**
 
 > arXiv:2611.17072v1 Announce Type: new Abstract: Fine-tuning foundation models on financial data has a wide range of applications, including identifying event types from news, monitoring…
 
+#### [Building strong safety evaluations](<https://www.anthropic.com/research/building-strong-safety-evaluations>)
+
+Anthropic Research · 2026-11-13
+
+> Recommendations for designing, running, and reporting safety evaluations, based on our own experiences.
+
 #### [Microsoft Research Focus – Edition #98](<https://www.microsoft.com/en-us/research/podcast/microsoft-research-focus-edition-98>)
 
 Microsoft Research · 2026-11-12
 
 > What's new in research at Microsoft? Host Anson Ho explores the latest, including AI-powered universal translation, a breakthrough in a 31-year-old mathematics challenge, and…
-
-#### [The Definitive Fine-Tuning Guide for 3D Generation Models](<https://huggingface.co/blog/3d-lora-finetuning>)
-
-Hugging Face · 2026-11-12
-
-#### [Comparative Analysis of Agent Evaluation Frameworks: Stability, Detection, and Discovery in Enterprise Analytics Agents](<https://arxiv.org/abs/2611.14493>)
-
-arXiv cs.AI · 2026-11-11 · **Preprint**
-
-> arXiv:2611.14493v1 Announce Type: new Abstract: Deploying LLM-based analytics agents in enterprise settings requires evaluation frameworks that can reliably detect failures across complex, multi-tool workflows.…
 
 [Browse all daily digests](digests/README.md).
 <!-- radar:end -->

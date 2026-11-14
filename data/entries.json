@@ -1,5 +1,27 @@
 [
   {
+    "id": "https://huggingface.co/blog/nvidia/simready-assets-robot-pick-and-place",
+    "title": "Build a Robot Pick-and-Place Simulation with SimReady Assets",
+    "url": "https://huggingface.co/blog/nvidia/simready-assets-robot-pick-and-place",
+    "source": "Hugging Face",
+    "category": "research",
+    "published": "2026-11-13T18:00:39+00:00",
+    "summary": "",
+    "preprint": false,
+    "discovered": "2026-11-14"
+  },
+  {
+    "id": "https://openai.com/index/introducing-chatgpt-wallet",
+    "title": "Introducing ChatGPT Wallet",
+    "url": "https://openai.com/index/introducing-chatgpt-wallet",
+    "source": "OpenAI",
+    "category": "announcements",
+    "published": "2026-11-13T15:00:00+00:00",
+    "summary": "Introducing ChatGPT Wallet, a secure way for agents in ChatGPT Work, Codex, and dots to complete purchases with user approval and existing card protections.",
+    "preprint": false,
+    "discovered": "2026-11-14"
+  },
+  {
     "id": "https://blogs.nvidia.com/blog/how-ai-is-helping-care-teams",
     "title": "How AI Is Helping Care Teams Get Patients the Right Care, Sooner",
     "url": "https://blogs.nvidia.com/blog/how-ai-is-helping-care-teams",
@@ -9,6 +31,17 @@
     "summary": "From pediatric research to smart hospitals, AI is helping care teams spend less time on routine tasks and more time with patients. Health systems…",
     "preprint": false,
     "discovered": "2026-11-13"
+  },
+  {
+    "id": "https://openai.com/business/customer-stories/shield",
+    "title": "Shield helps technicians hand off legacy portal work with OpenAI",
+    "url": "https://openai.com/business/customer-stories/shield",
+    "source": "OpenAI",
+    "category": "announcements",
+    "published": "2026-11-13T08:00:00+00:00",
+    "summary": "Shield uses OpenAI to help IT technicians hand off work in legacy portals. Its Forge agents navigate systems so technicians can focus on issues…",
+    "preprint": false,
+    "discovered": "2026-11-14"
   },
   {
     "id": "https://arxiv.org/abs/2611.17220",
@@ -64,6 +97,17 @@
     "summary": "arXiv:2611.17072v1 Announce Type: new Abstract: Fine-tuning foundation models on financial data has a wide range of applications, including identifying event types from news, monitoring…",
     "preprint": true,
     "discovered": "2026-11-13"
+  },
+  {
+    "id": "https://www.anthropic.com/research/building-strong-safety-evaluations",
+    "title": "Building strong safety evaluations",
+    "url": "https://www.anthropic.com/research/building-strong-safety-evaluations",
+    "source": "Anthropic Research",
+    "category": "research",
+    "published": "2026-11-13T00:00:00+00:00",
+    "summary": "Recommendations for designing, running, and reporting safety evaluations, based on our own experiences.",
+    "preprint": false,
+    "discovered": "2026-11-14"
   },
   {
     "id": "https://www.microsoft.com/en-us/research/podcast/microsoft-research-focus-edition-98",
