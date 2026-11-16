@@ -12,51 +12,51 @@ Publisher excerpts reflect their claims. Research entries are not independently 
 
 ### Company announcements
 
-#### [Introducing ChatGPT Wallet](<https://openai.com/index/introducing-chatgpt-wallet>)
+#### [Lambda Boosts AI Factory Resiliency and Efficiency With NVIDIA Photonics](<https://blogs.nvidia.com/blog/lambda-photonics>)
 
-OpenAI · 2026-11-13
+NVIDIA · 2026-11-16
 
-> Introducing ChatGPT Wallet, a secure way for agents in ChatGPT Work, Codex, and dots to complete purchases with user approval and existing card protections.
+> To train an AI model, thousands of GPUs have to work together, requiring a network that’s fast, efficient and resilient. Lambda is tackling the…
 
-#### [How AI Is Helping Care Teams Get Patients the Right Care, Sooner](<https://blogs.nvidia.com/blog/how-ai-is-helping-care-teams>)
+#### [NVIDIA Sweeps MLPerf Training and Endpoints as Vera Rubin Debuts With Leading Performance](<https://blogs.nvidia.com/blog/mlperf-training-endpoints-vera-rubin>)
 
-NVIDIA · 2026-11-13
+NVIDIA · 2026-11-16
 
-> From pediatric research to smart hospitals, AI is helping care teams spend less time on routine tasks and more time with patients. Health systems…
+> In its MLPerf benchmarks debut, with results released today, the NVIDIA Vera Rubin platform delivers leading performance across training, post-training and agentic inference. NVIDIA…
 
-#### [Shield helps technicians hand off legacy portal work with OpenAI](<https://openai.com/business/customer-stories/shield>)
+#### [NVIDIA CUDA-X Libraries Give Agents the Tools to Accelerate Scientific Discovery](<https://blogs.nvidia.com/blog/cuda-x-libraries-agents-accelerate-scientific-discovery>)
 
-OpenAI · 2026-11-13
+NVIDIA · 2026-11-16
 
-> Shield uses OpenAI to help IT technicians hand off work in legacy portals. Its Forge agents navigate systems so technicians can focus on issues…
+> With expanded NVIDIA CUDA-X libraries, including cuPhoton, cuPotential and cuSpa, researchers can sift through vast amounts of data to accelerate research, from astrophysics and…
 
-#### [How Amplitude ships product improvements in 1–2 days with OpenAI](<https://openai.com/business/customer-stories/amplitude>)
+#### [CUDA at 20: How the Platform Transformed Scientific Computing](<https://blogs.nvidia.com/blog/20-years-cuda>)
 
-OpenAI · 2026-11-12
+NVIDIA · 2026-11-16
 
-> Built primarily on OpenAI models, Amplitude’s proactive product agent, Wave, identifies what to build, helps teams ship changes with coding agents, and measures the…
+> This week at SC26, NVIDIA is marking two decades of CUDA by honoring the researchers, developers and engineers who helped make GPU computing a…
 
-#### [Introducing Gemini 4 Hydrogen](<https://deepmind.google/blog/introducing-gemini-4-hydrogen>)
+#### [NVIDIA Announces Rubin HPC — A New GPU to Accelerate Agents for Science, Engineering and Analytics](<https://blogs.nvidia.com/blog/rubin-hpc>)
 
-Google DeepMind · 2026-11-12
+NVIDIA · 2026-11-16
 
-#### [Google Search gets a major upgrade with Gemini 4 Hydrogen](<https://blog.google/products-and-platforms/products/search/gemini-4-hydrogen-search-upgrade>)
+> Announced today at SC26, NVIDIA Rubin HPC is a new GPU in the NVIDIA Vera Rubin platform designed to accelerate simulation and data processing…
 
-Google AI · 2026-11-12
+#### [New Ask Maps features to help with holiday travel and prep](<https://blog.google/products-and-platforms/products/maps/ask-maps-holiday-travel-features-2026>)
 
-> Rotating carousel of cards with text "Gemini 4 Hydrogen" "Now in Google Search" and examples from the Google Search UI
+Google AI · 2026-11-16
 
-#### [Gondola doubles revenue as its team builds more with Codex](<https://openai.com/business/customer-stories/gondola>)
+#### [LVMH’s Media Division announces strategic partnership with OpenAI](<https://openai.com/index/lvmh-media-division-partnership>)
 
-OpenAI · 2026-11-12
+OpenAI · 2026-11-16
 
-> Gondola helps creatives get credit and get hired, with Codex raising its lead engineer’s output by 50% and ChatGPT simplifying daily work.
+> LVMH’s Media Division and OpenAI announce a partnership to support journalism with AI and make its publications more accessible through ChatGPT.
 
-#### [Holiday Extras is rethinking what it can build with Codex](<https://openai.com/business/customer-stories/holidays-extras-codex>)
+#### [More ways to move care forward with ChatGPT for Healthcare](<https://openai.com/index/more-ways-to-move-care-forward-with-chatgpt-for-healthcare>)
 
-OpenAI · 2026-11-12
+OpenAI · 2026-11-16
 
-> With Codex, Holiday Extras is turning customer expertise into better apps, higher booking conversion and new possibilities for growth.
+> Introducing computer-use agents, improved clinical answers, and new healthcare plugins that work across healthcare software to get real work done.
 
 ### Models with published weights
 
@@ -126,6 +126,42 @@ Weight files found in the repository. Check its model card and license before us
 
 ### Research & engineering
 
+#### [Imitation Bootstrapped Multi-Agent Reinforcement Learning](<https://arxiv.org/abs/2611.18543>)
+
+arXiv cs.AI · 2026-11-16 · **Preprint**
+
+> arXiv:2611.18543v1 Announce Type: new Abstract: Demonstrations are an effective way to accelerate single-agent reinforcement learning (RL), but extending this idea to multi-agent reinforcement learning…
+
+#### [Can Mechanistic Interpretability Help Explain LLM Agent Failures? A Case Study on Web Element Hallucination](<https://arxiv.org/abs/2611.18514>)
+
+arXiv cs.AI · 2026-11-16 · **Preprint**
+
+> arXiv:2611.18514v1 Announce Type: new Abstract: Mechanistic Interpretability (MI) has made significant progress in explaining the internal computations of Large Language Models (LLMs); however, these…
+
+#### [ARCHER: From Rationale Imitation to Executable Reasoning in Small Language Models](<https://arxiv.org/abs/2611.18494>)
+
+arXiv cs.AI · 2026-11-16 · **Preprint**
+
+> arXiv:2611.18494v1 Announce Type: new Abstract: Small language models are attractive for local, low-cost, and privacy-sensitive deployment, but they remain unreliable on mathematical reasoning tasks…
+
+#### [Do Verifier Judgments Survive Abstraction? Measuring Verification Transport for LLM Agent Evaluation](<https://arxiv.org/abs/2611.18471>)
+
+arXiv cs.AI · 2026-11-16 · **Preprint**
+
+> arXiv:2611.18471v1 Announce Type: cross Abstract: LLM-based verifiers are increasingly used to evaluate agent executions, but their reliability is typically measured under a single representation…
+
+#### [CoPre-MoE: Consolidating and Preserving MoE for Multimodal Continual Instruction Tuning](<https://arxiv.org/abs/2611.18417>)
+
+arXiv cs.AI · 2026-11-16 · **Preprint**
+
+> arXiv:2611.18417v1 Announce Type: cross Abstract: Multimodal continual instruction tuning requires multimodal large language models to sequentially acquire new capabilities without catastrophic forgetting. Mixture-of-experts (MoE)…
+
+#### [Updating our coordinated vulnerability disclosure policy timelines](<https://www.anthropic.com/research/coordinated-vulnerability-disclosure-timelines>)
+
+Anthropic Research · 2026-11-16
+
+> We’re shortening our vulnerability disclosure window from 90 days to 30 days for high- and critical-severity issues, and to 45 days for all other…
+
 #### [Build a Robot Pick-and-Place Simulation with SimReady Assets](<https://huggingface.co/blog/nvidia/simready-assets-robot-pick-and-place>)
 
 Hugging Face · 2026-11-13
@@ -135,42 +171,6 @@ Hugging Face · 2026-11-13
 arXiv cs.AI · 2026-11-13 · **Preprint**
 
 > arXiv:2611.17220v1 Announce Type: cross Abstract: Oral exams are compelling because (1) students can be asked to provide their reasoning for an answer and (2)…
-
-#### [Cortex-FL: Agent-Mediated Collaboration for Federated Learning](<https://arxiv.org/abs/2611.17186>)
-
-arXiv cs.AI · 2026-11-13 · **Preprint**
-
-> arXiv:2611.17186v1 Announce Type: new Abstract: Federated learning (FL) enables independent data owners to train models collaboratively without centralizing raw data. However, identifying collaborators, preparing…
-
-#### [Parameter-Efficient Conciseness Adaptation: Differentiable Length Control for Concise Clinical Reasoning in Smaller Language Models](<https://arxiv.org/abs/2611.17128>)
-
-arXiv cs.AI · 2026-11-13 · **Preprint**
-
-> arXiv:2611.17128v1 Announce Type: cross Abstract: Smaller language models (SLMs) make it feasible to deploy clinical natural language processing where large proprietary models are too…
-
-#### [Predicting Ethanol Drinking Status from Nonhuman Primate Liver Histology: A Proof of Concept for Parameter-efficient Fine-tuning in Few-Shot Vision-Language Modeling](<https://arxiv.org/abs/2611.17105>)
-
-arXiv cs.AI · 2026-11-13 · **Preprint**
-
-> arXiv:2611.17105v1 Announce Type: cross Abstract: Combining vision-language models (VLMs) with parameter-efficient fine-tuning (PEFT) offers a promising approach to few-shot whole-slide image (WSI) classification in…
-
-#### [Reasoning Supervision and Capability Retention in LoRA Domain Adaptation](<https://arxiv.org/abs/2611.17072>)
-
-arXiv cs.AI · 2026-11-13 · **Preprint**
-
-> arXiv:2611.17072v1 Announce Type: new Abstract: Fine-tuning foundation models on financial data has a wide range of applications, including identifying event types from news, monitoring…
-
-#### [Building strong safety evaluations](<https://www.anthropic.com/research/building-strong-safety-evaluations>)
-
-Anthropic Research · 2026-11-13
-
-> Recommendations for designing, running, and reporting safety evaluations, based on our own experiences.
-
-#### [Microsoft Research Focus – Edition #98](<https://www.microsoft.com/en-us/research/podcast/microsoft-research-focus-edition-98>)
-
-Microsoft Research · 2026-11-12
-
-> What's new in research at Microsoft? Host Anson Ho explores the latest, including AI-powered universal translation, a breakthrough in a 31-year-old mathematics challenge, and…
 
 [Browse all daily digests](digests/README.md).
 <!-- radar:end -->
