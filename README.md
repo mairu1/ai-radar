@@ -12,6 +12,42 @@ Publisher excerpts reflect their claims. Research entries are not independently 
 
 ### Company announcements
 
+#### [Ian Buck Kicks Off NVIDIA’s Week at SC26 as Science Enters the Age of Agents](<https://blogs.nvidia.com/blog/ian-buck-sc26>)
+
+NVIDIA · 2026-11-17
+
+> NVIDIA’s Ian Buck kicked off the company’s week at SC26 in Chicago on Monday with new tools for AI agents, software that can plan…
+
+#### [Strengthening NATO and allied cyber defenses with AI](<https://openai.com/index/strengthening-nato-allied-cyber-defences-ai>)
+
+OpenAI · 2026-11-17
+
+> How OpenAI is working with NATO and allied cyber agencies to help trusted defenders find vulnerabilities, test fixes and protect essential systems.
+
+#### [Introducing OpenAI for Chile](<https://openai.com/index/introducing-openai-for-chile>)
+
+OpenAI · 2026-11-17
+
+> OpenAI and the Government of Chile are partnering to support responsible AI adoption, build public-sector skills and help local startups develop AI applications.
+
+#### [How the World’s Most Advanced AI Infrastructure Supply Chain Invents the Future](<https://blogs.nvidia.com/blog/ai-infrastructure-supply-chain>)
+
+NVIDIA · 2026-11-16
+
+> Deb Shoquist leads operations at NVIDIA, overseeing the supply chain and manufacturing behind its AI platforms. That description sums up the job, but it…
+
+#### [Strengthening the fight against online child sexual abuse with new tools and support](<https://openai.com/index/strengthening-online-child-safety>)
+
+OpenAI · 2026-11-16
+
+> New tools, practical guidance, and partnerships will help prevent, detect and respond to online child sexual exploitation and abuse.
+
+#### [Broadening access to AI for scientists](<https://openai.com/index/expanding-chatgpt-for-academic-researchers>)
+
+OpenAI · 2026-11-16
+
+> We’re expanding our ChatGPT for Academic Researchers program to offer 200,000 researchers worldwide free access to our frontier models.
+
 #### [Lambda Boosts AI Factory Resiliency and Efficiency With NVIDIA Photonics](<https://blogs.nvidia.com/blog/lambda-photonics>)
 
 NVIDIA · 2026-11-16
@@ -24,41 +60,39 @@ NVIDIA · 2026-11-16
 
 > In its MLPerf benchmarks debut, with results released today, the NVIDIA Vera Rubin platform delivers leading performance across training, post-training and agentic inference. NVIDIA…
 
-#### [NVIDIA CUDA-X Libraries Give Agents the Tools to Accelerate Scientific Discovery](<https://blogs.nvidia.com/blog/cuda-x-libraries-agents-accelerate-scientific-discovery>)
-
-NVIDIA · 2026-11-16
-
-> With expanded NVIDIA CUDA-X libraries, including cuPhoton, cuPotential and cuSpa, researchers can sift through vast amounts of data to accelerate research, from astrophysics and…
-
-#### [CUDA at 20: How the Platform Transformed Scientific Computing](<https://blogs.nvidia.com/blog/20-years-cuda>)
-
-NVIDIA · 2026-11-16
-
-> This week at SC26, NVIDIA is marking two decades of CUDA by honoring the researchers, developers and engineers who helped make GPU computing a…
-
-#### [NVIDIA Announces Rubin HPC — A New GPU to Accelerate Agents for Science, Engineering and Analytics](<https://blogs.nvidia.com/blog/rubin-hpc>)
-
-NVIDIA · 2026-11-16
-
-> Announced today at SC26, NVIDIA Rubin HPC is a new GPU in the NVIDIA Vera Rubin platform designed to accelerate simulation and data processing…
-
-#### [New Ask Maps features to help with holiday travel and prep](<https://blog.google/products-and-platforms/products/maps/ask-maps-holiday-travel-features-2026>)
-
-Google AI · 2026-11-16
-
-#### [LVMH’s Media Division announces strategic partnership with OpenAI](<https://openai.com/index/lvmh-media-division-partnership>)
-
-OpenAI · 2026-11-16
-
-> LVMH’s Media Division and OpenAI announce a partnership to support journalism with AI and make its publications more accessible through ChatGPT.
-
-#### [More ways to move care forward with ChatGPT for Healthcare](<https://openai.com/index/more-ways-to-move-care-forward-with-chatgpt-for-healthcare>)
-
-OpenAI · 2026-11-16
-
-> Introducing computer-use agents, improved clinical answers, and new healthcare plugins that work across healthcare software to get real work done.
-
 ### Models with published weights
+
+#### [nvidia/Qwen3.8-Flash-Next-NVFP4-QAD](<https://huggingface.co/nvidia/Qwen3.8-Flash-Next-NVFP4-QAD>)
+
+nvidia · 2026-11-17
+
+Task: image-text-to-text · License: nvidia-open-model-license · Access: ungated
+
+Weight files found in the repository. Check its model card and license before use.
+
+#### [nvidia/Llama-3.2-1B-Qwen3.8-27B-Draft](<https://huggingface.co/nvidia/Llama-3.2-1B-Qwen3.8-27B-Draft>)
+
+nvidia · 2026-11-11
+
+Task: text-generation · License: nvidia-open-model-agreement · Access: ungated
+
+Weight files found in the repository. Check its model card and license before use.
+
+#### [nvidia/Qwen3.5-0.8B-Qwen3.8-27B-Draft](<https://huggingface.co/nvidia/Qwen3.5-0.8B-Qwen3.8-27B-Draft>)
+
+nvidia · 2026-11-11
+
+Task: text-generation · License: nvidia-open-model-agreement · Access: ungated
+
+Weight files found in the repository. Check its model card and license before use.
+
+#### [nvidia/Qwen3.5-4B-Qwen3.8-27B-Draft](<https://huggingface.co/nvidia/Qwen3.5-4B-Qwen3.8-27B-Draft>)
+
+nvidia · 2026-11-11
+
+Task: text-generation · License: nvidia-open-model-agreement · Access: ungated
+
+Weight files found in the repository. Check its model card and license before use.
 
 #### [nvidia/Kimi-K3.1-Pro-NVFP4](<https://huggingface.co/nvidia/Kimi-K3.1-Pro-NVFP4>)
 
@@ -92,85 +126,55 @@ Task: image-text-to-text · License: apache-2.0 · Access: ungated
 
 Weight files found in the repository. Check its model card and license before use.
 
-#### [nvidia/Metatron-v1](<https://huggingface.co/nvidia/Metatron-v1>)
-
-nvidia · 2026-10-27
-
-Task: reinforcement-learning · License: nvidia-open-model-license · Access: ungated
-
-Weight files found in the repository. Check its model card and license before use.
-
-#### [LiquidAI/LFM3-1.7B-Base](<https://huggingface.co/LiquidAI/LFM3-1.7B-Base>)
-
-LiquidAI · 2026-10-26
-
-Task: text-generation · License: lfm1.0 · Access: ungated
-
-Weight files found in the repository. Check its model card and license before use.
-
-#### [LiquidAI/LFM3-VL-2B-NVFP4](<https://huggingface.co/LiquidAI/LFM3-VL-2B-NVFP4>)
-
-LiquidAI · 2026-10-24
-
-Task: image-text-to-text · License: lfm1.0 · Access: ungated
-
-Weight files found in the repository. Check its model card and license before use.
-
-#### [LiquidAI/LFM3-1.7B-NVFP4](<https://huggingface.co/LiquidAI/LFM3-1.7B-NVFP4>)
-
-LiquidAI · 2026-10-24
-
-Task: text-generation · License: lfm1.0 · Access: ungated
-
-Weight files found in the repository. Check its model card and license before use.
-
 ### Research & engineering
+
+#### [Can AI help build a healthier future?](<https://www.microsoft.com/en-us/research/podcast/can-ai-help-build-a-healthier-future>)
+
+Microsoft Research · 2026-11-17
+
+> What can AI enable in medicine, and how do we get there? Microsoft Research lead Doug Burger, Microsoft Principal Research Manager Ava Amini, Microsoft…
+
+#### [Mitigating Catastrophic Forgetting with Physics-Indexed Specialist Memory: the Evolutionary Neuroplastic Agent](<https://arxiv.org/abs/2611.21598>)
+
+arXiv cs.AI · 2026-11-17 · **Preprint**
+
+> arXiv:2611.21598v1 Announce Type: cross Abstract: Continual reinforcement learning requires adaptation to changing conditions while preserving performance under previously encountered dynamics. It was investigated whether…
+
+#### [Algorithm Distillation for Safe In-Context Reinforcement Learning](<https://arxiv.org/abs/2611.21524>)
+
+arXiv cs.AI · 2026-11-17 · **Preprint**
+
+> arXiv:2611.21524v1 Announce Type: cross Abstract: Safe in-context reinforcement learning (Safe ICRL) asks a policy with fixed parameters to improve on an unseen constrained task…
+
+#### [Safe Resemblance, Silent Propagation: Limits of Text-Similarity Guardrails for AI Agent Safety](<https://arxiv.org/abs/2611.21520>)
+
+arXiv cs.AI · 2026-11-17 · **Preprint**
+
+> arXiv:2611.21520v1 Announce Type: new Abstract: When AI agents relay information to one another, an output can preserve an injected instruction's effect on downstream agents…
+
+#### [A Reinforcement Learning Method to Navigate SMEFT Operator Space](<https://arxiv.org/abs/2611.21439>)
+
+arXiv cs.AI · 2026-11-17 · **Preprint**
+
+> arXiv:2611.21439v1 Announce Type: cross Abstract: In particle physics, discrepancies between experimental measurements and Standard Model (SM) predictions are commonly interpreted within new theoretical models.…
+
+#### [Harness Leverage Across Model Size: A Ladder of Five Local Agent Harnesses from 0.75B to 4.7B](<https://arxiv.org/abs/2611.21407>)
+
+arXiv cs.AI · 2026-11-17 · **Preprint**
+
+> arXiv:2611.21407v1 Announce Type: new Abstract: A harness turns a model into a system that completes tasks: it builds the prompt, exposes tools and decides…
+
+#### [TokenEconomizer: Learning from Experience to Make AI Coding Agents More Efficient](<https://www.microsoft.com/en-us/research/blog/tokeneconomizer-learning-from-experience-to-make-ai-coding-agents-more-efficient>)
+
+Microsoft Research · 2026-11-16
+
+> AI coding agents can waste time and tokens relearning the same lessons. TokenEconomizer is an open-source plugin that builds on past sessions to cut…
 
 #### [Imitation Bootstrapped Multi-Agent Reinforcement Learning](<https://arxiv.org/abs/2611.18543>)
 
 arXiv cs.AI · 2026-11-16 · **Preprint**
 
 > arXiv:2611.18543v1 Announce Type: new Abstract: Demonstrations are an effective way to accelerate single-agent reinforcement learning (RL), but extending this idea to multi-agent reinforcement learning…
-
-#### [Can Mechanistic Interpretability Help Explain LLM Agent Failures? A Case Study on Web Element Hallucination](<https://arxiv.org/abs/2611.18514>)
-
-arXiv cs.AI · 2026-11-16 · **Preprint**
-
-> arXiv:2611.18514v1 Announce Type: new Abstract: Mechanistic Interpretability (MI) has made significant progress in explaining the internal computations of Large Language Models (LLMs); however, these…
-
-#### [ARCHER: From Rationale Imitation to Executable Reasoning in Small Language Models](<https://arxiv.org/abs/2611.18494>)
-
-arXiv cs.AI · 2026-11-16 · **Preprint**
-
-> arXiv:2611.18494v1 Announce Type: new Abstract: Small language models are attractive for local, low-cost, and privacy-sensitive deployment, but they remain unreliable on mathematical reasoning tasks…
-
-#### [Do Verifier Judgments Survive Abstraction? Measuring Verification Transport for LLM Agent Evaluation](<https://arxiv.org/abs/2611.18471>)
-
-arXiv cs.AI · 2026-11-16 · **Preprint**
-
-> arXiv:2611.18471v1 Announce Type: cross Abstract: LLM-based verifiers are increasingly used to evaluate agent executions, but their reliability is typically measured under a single representation…
-
-#### [CoPre-MoE: Consolidating and Preserving MoE for Multimodal Continual Instruction Tuning](<https://arxiv.org/abs/2611.18417>)
-
-arXiv cs.AI · 2026-11-16 · **Preprint**
-
-> arXiv:2611.18417v1 Announce Type: cross Abstract: Multimodal continual instruction tuning requires multimodal large language models to sequentially acquire new capabilities without catastrophic forgetting. Mixture-of-experts (MoE)…
-
-#### [Updating our coordinated vulnerability disclosure policy timelines](<https://www.anthropic.com/research/coordinated-vulnerability-disclosure-timelines>)
-
-Anthropic Research · 2026-11-16
-
-> We’re shortening our vulnerability disclosure window from 90 days to 30 days for high- and critical-severity issues, and to 45 days for all other…
-
-#### [Build a Robot Pick-and-Place Simulation with SimReady Assets](<https://huggingface.co/blog/nvidia/simready-assets-robot-pick-and-place>)
-
-Hugging Face · 2026-11-13
-
-#### [Scalable Conversational Assessment: Chat-Based Exams with a Two-Agent LLM Pipeline](<https://arxiv.org/abs/2611.17220>)
-
-arXiv cs.AI · 2026-11-13 · **Preprint**
-
-> arXiv:2611.17220v1 Announce Type: cross Abstract: Oral exams are compelling because (1) students can be asked to provide their reasoning for an answer and (2)…
 
 [Browse all daily digests](digests/README.md).
 <!-- radar:end -->

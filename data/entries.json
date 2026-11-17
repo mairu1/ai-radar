@@ -1,5 +1,162 @@
 [
   {
+    "id": "https://www.microsoft.com/en-us/research/podcast/can-ai-help-build-a-healthier-future",
+    "title": "Can AI help build a healthier future?",
+    "url": "https://www.microsoft.com/en-us/research/podcast/can-ai-help-build-a-healthier-future",
+    "source": "Microsoft Research",
+    "category": "research",
+    "published": "2026-11-17T16:52:17+00:00",
+    "summary": "What can AI enable in medicine, and how do we get there? Microsoft Research lead Doug Burger, Microsoft Principal Research Manager Ava Amini, Microsoft…",
+    "preprint": false,
+    "discovered": "2026-11-17"
+  },
+  {
+    "id": "https://blogs.nvidia.com/blog/ian-buck-sc26",
+    "title": "Ian Buck Kicks Off NVIDIA’s Week at SC26 as Science Enters the Age of Agents",
+    "url": "https://blogs.nvidia.com/blog/ian-buck-sc26",
+    "source": "NVIDIA",
+    "category": "announcements",
+    "published": "2026-11-17T14:00:10+00:00",
+    "summary": "NVIDIA’s Ian Buck kicked off the company’s week at SC26 in Chicago on Monday with new tools for AI agents, software that can plan…",
+    "preprint": false,
+    "discovered": "2026-11-17"
+  },
+  {
+    "id": "https://huggingface.co/nvidia/Qwen3.8-Flash-Next-NVFP4-QAD",
+    "title": "nvidia/Qwen3.8-Flash-Next-NVFP4-QAD",
+    "url": "https://huggingface.co/nvidia/Qwen3.8-Flash-Next-NVFP4-QAD",
+    "source": "nvidia",
+    "category": "models",
+    "published": "2026-11-17T09:32:35+00:00",
+    "summary": "",
+    "license": "nvidia-open-model-license",
+    "task": "image-text-to-text",
+    "gated": false,
+    "weight_files": 36,
+    "discovered": "2026-11-17"
+  },
+  {
+    "id": "https://arxiv.org/abs/2611.21598",
+    "title": "Mitigating Catastrophic Forgetting with Physics-Indexed Specialist Memory: the Evolutionary Neuroplastic Agent",
+    "url": "https://arxiv.org/abs/2611.21598",
+    "source": "arXiv cs.AI",
+    "category": "research",
+    "published": "2026-11-17T05:00:00+00:00",
+    "summary": "arXiv:2611.21598v1 Announce Type: cross Abstract: Continual reinforcement learning requires adaptation to changing conditions while preserving performance under previously encountered dynamics. It was investigated whether…",
+    "preprint": true,
+    "discovered": "2026-11-17"
+  },
+  {
+    "id": "https://arxiv.org/abs/2611.21524",
+    "title": "Algorithm Distillation for Safe In-Context Reinforcement Learning",
+    "url": "https://arxiv.org/abs/2611.21524",
+    "source": "arXiv cs.AI",
+    "category": "research",
+    "published": "2026-11-17T05:00:00+00:00",
+    "summary": "arXiv:2611.21524v1 Announce Type: cross Abstract: Safe in-context reinforcement learning (Safe ICRL) asks a policy with fixed parameters to improve on an unseen constrained task…",
+    "preprint": true,
+    "discovered": "2026-11-17"
+  },
+  {
+    "id": "https://arxiv.org/abs/2611.21520",
+    "title": "Safe Resemblance, Silent Propagation: Limits of Text-Similarity Guardrails for AI Agent Safety",
+    "url": "https://arxiv.org/abs/2611.21520",
+    "source": "arXiv cs.AI",
+    "category": "research",
+    "published": "2026-11-17T05:00:00+00:00",
+    "summary": "arXiv:2611.21520v1 Announce Type: new Abstract: When AI agents relay information to one another, an output can preserve an injected instruction's effect on downstream agents…",
+    "preprint": true,
+    "discovered": "2026-11-17"
+  },
+  {
+    "id": "https://arxiv.org/abs/2611.21439",
+    "title": "A Reinforcement Learning Method to Navigate SMEFT Operator Space",
+    "url": "https://arxiv.org/abs/2611.21439",
+    "source": "arXiv cs.AI",
+    "category": "research",
+    "published": "2026-11-17T05:00:00+00:00",
+    "summary": "arXiv:2611.21439v1 Announce Type: cross Abstract: In particle physics, discrepancies between experimental measurements and Standard Model (SM) predictions are commonly interpreted within new theoretical models.…",
+    "preprint": true,
+    "discovered": "2026-11-17"
+  },
+  {
+    "id": "https://arxiv.org/abs/2611.21407",
+    "title": "Harness Leverage Across Model Size: A Ladder of Five Local Agent Harnesses from 0.75B to 4.7B",
+    "url": "https://arxiv.org/abs/2611.21407",
+    "source": "arXiv cs.AI",
+    "category": "research",
+    "published": "2026-11-17T05:00:00+00:00",
+    "summary": "arXiv:2611.21407v1 Announce Type: new Abstract: A harness turns a model into a system that completes tasks: it builds the prompt, exposes tools and decides…",
+    "preprint": true,
+    "discovered": "2026-11-17"
+  },
+  {
+    "id": "https://openai.com/index/strengthening-nato-allied-cyber-defences-ai",
+    "title": "Strengthening NATO and allied cyber defenses with AI",
+    "url": "https://openai.com/index/strengthening-nato-allied-cyber-defences-ai",
+    "source": "OpenAI",
+    "category": "announcements",
+    "published": "2026-11-17T00:00:00+00:00",
+    "summary": "How OpenAI is working with NATO and allied cyber agencies to help trusted defenders find vulnerabilities, test fixes and protect essential systems.",
+    "preprint": false,
+    "discovered": "2026-11-17"
+  },
+  {
+    "id": "https://openai.com/index/introducing-openai-for-chile",
+    "title": "Introducing OpenAI for Chile",
+    "url": "https://openai.com/index/introducing-openai-for-chile",
+    "source": "OpenAI",
+    "category": "announcements",
+    "published": "2026-11-17T00:00:00+00:00",
+    "summary": "OpenAI and the Government of Chile are partnering to support responsible AI adoption, build public-sector skills and help local startups develop AI applications.",
+    "preprint": false,
+    "discovered": "2026-11-17"
+  },
+  {
+    "id": "https://blogs.nvidia.com/blog/ai-infrastructure-supply-chain",
+    "title": "How the World’s Most Advanced AI Infrastructure Supply Chain Invents the Future",
+    "url": "https://blogs.nvidia.com/blog/ai-infrastructure-supply-chain",
+    "source": "NVIDIA",
+    "category": "announcements",
+    "published": "2026-11-16T20:00:37+00:00",
+    "summary": "Deb Shoquist leads operations at NVIDIA, overseeing the supply chain and manufacturing behind its AI platforms. That description sums up the job, but it…",
+    "preprint": false,
+    "discovered": "2026-11-17"
+  },
+  {
+    "id": "https://www.microsoft.com/en-us/research/blog/tokeneconomizer-learning-from-experience-to-make-ai-coding-agents-more-efficient",
+    "title": "TokenEconomizer: Learning from Experience to Make AI Coding Agents More Efficient",
+    "url": "https://www.microsoft.com/en-us/research/blog/tokeneconomizer-learning-from-experience-to-make-ai-coding-agents-more-efficient",
+    "source": "Microsoft Research",
+    "category": "research",
+    "published": "2026-11-16T17:01:35+00:00",
+    "summary": "AI coding agents can waste time and tokens relearning the same lessons. TokenEconomizer is an open-source plugin that builds on past sessions to cut…",
+    "preprint": false,
+    "discovered": "2026-11-17"
+  },
+  {
+    "id": "https://openai.com/index/strengthening-online-child-safety",
+    "title": "Strengthening the fight against online child sexual abuse with new tools and support",
+    "url": "https://openai.com/index/strengthening-online-child-safety",
+    "source": "OpenAI",
+    "category": "announcements",
+    "published": "2026-11-16T17:00:00+00:00",
+    "summary": "New tools, practical guidance, and partnerships will help prevent, detect and respond to online child sexual exploitation and abuse.",
+    "preprint": false,
+    "discovered": "2026-11-17"
+  },
+  {
+    "id": "https://openai.com/index/expanding-chatgpt-for-academic-researchers",
+    "title": "Broadening access to AI for scientists",
+    "url": "https://openai.com/index/expanding-chatgpt-for-academic-researchers",
+    "source": "OpenAI",
+    "category": "announcements",
+    "published": "2026-11-16T17:00:00+00:00",
+    "summary": "We’re expanding our ChatGPT for Academic Researchers program to offer 200,000 researchers worldwide free access to our frontier models.",
+    "preprint": false,
+    "discovered": "2026-11-17"
+  },
+  {
     "id": "https://blogs.nvidia.com/blog/lambda-photonics",
     "title": "Lambda Boosts AI Factory Resiliency and Efficiency With NVIDIA Photonics",
     "url": "https://blogs.nvidia.com/blog/lambda-photonics",
@@ -64,6 +221,28 @@
     "summary": "",
     "preprint": false,
     "discovered": "2026-11-16"
+  },
+  {
+    "id": "https://openai.com/index/science-at-the-frontier",
+    "title": "Science at the Frontier: How scientists use ChatGPT",
+    "url": "https://openai.com/index/science-at-the-frontier",
+    "source": "OpenAI",
+    "category": "announcements",
+    "published": "2026-11-16T12:00:00+00:00",
+    "summary": "Explore how more than 1,800 scientists use ChatGPT in research. See findings on daily workflows, reported productivity, and expectations for discovery.",
+    "preprint": false,
+    "discovered": "2026-11-17"
+  },
+  {
+    "id": "https://openai.com/business/customer-stories/revolut",
+    "title": "How Revolut raises ambition without lowering the bar",
+    "url": "https://openai.com/business/customer-stories/revolut",
+    "source": "OpenAI",
+    "category": "announcements",
+    "published": "2026-11-16T09:30:00+00:00",
+    "summary": "Discover how Revolut uses OpenAI models and Codex to cut coding time by 30–60%, scale financial crime investigations, and innovate without compromising security.",
+    "preprint": false,
+    "discovered": "2026-11-17"
   },
   {
     "id": "https://openai.com/index/lvmh-media-division-partnership",
@@ -185,6 +364,17 @@
     "summary": "The King’s Trust and OpenAI launch a £1m partnership to help up to 25,000 young people across the UK build practical AI skills for…",
     "preprint": false,
     "discovered": "2026-11-16"
+  },
+  {
+    "id": "https://huggingface.co/blog/openrouter",
+    "title": "Hugging Face and OpenRouter join forces to make open-weight models easy to run",
+    "url": "https://huggingface.co/blog/openrouter",
+    "source": "Hugging Face",
+    "category": "research",
+    "published": "2026-11-16T00:00:00+00:00",
+    "summary": "",
+    "preprint": false,
+    "discovered": "2026-11-17"
   },
   {
     "id": "https://openai.com/index/step-toward-defining-the-standard-model",
@@ -416,6 +606,48 @@
     "summary": "",
     "preprint": false,
     "discovered": "2026-11-12"
+  },
+  {
+    "id": "https://huggingface.co/nvidia/Llama-3.2-1B-Qwen3.8-27B-Draft",
+    "title": "nvidia/Llama-3.2-1B-Qwen3.8-27B-Draft",
+    "url": "https://huggingface.co/nvidia/Llama-3.2-1B-Qwen3.8-27B-Draft",
+    "source": "nvidia",
+    "category": "models",
+    "published": "2026-11-11T20:26:31+00:00",
+    "summary": "",
+    "license": "nvidia-open-model-agreement",
+    "task": "text-generation",
+    "gated": false,
+    "weight_files": 1,
+    "discovered": "2026-11-17"
+  },
+  {
+    "id": "https://huggingface.co/nvidia/Qwen3.5-0.8B-Qwen3.8-27B-Draft",
+    "title": "nvidia/Qwen3.5-0.8B-Qwen3.8-27B-Draft",
+    "url": "https://huggingface.co/nvidia/Qwen3.5-0.8B-Qwen3.8-27B-Draft",
+    "source": "nvidia",
+    "category": "models",
+    "published": "2026-11-11T20:25:54+00:00",
+    "summary": "",
+    "license": "nvidia-open-model-agreement",
+    "task": "text-generation",
+    "gated": false,
+    "weight_files": 1,
+    "discovered": "2026-11-17"
+  },
+  {
+    "id": "https://huggingface.co/nvidia/Qwen3.5-4B-Qwen3.8-27B-Draft",
+    "title": "nvidia/Qwen3.5-4B-Qwen3.8-27B-Draft",
+    "url": "https://huggingface.co/nvidia/Qwen3.5-4B-Qwen3.8-27B-Draft",
+    "source": "nvidia",
+    "category": "models",
+    "published": "2026-11-11T20:23:07+00:00",
+    "summary": "",
+    "license": "nvidia-open-model-agreement",
+    "task": "text-generation",
+    "gated": false,
+    "weight_files": 1,
+    "discovered": "2026-11-17"
   },
   {
     "id": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api",
