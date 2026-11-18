@@ -12,11 +12,41 @@ Publisher excerpts reflect their claims. Research entries are not independently 
 
 ### Company announcements
 
+#### [NVIDIA RTX Spark Compact Desktops Out Now](<https://blogs.nvidia.com/blog/rtx-spark-desktop-local-ai-available-now>)
+
+NVIDIA · 2026-11-18
+
+> New NVIDIA RTX Spark compact desktops from ASUS, Dell and MSI are available today, bringing local AI agents, image and video generation, and model…
+
+#### [Le Groupe Figaro and OpenAI partner to bring Le Figaro journalism to ChatGPT](<https://openai.com/index/le-groupe-figaro-and-openai-announce-partnership>)
+
+OpenAI · 2026-11-18
+
+> Le Groupe Figaro and OpenAI partner to bring Le Figaro’s journalism to ChatGPT through summaries and excerpts, with links to original stories.
+
+#### [Introducing GPT-6.2 Astra and Sol](<https://openai.com/index/introducing-gpt-6-2-astra-sol>)
+
+OpenAI · 2026-11-17
+
+> Introducing GPT‑6.2 Astra and Sol, with better professional outputs, coding, computer use, and efficiency at lower cost across ChatGPT Work, Codex, and the API.
+
+#### [Put Gemini to work for you](<https://blog.google/innovation-and-ai/products/gemini-app/tasks-in-gemini-free-new-features>)
+
+Google AI · 2026-11-17
+
+> A user interface displaying the prompt "What can I get done for you?" above an input box containing placeholder text "Describe a task".
+
 #### [Ian Buck Kicks Off NVIDIA’s Week at SC26 as Science Enters the Age of Agents](<https://blogs.nvidia.com/blog/ian-buck-sc26>)
 
 NVIDIA · 2026-11-17
 
 > NVIDIA’s Ian Buck kicked off the company’s week at SC26 in Chicago on Monday with new tools for AI agents, software that can plan…
+
+#### [Introducing ChatGPT for Sales](<https://openai.com/index/introducing-chatgpt-for-sales>)
+
+OpenAI · 2026-11-17
+
+> Explore the new Sales plugin and 30+ new and expanded partner plugins in ChatGPT to research prospects, prepare pitches, update your CRM, and move…
 
 #### [Strengthening NATO and allied cyber defenses with AI](<https://openai.com/index/strengthening-nato-allied-cyber-defences-ai>)
 
@@ -29,36 +59,6 @@ OpenAI · 2026-11-17
 OpenAI · 2026-11-17
 
 > OpenAI and the Government of Chile are partnering to support responsible AI adoption, build public-sector skills and help local startups develop AI applications.
-
-#### [How the World’s Most Advanced AI Infrastructure Supply Chain Invents the Future](<https://blogs.nvidia.com/blog/ai-infrastructure-supply-chain>)
-
-NVIDIA · 2026-11-16
-
-> Deb Shoquist leads operations at NVIDIA, overseeing the supply chain and manufacturing behind its AI platforms. That description sums up the job, but it…
-
-#### [Strengthening the fight against online child sexual abuse with new tools and support](<https://openai.com/index/strengthening-online-child-safety>)
-
-OpenAI · 2026-11-16
-
-> New tools, practical guidance, and partnerships will help prevent, detect and respond to online child sexual exploitation and abuse.
-
-#### [Broadening access to AI for scientists](<https://openai.com/index/expanding-chatgpt-for-academic-researchers>)
-
-OpenAI · 2026-11-16
-
-> We’re expanding our ChatGPT for Academic Researchers program to offer 200,000 researchers worldwide free access to our frontier models.
-
-#### [Lambda Boosts AI Factory Resiliency and Efficiency With NVIDIA Photonics](<https://blogs.nvidia.com/blog/lambda-photonics>)
-
-NVIDIA · 2026-11-16
-
-> To train an AI model, thousands of GPUs have to work together, requiring a network that’s fast, efficient and resilient. Lambda is tackling the…
-
-#### [NVIDIA Sweeps MLPerf Training and Endpoints as Vera Rubin Debuts With Leading Performance](<https://blogs.nvidia.com/blog/mlperf-training-endpoints-vera-rubin>)
-
-NVIDIA · 2026-11-16
-
-> In its MLPerf benchmarks debut, with results released today, the NVIDIA Vera Rubin platform delivers leading performance across training, post-training and agentic inference. NVIDIA…
 
 ### Models with published weights
 
@@ -128,6 +128,40 @@ Weight files found in the repository. Check its model card and license before us
 
 ### Research & engineering
 
+#### [Ambient LLMs: Data-Efficient Supervised Fine-tuning via Temperature Matching](<https://arxiv.org/abs/2611.23229>)
+
+arXiv cs.AI · 2026-11-18 · **Preprint**
+
+> arXiv:2611.23229v1 Announce Type: cross Abstract: Collecting large-scale, diverse, and high-quality post-training datasets for autoregressive language models is challenging. Consequently, Supervised Fine-Tuning (SFT) is typically…
+
+#### [Agent Trust Infrastructure (ATI): A Federated Identity, Trust, Attestation, and Accountability Architecture for Cross-Organization Autonomous AI Agents](<https://arxiv.org/abs/2611.23202>)
+
+arXiv cs.AI · 2026-11-18 · **Preprint**
+
+> arXiv:2611.23202v1 Announce Type: new Abstract: AI agents increasingly collaborate across organizational boundaries, invoking tools and interacting with agents operated by independent entities. Although existing…
+
+#### [WoRD: Diffusion-Based Posterior Inference for Online Goal Recognition](<https://arxiv.org/abs/2611.23192>)
+
+arXiv cs.AI · 2026-11-18 · **Preprint**
+
+> arXiv:2611.23192v1 Announce Type: new Abstract: Goal recognition is the task of inferring an agent's intended goal from its observed behavior. Most existing work focuses…
+
+#### [Inference after coding agents](<https://arxiv.org/abs/2611.23174>)
+
+arXiv cs.AI · 2026-11-18 · **Preprint**
+
+> arXiv:2611.23174v1 Announce Type: cross Abstract: Empirical research is changing rapidly as AI coding agents are becoming increasingly proficient in every step of it, from…
+
+#### [Learning Stratified Policies for Inference-Time Objectives](<https://arxiv.org/abs/2611.23154>)
+
+arXiv cs.AI · 2026-11-18 · **Preprint**
+
+> arXiv:2611.23154v1 Announce Type: cross Abstract: Inference-time scaling improves the performance of large language models by sampling multiple responses and evaluating their collective utility. However,…
+
+#### [Rumble-2-Flash: an open 0.5B speech model for 40+ languages](<https://huggingface.co/blog/rumble-2-flash>)
+
+Hugging Face · 2026-11-18
+
 #### [Can AI help build a healthier future?](<https://www.microsoft.com/en-us/research/podcast/can-ai-help-build-a-healthier-future>)
 
 Microsoft Research · 2026-11-17
@@ -139,42 +173,6 @@ Microsoft Research · 2026-11-17
 arXiv cs.AI · 2026-11-17 · **Preprint**
 
 > arXiv:2611.21598v1 Announce Type: cross Abstract: Continual reinforcement learning requires adaptation to changing conditions while preserving performance under previously encountered dynamics. It was investigated whether…
-
-#### [Algorithm Distillation for Safe In-Context Reinforcement Learning](<https://arxiv.org/abs/2611.21524>)
-
-arXiv cs.AI · 2026-11-17 · **Preprint**
-
-> arXiv:2611.21524v1 Announce Type: cross Abstract: Safe in-context reinforcement learning (Safe ICRL) asks a policy with fixed parameters to improve on an unseen constrained task…
-
-#### [Safe Resemblance, Silent Propagation: Limits of Text-Similarity Guardrails for AI Agent Safety](<https://arxiv.org/abs/2611.21520>)
-
-arXiv cs.AI · 2026-11-17 · **Preprint**
-
-> arXiv:2611.21520v1 Announce Type: new Abstract: When AI agents relay information to one another, an output can preserve an injected instruction's effect on downstream agents…
-
-#### [A Reinforcement Learning Method to Navigate SMEFT Operator Space](<https://arxiv.org/abs/2611.21439>)
-
-arXiv cs.AI · 2026-11-17 · **Preprint**
-
-> arXiv:2611.21439v1 Announce Type: cross Abstract: In particle physics, discrepancies between experimental measurements and Standard Model (SM) predictions are commonly interpreted within new theoretical models.…
-
-#### [Harness Leverage Across Model Size: A Ladder of Five Local Agent Harnesses from 0.75B to 4.7B](<https://arxiv.org/abs/2611.21407>)
-
-arXiv cs.AI · 2026-11-17 · **Preprint**
-
-> arXiv:2611.21407v1 Announce Type: new Abstract: A harness turns a model into a system that completes tasks: it builds the prompt, exposes tools and decides…
-
-#### [TokenEconomizer: Learning from Experience to Make AI Coding Agents More Efficient](<https://www.microsoft.com/en-us/research/blog/tokeneconomizer-learning-from-experience-to-make-ai-coding-agents-more-efficient>)
-
-Microsoft Research · 2026-11-16
-
-> AI coding agents can waste time and tokens relearning the same lessons. TokenEconomizer is an open-source plugin that builds on past sessions to cut…
-
-#### [Imitation Bootstrapped Multi-Agent Reinforcement Learning](<https://arxiv.org/abs/2611.18543>)
-
-arXiv cs.AI · 2026-11-16 · **Preprint**
-
-> arXiv:2611.18543v1 Announce Type: new Abstract: Demonstrations are an effective way to accelerate single-agent reinforcement learning (RL), but extending this idea to multi-agent reinforcement learning…
 
 [Browse all daily digests](digests/README.md).
 <!-- radar:end -->
