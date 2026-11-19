@@ -12,55 +12,59 @@ Publisher excerpts reflect their claims. Research entries are not independently 
 
 ### Company announcements
 
+#### [Introducing Gemini 4 Neon](<https://deepmind.google/blog/introducing-gemini-4-neon>)
+
+Google DeepMind · 2026-11-18
+
+#### [Genie 4 is now available](<https://deepmind.google/blog/genie-4-is-now-available>)
+
+Google DeepMind · 2026-11-18
+
+#### [The Gemini app is now available on lower-memory Android devices.](<https://blog.google/innovation-and-ai/products/gemini-app/gemini-lower-memory-devices>)
+
+Google AI · 2026-11-18
+
+> The Google Gemini app now supports lower-memory Android devices. Access Gemini Live and custom image creation on your phone. Download the app today.
+
 #### [NVIDIA RTX Spark Compact Desktops Out Now](<https://blogs.nvidia.com/blog/rtx-spark-desktop-local-ai-available-now>)
 
 NVIDIA · 2026-11-18
 
 > New NVIDIA RTX Spark compact desktops from ASUS, Dell and MSI are available today, bringing local AI agents, image and video generation, and model…
 
-#### [Le Groupe Figaro and OpenAI partner to bring Le Figaro journalism to ChatGPT](<https://openai.com/index/le-groupe-figaro-and-openai-announce-partnership>)
+#### [The Silent Consensus](<https://openai.com/index/the-silent-consensus>)
 
 OpenAI · 2026-11-18
 
-> Le Groupe Figaro and OpenAI partner to bring Le Figaro’s journalism to ChatGPT through summaries and excerpts, with links to original stories.
+> Dean Ball, Head of Strategic Futures at OpenAI, examines how more capable AI could reshape society and how people can retain control of their…
 
-#### [Introducing GPT-6.2 Astra and Sol](<https://openai.com/index/introducing-gpt-6-2-astra-sol>)
+#### [Research acceleration: The jagged frontier](<https://openai.com/index/research-acceleration-jagged-frontier>)
 
-OpenAI · 2026-11-17
+OpenAI · 2026-11-18
 
-> Introducing GPT‑6.2 Astra and Sol, with better professional outputs, coding, computer use, and efficiency at lower cost across ChatGPT Work, Codex, and the API.
+> OpenAI measures how coding agents are accelerating AI research, where their performance remains uneven, and what this signals about recursive self-improvement.
 
-#### [Put Gemini to work for you](<https://blog.google/innovation-and-ai/products/gemini-app/tasks-in-gemini-free-new-features>)
+#### [Inside the Codex sandbox](<https://openai.com/index/inside-the-codex-sandbox>)
 
-Google AI · 2026-11-17
+OpenAI · 2026-11-18
 
-> A user interface displaying the prompt "What can I get done for you?" above an input box containing placeholder text "Describe a task".
+> See how Codex runs commands on your machine while enforcing the filesystem and network limits you control across macOS, Linux, and Windows.
 
-#### [Ian Buck Kicks Off NVIDIA’s Week at SC26 as Science Enters the Age of Agents](<https://blogs.nvidia.com/blog/ian-buck-sc26>)
+#### [How Sumitomo Life’s leaders helped teams adopt ChatGPT Enterprise](<https://openai.com/business/customer-stories/sumitomo-life>)
 
-NVIDIA · 2026-11-17
+OpenAI · 2026-11-18
 
-> NVIDIA’s Ian Buck kicked off the company’s week at SC26 in Chicago on Monday with new tools for AI agents, software that can plan…
-
-#### [Introducing ChatGPT for Sales](<https://openai.com/index/introducing-chatgpt-for-sales>)
-
-OpenAI · 2026-11-17
-
-> Explore the new Sales plugin and 30+ new and expanded partner plugins in ChatGPT to research prospects, prepare pitches, update your CRM, and move…
-
-#### [Strengthening NATO and allied cyber defenses with AI](<https://openai.com/index/strengthening-nato-allied-cyber-defences-ai>)
-
-OpenAI · 2026-11-17
-
-> How OpenAI is working with NATO and allied cyber agencies to help trusted defenders find vulnerabilities, test fixes and protect essential systems.
-
-#### [Introducing OpenAI for Chile](<https://openai.com/index/introducing-openai-for-chile>)
-
-OpenAI · 2026-11-17
-
-> OpenAI and the Government of Chile are partnering to support responsible AI adoption, build public-sector skills and help local startups develop AI applications.
+> Sumitomo Life uses ChatGPT Enterprise to research insurers, prepare proposals, and draft code for investment analysis. Early use by executives helped drive adoption.
 
 ### Models with published weights
+
+#### [microsoft/Aion-1.0-Instruct-2.3B](<https://huggingface.co/microsoft/Aion-1.0-Instruct-2.3B>)
+
+microsoft · 2026-11-18
+
+Task: text-generation · License: mit · Access: ungated
+
+Weight files found in the repository. Check its model card and license before use.
 
 #### [nvidia/Qwen3.8-Flash-Next-NVFP4-QAD](<https://huggingface.co/nvidia/Qwen3.8-Flash-Next-NVFP4-QAD>)
 
@@ -118,15 +122,37 @@ Task: image-text-to-text · License: mit · Access: ungated
 
 Weight files found in the repository. Check its model card and license before use.
 
-#### [microsoft/Mage-VL-Cowork](<https://huggingface.co/microsoft/Mage-VL-Cowork>)
-
-microsoft · 2026-10-30
-
-Task: image-text-to-text · License: apache-2.0 · Access: ungated
-
-Weight files found in the repository. Check its model card and license before use.
-
 ### Research & engineering
+
+#### [Agentic Harness Engineering Beta: Requirement-Centered Evolution of Agent Harnesses](<https://arxiv.org/abs/2611.24924>)
+
+arXiv cs.AI · 2026-11-19 · **Preprint**
+
+> arXiv:2611.24924v1 Announce Type: cross Abstract: Real-world harness engineering is driven by explicit and implicit user requirements, which guide development and validation. However, existing harness…
+
+#### [Vibe-Trading: Towards Agent-Native Trading](<https://arxiv.org/abs/2611.24845>)
+
+arXiv cs.AI · 2026-11-19 · **Preprint**
+
+> arXiv:2611.24845v1 Announce Type: new Abstract: Existing AI agents can retrieve information, call tools, run experiments, and produce multi-step outputs. Yet most are built around…
+
+#### [Does the Action Matter? Probing Action-Conditioned Semantic Forecasting as a World Model for Autonomous Driving](<https://arxiv.org/abs/2611.24840>)
+
+arXiv cs.AI · 2026-11-19 · **Preprint**
+
+> arXiv:2611.24840v1 Announce Type: cross Abstract: World models are increasingly used in autonomous driving to predict how a scene evolves under the ego vehicle's actions,…
+
+#### [Isabelle Pool Server: a pooled verification service for prover training and multi-agent proving](<https://arxiv.org/abs/2611.24788>)
+
+arXiv cs.AI · 2026-11-19 · **Preprint**
+
+> arXiv:2611.24788v1 Announce Type: cross Abstract: Isabelle Pool Server (IPS), a verification service with a pool of warm headless Isabelle sessions behind an HTTP API,…
+
+#### [Depth Before Breadth: Reverse-to-Forward Curriculum with Advantage Decomposition for LLM Agent](<https://arxiv.org/abs/2611.24697>)
+
+arXiv cs.AI · 2026-11-19 · **Preprint**
+
+> arXiv:2611.24697v1 Announce Type: new Abstract: Reinforcement learning (RL) has become a common approach for training large language model (LLM) agents on long-horizon tasks. However,…
 
 #### [Ambient LLMs: Data-Efficient Supervised Fine-tuning via Temperature Matching](<https://arxiv.org/abs/2611.23229>)
 
@@ -145,34 +171,6 @@ arXiv cs.AI · 2026-11-18 · **Preprint**
 arXiv cs.AI · 2026-11-18 · **Preprint**
 
 > arXiv:2611.23192v1 Announce Type: new Abstract: Goal recognition is the task of inferring an agent's intended goal from its observed behavior. Most existing work focuses…
-
-#### [Inference after coding agents](<https://arxiv.org/abs/2611.23174>)
-
-arXiv cs.AI · 2026-11-18 · **Preprint**
-
-> arXiv:2611.23174v1 Announce Type: cross Abstract: Empirical research is changing rapidly as AI coding agents are becoming increasingly proficient in every step of it, from…
-
-#### [Learning Stratified Policies for Inference-Time Objectives](<https://arxiv.org/abs/2611.23154>)
-
-arXiv cs.AI · 2026-11-18 · **Preprint**
-
-> arXiv:2611.23154v1 Announce Type: cross Abstract: Inference-time scaling improves the performance of large language models by sampling multiple responses and evaluating their collective utility. However,…
-
-#### [Rumble-2-Flash: an open 0.5B speech model for 40+ languages](<https://huggingface.co/blog/rumble-2-flash>)
-
-Hugging Face · 2026-11-18
-
-#### [Can AI help build a healthier future?](<https://www.microsoft.com/en-us/research/podcast/can-ai-help-build-a-healthier-future>)
-
-Microsoft Research · 2026-11-17
-
-> What can AI enable in medicine, and how do we get there? Microsoft Research lead Doug Burger, Microsoft Principal Research Manager Ava Amini, Microsoft…
-
-#### [Mitigating Catastrophic Forgetting with Physics-Indexed Specialist Memory: the Evolutionary Neuroplastic Agent](<https://arxiv.org/abs/2611.21598>)
-
-arXiv cs.AI · 2026-11-17 · **Preprint**
-
-> arXiv:2611.21598v1 Announce Type: cross Abstract: Continual reinforcement learning requires adaptation to changing conditions while preserving performance under previously encountered dynamics. It was investigated whether…
 
 [Browse all daily digests](digests/README.md).
 <!-- radar:end -->
