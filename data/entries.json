@@ -1,5 +1,126 @@
 [
   {
+    "id": "https://arxiv.org/abs/2611.26624",
+    "title": "PlayCraft: Designing Engaging Games from Agent Play Experience",
+    "url": "https://arxiv.org/abs/2611.26624",
+    "source": "arXiv cs.AI",
+    "category": "research",
+    "published": "2026-11-20T05:00:00+00:00",
+    "summary": "arXiv:2611.26624v1 Announce Type: new Abstract: Recent AI agents can generate playable games, but these games are not necessarily engaging. Mastery is a key source…",
+    "preprint": true,
+    "discovered": "2026-11-20"
+  },
+  {
+    "id": "https://arxiv.org/abs/2611.26617",
+    "title": "One Prior, Two Dynamics: Repurposing Video Diffusion Transformers for Self-Supervised Latent Action Learning",
+    "url": "https://arxiv.org/abs/2611.26617",
+    "source": "arXiv cs.AI",
+    "category": "research",
+    "published": "2026-11-20T05:00:00+00:00",
+    "summary": "arXiv:2611.26617v1 Announce Type: cross Abstract: Videos reveal how the world changes, but rarely the actions that cause those changes. Latent action learning recovers such…",
+    "preprint": true,
+    "discovered": "2026-11-20"
+  },
+  {
+    "id": "https://arxiv.org/abs/2611.26592",
+    "title": "Realized versus Population Reliability: Anytime-Valid Self-Consistency Certification under Correlated Reasoning",
+    "url": "https://arxiv.org/abs/2611.26592",
+    "source": "arXiv cs.AI",
+    "category": "research",
+    "published": "2026-11-20T05:00:00+00:00",
+    "summary": "arXiv:2611.26592v1 Announce Type: cross Abstract: Self-consistency certification treats repeated sampling from a language model as sequential evidence accumulation and stops when an anytime-valid e-process…",
+    "preprint": true,
+    "discovered": "2026-11-20"
+  },
+  {
+    "id": "https://arxiv.org/abs/2611.26557",
+    "title": "MM-SystemOneBias: Evaluating Bias in Multimodal Jev-Style System One Decision Models",
+    "url": "https://arxiv.org/abs/2611.26557",
+    "source": "arXiv cs.AI",
+    "category": "research",
+    "published": "2026-11-20T05:00:00+00:00",
+    "summary": "arXiv:2611.26557v1 Announce Type: new Abstract: When multimodal decision models determine actions, moderation outcomes, or quality judgments, their reliability depends on preserving semantic decisions across…",
+    "preprint": true,
+    "discovered": "2026-11-20"
+  },
+  {
+    "id": "https://arxiv.org/abs/2611.26525",
+    "title": "Backtracking Agent Applications Security Incidents",
+    "url": "https://arxiv.org/abs/2611.26525",
+    "source": "arXiv cs.AI",
+    "category": "research",
+    "published": "2026-11-20T05:00:00+00:00",
+    "summary": "arXiv:2611.26525v1 Announce Type: cross Abstract: Agent applications are increasingly deployed, yet agent-specific attacks pose real threats to them. Upon a security incident, organizations backtrack…",
+    "preprint": true,
+    "discovered": "2026-11-20"
+  },
+  {
+    "id": "https://www.anthropic.com/news/ipo-close",
+    "title": "Anthropic announces closing of initial public offering, including full exercise of underwriters’ option to purchase additional shares, and closing of concurrent private placement",
+    "url": "https://www.anthropic.com/news/ipo-close",
+    "source": "Anthropic",
+    "category": "announcements",
+    "published": "2026-11-20T00:00:00+00:00",
+    "summary": "Today Anthropic, PBC announced the closing of its initial public offering of an aggregate of 1,127,000,000 shares of its Class A common stock at…",
+    "preprint": false,
+    "discovered": "2026-11-20"
+  },
+  {
+    "id": "https://huggingface.co/blog/harness-adapters-at-scale",
+    "title": "Introducing harness adapters: adapt your favorite model to your harness to improve performance and cost",
+    "url": "https://huggingface.co/blog/harness-adapters-at-scale",
+    "source": "Hugging Face",
+    "category": "research",
+    "published": "2026-11-20T00:00:00+00:00",
+    "summary": "",
+    "preprint": false,
+    "discovered": "2026-11-20"
+  },
+  {
+    "id": "https://blogs.nvidia.com/blog/microsoft-ignite-accelerated-computing-azure-windows-pcs",
+    "title": "NVIDIA and Microsoft Expand Accelerated Computing From Azure to Windows PCs",
+    "url": "https://blogs.nvidia.com/blog/microsoft-ignite-accelerated-computing-azure-windows-pcs",
+    "source": "NVIDIA",
+    "category": "announcements",
+    "published": "2026-11-19T20:00:15+00:00",
+    "summary": "NVIDIA and Microsoft are extending their full-stack collaboration to help organizations build, customize and deploy intelligent applications — from next-generation infrastructure on Azure to…",
+    "preprint": false,
+    "discovered": "2026-11-20"
+  },
+  {
+    "id": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-api-tool-retrieval",
+    "title": "Introducing Tool Retrieval in the Gemini API",
+    "url": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-api-tool-retrieval",
+    "source": "Google AI",
+    "category": "announcements",
+    "published": "2026-11-19T18:00:00+00:00",
+    "summary": "Gemini spark on a space background",
+    "preprint": false,
+    "discovered": "2026-11-20"
+  },
+  {
+    "id": "https://blog.google/innovation-and-ai/technology/ai/dialogues-walter-isaacson",
+    "title": "Walter Isaacson on curiosity and creativity in the AI age.",
+    "url": "https://blog.google/innovation-and-ai/technology/ai/dialogues-walter-isaacson",
+    "source": "Google AI",
+    "category": "announcements",
+    "published": "2026-11-19T17:00:00+00:00",
+    "summary": "Walter Isaacson joins Google to discuss how history’s greatest innovators inspire creativity and human judgment in the AI age. Watch the episode.",
+    "preprint": false,
+    "discovered": "2026-11-20"
+  },
+  {
+    "id": "https://openai.com/index/how-openai-performance-factory-keeps-chatgpt-fast",
+    "title": "How OpenAI’s Performance Factory keeps ChatGPT fast",
+    "url": "https://openai.com/index/how-openai-performance-factory-keeps-chatgpt-fast",
+    "source": "OpenAI",
+    "category": "announcements",
+    "published": "2026-11-19T08:00:00+00:00",
+    "summary": "Learn how OpenAI built the Performance Factory, a system of Codex-powered workflows that finds and fixes performance issues to help keep ChatGPT fast.",
+    "preprint": false,
+    "discovered": "2026-11-20"
+  },
+  {
     "id": "https://arxiv.org/abs/2611.24924",
     "title": "Agentic Harness Engineering Beta: Requirement-Centered Evolution of Agent Harnesses",
     "url": "https://arxiv.org/abs/2611.24924",
@@ -53,6 +174,50 @@
     "summary": "arXiv:2611.24697v1 Announce Type: new Abstract: Reinforcement learning (RL) has become a common approach for training large language model (LLM) agents on long-horizon tasks. However,…",
     "preprint": true,
     "discovered": "2026-11-19"
+  },
+  {
+    "id": "https://openai.com/business/learn/pr-scans-demo",
+    "title": "See PR scans in action",
+    "url": "https://openai.com/business/learn/pr-scans-demo",
+    "source": "OpenAI",
+    "category": "announcements",
+    "published": "2026-11-19T00:00:00+00:00",
+    "summary": "Watch a walkthrough of PR scans and see how the presenter reviews scan results in a pull request workflow.",
+    "preprint": false,
+    "discovered": "2026-11-20"
+  },
+  {
+    "id": "https://openai.com/business/learn/deploying-daybreak-red",
+    "title": "Deploying Daybreak Red",
+    "url": "https://openai.com/business/learn/deploying-daybreak-red",
+    "source": "OpenAI",
+    "category": "announcements",
+    "published": "2026-11-19T00:00:00+00:00",
+    "summary": "Explore a reference architecture for supervised security investigations with Daybreak Red, including safety controls, setup, and monitoring.",
+    "preprint": false,
+    "discovered": "2026-11-20"
+  },
+  {
+    "id": "https://openai.com/business/learn/daybreak-blue-onboarding-demo",
+    "title": "Get started with Daybreak Blue",
+    "url": "https://openai.com/business/learn/daybreak-blue-onboarding-demo",
+    "source": "OpenAI",
+    "category": "announcements",
+    "published": "2026-11-19T00:00:00+00:00",
+    "summary": "Watch a walkthrough of onboarding to Daybreak Blue, with a closer look at the setup experience and how to get started.",
+    "preprint": false,
+    "discovered": "2026-11-20"
+  },
+  {
+    "id": "https://openai.com/business/learn/codex-security-plugin-demo",
+    "title": "Explore the Codex Security Plugin",
+    "url": "https://openai.com/business/learn/codex-security-plugin-demo",
+    "source": "OpenAI",
+    "category": "announcements",
+    "published": "2026-11-19T00:00:00+00:00",
+    "summary": "Watch a demo of the Codex Security Plugin and see the workflow in action, from getting started to reviewing the results shown in the…",
+    "preprint": false,
+    "discovered": "2026-11-20"
   },
   {
     "id": "https://deepmind.google/blog/introducing-gemini-4-neon",

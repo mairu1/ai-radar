@@ -12,49 +12,53 @@ Publisher excerpts reflect their claims. Research entries are not independently 
 
 ### Company announcements
 
-#### [Introducing Gemini 4 Neon](<https://deepmind.google/blog/introducing-gemini-4-neon>)
+#### [Anthropic announces closing of initial public offering, including full exercise of underwriters’ option to purchase additional shares, and closing of concurrent private placement](<https://www.anthropic.com/news/ipo-close>)
 
-Google DeepMind · 2026-11-18
+Anthropic · 2026-11-20
 
-#### [Genie 4 is now available](<https://deepmind.google/blog/genie-4-is-now-available>)
+> Today Anthropic, PBC announced the closing of its initial public offering of an aggregate of 1,127,000,000 shares of its Class A common stock at…
 
-Google DeepMind · 2026-11-18
+#### [NVIDIA and Microsoft Expand Accelerated Computing From Azure to Windows PCs](<https://blogs.nvidia.com/blog/microsoft-ignite-accelerated-computing-azure-windows-pcs>)
 
-#### [The Gemini app is now available on lower-memory Android devices.](<https://blog.google/innovation-and-ai/products/gemini-app/gemini-lower-memory-devices>)
+NVIDIA · 2026-11-19
 
-Google AI · 2026-11-18
+> NVIDIA and Microsoft are extending their full-stack collaboration to help organizations build, customize and deploy intelligent applications — from next-generation infrastructure on Azure to…
 
-> The Google Gemini app now supports lower-memory Android devices. Access Gemini Live and custom image creation on your phone. Download the app today.
+#### [Introducing Tool Retrieval in the Gemini API](<https://blog.google/innovation-and-ai/technology/developers-tools/gemini-api-tool-retrieval>)
 
-#### [NVIDIA RTX Spark Compact Desktops Out Now](<https://blogs.nvidia.com/blog/rtx-spark-desktop-local-ai-available-now>)
+Google AI · 2026-11-19
 
-NVIDIA · 2026-11-18
+> Gemini spark on a space background
 
-> New NVIDIA RTX Spark compact desktops from ASUS, Dell and MSI are available today, bringing local AI agents, image and video generation, and model…
+#### [Walter Isaacson on curiosity and creativity in the AI age.](<https://blog.google/innovation-and-ai/technology/ai/dialogues-walter-isaacson>)
 
-#### [The Silent Consensus](<https://openai.com/index/the-silent-consensus>)
+Google AI · 2026-11-19
 
-OpenAI · 2026-11-18
+> Walter Isaacson joins Google to discuss how history’s greatest innovators inspire creativity and human judgment in the AI age. Watch the episode.
 
-> Dean Ball, Head of Strategic Futures at OpenAI, examines how more capable AI could reshape society and how people can retain control of their…
+#### [How OpenAI’s Performance Factory keeps ChatGPT fast](<https://openai.com/index/how-openai-performance-factory-keeps-chatgpt-fast>)
 
-#### [Research acceleration: The jagged frontier](<https://openai.com/index/research-acceleration-jagged-frontier>)
+OpenAI · 2026-11-19
 
-OpenAI · 2026-11-18
+> Learn how OpenAI built the Performance Factory, a system of Codex-powered workflows that finds and fixes performance issues to help keep ChatGPT fast.
 
-> OpenAI measures how coding agents are accelerating AI research, where their performance remains uneven, and what this signals about recursive self-improvement.
+#### [See PR scans in action](<https://openai.com/business/learn/pr-scans-demo>)
 
-#### [Inside the Codex sandbox](<https://openai.com/index/inside-the-codex-sandbox>)
+OpenAI · 2026-11-19
 
-OpenAI · 2026-11-18
+> Watch a walkthrough of PR scans and see how the presenter reviews scan results in a pull request workflow.
 
-> See how Codex runs commands on your machine while enforcing the filesystem and network limits you control across macOS, Linux, and Windows.
+#### [Deploying Daybreak Red](<https://openai.com/business/learn/deploying-daybreak-red>)
 
-#### [How Sumitomo Life’s leaders helped teams adopt ChatGPT Enterprise](<https://openai.com/business/customer-stories/sumitomo-life>)
+OpenAI · 2026-11-19
 
-OpenAI · 2026-11-18
+> Explore a reference architecture for supervised security investigations with Daybreak Red, including safety controls, setup, and monitoring.
 
-> Sumitomo Life uses ChatGPT Enterprise to research insurers, prepare proposals, and draft code for investment analysis. Early use by executives helped drive adoption.
+#### [Get started with Daybreak Blue](<https://openai.com/business/learn/daybreak-blue-onboarding-demo>)
+
+OpenAI · 2026-11-19
+
+> Watch a walkthrough of onboarding to Daybreak Blue, with a closer look at the setup experience and how to get started.
 
 ### Models with published weights
 
@@ -124,6 +128,40 @@ Weight files found in the repository. Check its model card and license before us
 
 ### Research & engineering
 
+#### [PlayCraft: Designing Engaging Games from Agent Play Experience](<https://arxiv.org/abs/2611.26624>)
+
+arXiv cs.AI · 2026-11-20 · **Preprint**
+
+> arXiv:2611.26624v1 Announce Type: new Abstract: Recent AI agents can generate playable games, but these games are not necessarily engaging. Mastery is a key source…
+
+#### [One Prior, Two Dynamics: Repurposing Video Diffusion Transformers for Self-Supervised Latent Action Learning](<https://arxiv.org/abs/2611.26617>)
+
+arXiv cs.AI · 2026-11-20 · **Preprint**
+
+> arXiv:2611.26617v1 Announce Type: cross Abstract: Videos reveal how the world changes, but rarely the actions that cause those changes. Latent action learning recovers such…
+
+#### [Realized versus Population Reliability: Anytime-Valid Self-Consistency Certification under Correlated Reasoning](<https://arxiv.org/abs/2611.26592>)
+
+arXiv cs.AI · 2026-11-20 · **Preprint**
+
+> arXiv:2611.26592v1 Announce Type: cross Abstract: Self-consistency certification treats repeated sampling from a language model as sequential evidence accumulation and stops when an anytime-valid e-process…
+
+#### [MM-SystemOneBias: Evaluating Bias in Multimodal Jev-Style System One Decision Models](<https://arxiv.org/abs/2611.26557>)
+
+arXiv cs.AI · 2026-11-20 · **Preprint**
+
+> arXiv:2611.26557v1 Announce Type: new Abstract: When multimodal decision models determine actions, moderation outcomes, or quality judgments, their reliability depends on preserving semantic decisions across…
+
+#### [Backtracking Agent Applications Security Incidents](<https://arxiv.org/abs/2611.26525>)
+
+arXiv cs.AI · 2026-11-20 · **Preprint**
+
+> arXiv:2611.26525v1 Announce Type: cross Abstract: Agent applications are increasingly deployed, yet agent-specific attacks pose real threats to them. Upon a security incident, organizations backtrack…
+
+#### [Introducing harness adapters: adapt your favorite model to your harness to improve performance and cost](<https://huggingface.co/blog/harness-adapters-at-scale>)
+
+Hugging Face · 2026-11-20
+
 #### [Agentic Harness Engineering Beta: Requirement-Centered Evolution of Agent Harnesses](<https://arxiv.org/abs/2611.24924>)
 
 arXiv cs.AI · 2026-11-19 · **Preprint**
@@ -135,42 +173,6 @@ arXiv cs.AI · 2026-11-19 · **Preprint**
 arXiv cs.AI · 2026-11-19 · **Preprint**
 
 > arXiv:2611.24845v1 Announce Type: new Abstract: Existing AI agents can retrieve information, call tools, run experiments, and produce multi-step outputs. Yet most are built around…
-
-#### [Does the Action Matter? Probing Action-Conditioned Semantic Forecasting as a World Model for Autonomous Driving](<https://arxiv.org/abs/2611.24840>)
-
-arXiv cs.AI · 2026-11-19 · **Preprint**
-
-> arXiv:2611.24840v1 Announce Type: cross Abstract: World models are increasingly used in autonomous driving to predict how a scene evolves under the ego vehicle's actions,…
-
-#### [Isabelle Pool Server: a pooled verification service for prover training and multi-agent proving](<https://arxiv.org/abs/2611.24788>)
-
-arXiv cs.AI · 2026-11-19 · **Preprint**
-
-> arXiv:2611.24788v1 Announce Type: cross Abstract: Isabelle Pool Server (IPS), a verification service with a pool of warm headless Isabelle sessions behind an HTTP API,…
-
-#### [Depth Before Breadth: Reverse-to-Forward Curriculum with Advantage Decomposition for LLM Agent](<https://arxiv.org/abs/2611.24697>)
-
-arXiv cs.AI · 2026-11-19 · **Preprint**
-
-> arXiv:2611.24697v1 Announce Type: new Abstract: Reinforcement learning (RL) has become a common approach for training large language model (LLM) agents on long-horizon tasks. However,…
-
-#### [Ambient LLMs: Data-Efficient Supervised Fine-tuning via Temperature Matching](<https://arxiv.org/abs/2611.23229>)
-
-arXiv cs.AI · 2026-11-18 · **Preprint**
-
-> arXiv:2611.23229v1 Announce Type: cross Abstract: Collecting large-scale, diverse, and high-quality post-training datasets for autoregressive language models is challenging. Consequently, Supervised Fine-Tuning (SFT) is typically…
-
-#### [Agent Trust Infrastructure (ATI): A Federated Identity, Trust, Attestation, and Accountability Architecture for Cross-Organization Autonomous AI Agents](<https://arxiv.org/abs/2611.23202>)
-
-arXiv cs.AI · 2026-11-18 · **Preprint**
-
-> arXiv:2611.23202v1 Announce Type: new Abstract: AI agents increasingly collaborate across organizational boundaries, invoking tools and interacting with agents operated by independent entities. Although existing…
-
-#### [WoRD: Diffusion-Based Posterior Inference for Online Goal Recognition](<https://arxiv.org/abs/2611.23192>)
-
-arXiv cs.AI · 2026-11-18 · **Preprint**
-
-> arXiv:2611.23192v1 Announce Type: new Abstract: Goal recognition is the task of inferring an agent's intended goal from its observed behavior. Most existing work focuses…
 
 [Browse all daily digests](digests/README.md).
 <!-- radar:end -->
