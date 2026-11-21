@@ -12,11 +12,29 @@ Publisher excerpts reflect their claims. Research entries are not independently 
 
 ### Company announcements
 
+#### [Combatting adversarial distillation](<https://openai.com/index/combatting-adversarial-distillation>)
+
+OpenAI · 2026-11-20
+
+> OpenAI’s layered approach to adversarial distillation combines model training, safeguards, detection, and enforcement to protect against capability extraction.
+
 #### [Anthropic announces closing of initial public offering, including full exercise of underwriters’ option to purchase additional shares, and closing of concurrent private placement](<https://www.anthropic.com/news/ipo-close>)
 
 Anthropic · 2026-11-20
 
 > Today Anthropic, PBC announced the closing of its initial public offering of an aggregate of 1,127,000,000 shares of its Class A common stock at…
+
+#### [Can AI help scientists identify promising drug candidates?](<https://openai.com/index/introducing-medchembench>)
+
+OpenAI · 2026-11-20
+
+> MedChemBench evaluates how well AI models interpret molecular structures, reason from experimental evidence, and select compounds in early drug discovery.
+
+#### [Hebbia sees improvements in financial research with GPT-6 Astra](<https://openai.com/business/customer-stories/hebbia>)
+
+OpenAI · 2026-11-20
+
+> Hebbia tested GPT-6 Astra for financial research. Its prerelease evaluations found gains in source coverage, citation relevance, and presentation quality.
 
 #### [NVIDIA and Microsoft Expand Accelerated Computing From Azure to Windows PCs](<https://blogs.nvidia.com/blog/microsoft-ignite-accelerated-computing-azure-windows-pcs>)
 
@@ -41,24 +59,6 @@ Google AI · 2026-11-19
 OpenAI · 2026-11-19
 
 > Learn how OpenAI built the Performance Factory, a system of Codex-powered workflows that finds and fixes performance issues to help keep ChatGPT fast.
-
-#### [See PR scans in action](<https://openai.com/business/learn/pr-scans-demo>)
-
-OpenAI · 2026-11-19
-
-> Watch a walkthrough of PR scans and see how the presenter reviews scan results in a pull request workflow.
-
-#### [Deploying Daybreak Red](<https://openai.com/business/learn/deploying-daybreak-red>)
-
-OpenAI · 2026-11-19
-
-> Explore a reference architecture for supervised security investigations with Daybreak Red, including safety controls, setup, and monitoring.
-
-#### [Get started with Daybreak Blue](<https://openai.com/business/learn/daybreak-blue-onboarding-demo>)
-
-OpenAI · 2026-11-19
-
-> Watch a walkthrough of onboarding to Daybreak Blue, with a closer look at the setup experience and how to get started.
 
 ### Models with published weights
 
@@ -158,6 +158,10 @@ arXiv cs.AI · 2026-11-20 · **Preprint**
 
 > arXiv:2611.26525v1 Announce Type: cross Abstract: Agent applications are increasingly deployed, yet agent-specific attacks pose real threats to them. Upon a security incident, organizations backtrack…
 
+#### [Welcome Inkling 2 Mini, Cutting-edge Performance for your Local Setup](<https://huggingface.co/blog/inkling2mini>)
+
+Hugging Face · 2026-11-20
+
 #### [Introducing harness adapters: adapt your favorite model to your harness to improve performance and cost](<https://huggingface.co/blog/harness-adapters-at-scale>)
 
 Hugging Face · 2026-11-20
@@ -167,12 +171,6 @@ Hugging Face · 2026-11-20
 arXiv cs.AI · 2026-11-19 · **Preprint**
 
 > arXiv:2611.24924v1 Announce Type: cross Abstract: Real-world harness engineering is driven by explicit and implicit user requirements, which guide development and validation. However, existing harness…
-
-#### [Vibe-Trading: Towards Agent-Native Trading](<https://arxiv.org/abs/2611.24845>)
-
-arXiv cs.AI · 2026-11-19 · **Preprint**
-
-> arXiv:2611.24845v1 Announce Type: new Abstract: Existing AI agents can retrieve information, call tools, run experiments, and produce multi-step outputs. Yet most are built around…
 
 [Browse all daily digests](digests/README.md).
 <!-- radar:end -->

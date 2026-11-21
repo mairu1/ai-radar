@@ -1,5 +1,16 @@
 [
   {
+    "id": "https://openai.com/index/combatting-adversarial-distillation",
+    "title": "Combatting adversarial distillation",
+    "url": "https://openai.com/index/combatting-adversarial-distillation",
+    "source": "OpenAI",
+    "category": "announcements",
+    "published": "2026-11-20T10:00:00+00:00",
+    "summary": "OpenAI’s layered approach to adversarial distillation combines model training, safeguards, detection, and enforcement to protect against capability extraction.",
+    "preprint": false,
+    "discovered": "2026-11-21"
+  },
+  {
     "id": "https://arxiv.org/abs/2611.26624",
     "title": "PlayCraft: Designing Engaging Games from Agent Play Experience",
     "url": "https://arxiv.org/abs/2611.26624",
@@ -64,6 +75,39 @@
     "summary": "Today Anthropic, PBC announced the closing of its initial public offering of an aggregate of 1,127,000,000 shares of its Class A common stock at…",
     "preprint": false,
     "discovered": "2026-11-20"
+  },
+  {
+    "id": "https://openai.com/index/introducing-medchembench",
+    "title": "Can AI help scientists identify promising drug candidates?",
+    "url": "https://openai.com/index/introducing-medchembench",
+    "source": "OpenAI",
+    "category": "announcements",
+    "published": "2026-11-20T00:00:00+00:00",
+    "summary": "MedChemBench evaluates how well AI models interpret molecular structures, reason from experimental evidence, and select compounds in early drug discovery.",
+    "preprint": false,
+    "discovered": "2026-11-21"
+  },
+  {
+    "id": "https://openai.com/business/customer-stories/hebbia",
+    "title": "Hebbia sees improvements in financial research with GPT-6 Astra",
+    "url": "https://openai.com/business/customer-stories/hebbia",
+    "source": "OpenAI",
+    "category": "announcements",
+    "published": "2026-11-20T00:00:00+00:00",
+    "summary": "Hebbia tested GPT-6 Astra for financial research. Its prerelease evaluations found gains in source coverage, citation relevance, and presentation quality.",
+    "preprint": false,
+    "discovered": "2026-11-21"
+  },
+  {
+    "id": "https://huggingface.co/blog/inkling2mini",
+    "title": "Welcome Inkling 2 Mini, Cutting-edge Performance for your Local Setup",
+    "url": "https://huggingface.co/blog/inkling2mini",
+    "source": "Hugging Face",
+    "category": "research",
+    "published": "2026-11-20T00:00:00+00:00",
+    "summary": "",
+    "preprint": false,
+    "discovered": "2026-11-21"
   },
   {
     "id": "https://huggingface.co/blog/harness-adapters-at-scale",
