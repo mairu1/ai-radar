@@ -12,6 +12,24 @@ Publisher excerpts reflect their claims. Research entries are not independently 
 
 ### Company announcements
 
+#### [A more tailored Google Search that’s uniquely yours](<https://blog.google/products-and-platforms/products/search/google-search-personal-intelligence-apps>)
+
+Google AI · 2026-11-23
+
+> Google Search bar with the text "Personal Intelligence" surrounded by the Google Wallet, Google Drive, GMail, Google Photos, Google Calendar, and Google G logo…
+
+#### [Finding faster quantum algorithms with agents and formal verification](<https://deepmind.google/blog/finding-faster-quantum-algorithms-with-agents-and-formal-verification>)
+
+Google DeepMind · 2026-11-23
+
+> Using agent teams and formal verification to improve quantum algorithms for fusion and chemistry.
+
+#### [Perplexity and Intelligence](<https://openai.com/index/perplexity-and-intelligence>)
+
+OpenAI · 2026-11-22
+
+> How perplexity measures progress in AI models, and why it could help developers establish a shared approach to evaluating emerging capabilities.
+
 #### [Combatting adversarial distillation](<https://openai.com/index/combatting-adversarial-distillation>)
 
 OpenAI · 2026-11-20
@@ -41,24 +59,6 @@ OpenAI · 2026-11-20
 NVIDIA · 2026-11-19
 
 > NVIDIA and Microsoft are extending their full-stack collaboration to help organizations build, customize and deploy intelligent applications — from next-generation infrastructure on Azure to…
-
-#### [Introducing Tool Retrieval in the Gemini API](<https://blog.google/innovation-and-ai/technology/developers-tools/gemini-api-tool-retrieval>)
-
-Google AI · 2026-11-19
-
-> Gemini spark on a space background
-
-#### [Walter Isaacson on curiosity and creativity in the AI age.](<https://blog.google/innovation-and-ai/technology/ai/dialogues-walter-isaacson>)
-
-Google AI · 2026-11-19
-
-> Walter Isaacson joins Google to discuss how history’s greatest innovators inspire creativity and human judgment in the AI age. Watch the episode.
-
-#### [How OpenAI’s Performance Factory keeps ChatGPT fast](<https://openai.com/index/how-openai-performance-factory-keeps-chatgpt-fast>)
-
-OpenAI · 2026-11-19
-
-> Learn how OpenAI built the Performance Factory, a system of Codex-powered workflows that finds and fixes performance issues to help keep ChatGPT fast.
 
 ### Models with published weights
 
@@ -128,6 +128,40 @@ Weight files found in the repository. Check its model card and license before us
 
 ### Research & engineering
 
+#### [StereoVLM: Binocular Vision-Language Models for Metric 3D Spatial Reasoning](<https://arxiv.org/abs/2611.27915>)
+
+arXiv cs.AI · 2026-11-23 · **Preprint**
+
+> arXiv:2611.27915v1 Announce Type: cross Abstract: Vision-language models (VLMs) exhibit strong semantic understanding but remain limited in their ability to reason about metric 3D space…
+
+#### [The Dual-Tier Sentiment Framework: Scalable Multimodal UX Attribution in Web Search](<https://arxiv.org/abs/2611.27899>)
+
+arXiv cs.AI · 2026-11-23 · **Preprint**
+
+> arXiv:2611.27899v1 Announce Type: new Abstract: Sustaining user experience (UX) quality in large-scale web search requires scalable evaluation. Traditional surveys are slow and bottleneck rapid…
+
+#### [SLICR: Strategy Logic-Guided Multi-Agent Reinforcement Learning](<https://arxiv.org/abs/2611.27865>)
+
+arXiv cs.AI · 2026-11-23 · **Preprint**
+
+> arXiv:2611.27865v1 Announce Type: new Abstract: Specification-guided reinforcement learning (RL) translates formal specifications of desired behavior of agents into shaped rewards. This paper introduces SLICR,…
+
+#### [Who Grades the Agent? Privilege Separation for Coding-Agent Benchmarks](<https://arxiv.org/abs/2611.27860>)
+
+arXiv cs.AI · 2026-11-23 · **Preprint**
+
+> arXiv:2611.27860v1 Announce Type: cross Abstract: Benchmarks for AI-based coding agents are a staple of the current AI landscape, because they are the leading way…
+
+#### [Beyond Self-Critique: Epistemic Convergence Control for Multi-Agent Research Verification](<https://arxiv.org/abs/2611.27839>)
+
+arXiv cs.AI · 2026-11-23 · **Preprint**
+
+> arXiv:2611.27839v1 Announce Type: new Abstract: Multi-agent systems for scientific claim verification increasingly rely on role-structured LLM debate to pressure-test hypotheses. However, when debating agents…
+
+#### [How to build and maintain an agentic evaluation](<https://huggingface.co/blog/agentic-evals>)
+
+Hugging Face · 2026-11-23
+
 #### [PlayCraft: Designing Engaging Games from Agent Play Experience](<https://arxiv.org/abs/2611.26624>)
 
 arXiv cs.AI · 2026-11-20 · **Preprint**
@@ -139,38 +173,6 @@ arXiv cs.AI · 2026-11-20 · **Preprint**
 arXiv cs.AI · 2026-11-20 · **Preprint**
 
 > arXiv:2611.26617v1 Announce Type: cross Abstract: Videos reveal how the world changes, but rarely the actions that cause those changes. Latent action learning recovers such…
-
-#### [Realized versus Population Reliability: Anytime-Valid Self-Consistency Certification under Correlated Reasoning](<https://arxiv.org/abs/2611.26592>)
-
-arXiv cs.AI · 2026-11-20 · **Preprint**
-
-> arXiv:2611.26592v1 Announce Type: cross Abstract: Self-consistency certification treats repeated sampling from a language model as sequential evidence accumulation and stops when an anytime-valid e-process…
-
-#### [MM-SystemOneBias: Evaluating Bias in Multimodal Jev-Style System One Decision Models](<https://arxiv.org/abs/2611.26557>)
-
-arXiv cs.AI · 2026-11-20 · **Preprint**
-
-> arXiv:2611.26557v1 Announce Type: new Abstract: When multimodal decision models determine actions, moderation outcomes, or quality judgments, their reliability depends on preserving semantic decisions across…
-
-#### [Backtracking Agent Applications Security Incidents](<https://arxiv.org/abs/2611.26525>)
-
-arXiv cs.AI · 2026-11-20 · **Preprint**
-
-> arXiv:2611.26525v1 Announce Type: cross Abstract: Agent applications are increasingly deployed, yet agent-specific attacks pose real threats to them. Upon a security incident, organizations backtrack…
-
-#### [Welcome Inkling 2 Mini, Cutting-edge Performance for your Local Setup](<https://huggingface.co/blog/inkling2mini>)
-
-Hugging Face · 2026-11-20
-
-#### [Introducing harness adapters: adapt your favorite model to your harness to improve performance and cost](<https://huggingface.co/blog/harness-adapters-at-scale>)
-
-Hugging Face · 2026-11-20
-
-#### [Agentic Harness Engineering Beta: Requirement-Centered Evolution of Agent Harnesses](<https://arxiv.org/abs/2611.24924>)
-
-arXiv cs.AI · 2026-11-19 · **Preprint**
-
-> arXiv:2611.24924v1 Announce Type: cross Abstract: Real-world harness engineering is driven by explicit and implicit user requirements, which guide development and validation. However, existing harness…
 
 [Browse all daily digests](digests/README.md).
 <!-- radar:end -->

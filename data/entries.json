@@ -1,5 +1,104 @@
 [
   {
+    "id": "https://blog.google/products-and-platforms/products/search/google-search-personal-intelligence-apps",
+    "title": "A more tailored Google Search that’s uniquely yours",
+    "url": "https://blog.google/products-and-platforms/products/search/google-search-personal-intelligence-apps",
+    "source": "Google AI",
+    "category": "announcements",
+    "published": "2026-11-23T17:00:00+00:00",
+    "summary": "Google Search bar with the text \"Personal Intelligence\" surrounded by the Google Wallet, Google Drive, GMail, Google Photos, Google Calendar, and Google G logo…",
+    "preprint": false,
+    "discovered": "2026-11-23"
+  },
+  {
+    "id": "https://deepmind.google/blog/finding-faster-quantum-algorithms-with-agents-and-formal-verification",
+    "title": "Finding faster quantum algorithms with agents and formal verification",
+    "url": "https://deepmind.google/blog/finding-faster-quantum-algorithms-with-agents-and-formal-verification",
+    "source": "Google DeepMind",
+    "category": "announcements",
+    "published": "2026-11-23T16:59:40+00:00",
+    "summary": "Using agent teams and formal verification to improve quantum algorithms for fusion and chemistry.",
+    "preprint": false,
+    "discovered": "2026-11-23"
+  },
+  {
+    "id": "https://arxiv.org/abs/2611.27915",
+    "title": "StereoVLM: Binocular Vision-Language Models for Metric 3D Spatial Reasoning",
+    "url": "https://arxiv.org/abs/2611.27915",
+    "source": "arXiv cs.AI",
+    "category": "research",
+    "published": "2026-11-23T05:00:00+00:00",
+    "summary": "arXiv:2611.27915v1 Announce Type: cross Abstract: Vision-language models (VLMs) exhibit strong semantic understanding but remain limited in their ability to reason about metric 3D space…",
+    "preprint": true,
+    "discovered": "2026-11-23"
+  },
+  {
+    "id": "https://arxiv.org/abs/2611.27899",
+    "title": "The Dual-Tier Sentiment Framework: Scalable Multimodal UX Attribution in Web Search",
+    "url": "https://arxiv.org/abs/2611.27899",
+    "source": "arXiv cs.AI",
+    "category": "research",
+    "published": "2026-11-23T05:00:00+00:00",
+    "summary": "arXiv:2611.27899v1 Announce Type: new Abstract: Sustaining user experience (UX) quality in large-scale web search requires scalable evaluation. Traditional surveys are slow and bottleneck rapid…",
+    "preprint": true,
+    "discovered": "2026-11-23"
+  },
+  {
+    "id": "https://arxiv.org/abs/2611.27865",
+    "title": "SLICR: Strategy Logic-Guided Multi-Agent Reinforcement Learning",
+    "url": "https://arxiv.org/abs/2611.27865",
+    "source": "arXiv cs.AI",
+    "category": "research",
+    "published": "2026-11-23T05:00:00+00:00",
+    "summary": "arXiv:2611.27865v1 Announce Type: new Abstract: Specification-guided reinforcement learning (RL) translates formal specifications of desired behavior of agents into shaped rewards. This paper introduces SLICR,…",
+    "preprint": true,
+    "discovered": "2026-11-23"
+  },
+  {
+    "id": "https://arxiv.org/abs/2611.27860",
+    "title": "Who Grades the Agent? Privilege Separation for Coding-Agent Benchmarks",
+    "url": "https://arxiv.org/abs/2611.27860",
+    "source": "arXiv cs.AI",
+    "category": "research",
+    "published": "2026-11-23T05:00:00+00:00",
+    "summary": "arXiv:2611.27860v1 Announce Type: cross Abstract: Benchmarks for AI-based coding agents are a staple of the current AI landscape, because they are the leading way…",
+    "preprint": true,
+    "discovered": "2026-11-23"
+  },
+  {
+    "id": "https://arxiv.org/abs/2611.27839",
+    "title": "Beyond Self-Critique: Epistemic Convergence Control for Multi-Agent Research Verification",
+    "url": "https://arxiv.org/abs/2611.27839",
+    "source": "arXiv cs.AI",
+    "category": "research",
+    "published": "2026-11-23T05:00:00+00:00",
+    "summary": "arXiv:2611.27839v1 Announce Type: new Abstract: Multi-agent systems for scientific claim verification increasingly rely on role-structured LLM debate to pressure-test hypotheses. However, when debating agents…",
+    "preprint": true,
+    "discovered": "2026-11-23"
+  },
+  {
+    "id": "https://huggingface.co/blog/agentic-evals",
+    "title": "How to build and maintain an agentic evaluation",
+    "url": "https://huggingface.co/blog/agentic-evals",
+    "source": "Hugging Face",
+    "category": "research",
+    "published": "2026-11-23T00:00:00+00:00",
+    "summary": "",
+    "preprint": false,
+    "discovered": "2026-11-23"
+  },
+  {
+    "id": "https://openai.com/index/perplexity-and-intelligence",
+    "title": "Perplexity and Intelligence",
+    "url": "https://openai.com/index/perplexity-and-intelligence",
+    "source": "OpenAI",
+    "category": "announcements",
+    "published": "2026-11-22T00:00:00+00:00",
+    "summary": "How perplexity measures progress in AI models, and why it could help developers establish a shared approach to evaluating emerging capabilities.",
+    "preprint": false,
+    "discovered": "2026-11-23"
+  },
+  {
     "id": "https://openai.com/index/combatting-adversarial-distillation",
     "title": "Combatting adversarial distillation",
     "url": "https://openai.com/index/combatting-adversarial-distillation",
