@@ -12,6 +12,22 @@ Publisher excerpts reflect their claims. Research entries are not independently 
 
 ### Company announcements
 
+#### [How Gemini is changing the game for Golden State's organization and fans.](<https://blog.google/products-and-platforms/products/gemini/gemini-golden-state>)
+
+Google AI · 2026-11-24
+
+> Google Gemini partners with Golden State to power fan experiences and business operations for the Warriors, Valkyries, and Chase Center. See the news.
+
+#### [How iFood scales coding agents across 15,000 repositories](<https://openai.com/index/ifood>)
+
+OpenAI · 2026-11-24
+
+#### [OpenAI and Cisco introduce Shirudo](<https://openai.com/index/introducing-shirudo>)
+
+OpenAI · 2026-11-23
+
+> OpenAI and Cisco introduce Shirudo, an open-source runtime for Linux. It helps teams protect running systems while they roll out patches.
+
 #### [A more tailored Google Search that’s uniquely yours](<https://blog.google/products-and-platforms/products/search/google-search-personal-intelligence-apps>)
 
 Google AI · 2026-11-23
@@ -24,41 +40,23 @@ Google DeepMind · 2026-11-23
 
 > Using agent teams and formal verification to improve quantum algorithms for fusion and chemistry.
 
+#### [Connected intelligence for in-house legal](<https://openai.com/business/learn/connected-intelligence-for-in-house-legal>)
+
+OpenAI · 2026-11-23
+
+> Watch OpenAI’s Stacey Wang and Craig Bruney, Mary O’Carroll of LECG, and Cooley’s Richard Segal explore how AI can help in-house legal teams connect…
+
+#### [Richpanel helps companies automate 50% of support in 30 days](<https://openai.com/business/customer-stories/richpanel-ai-customer-support>)
+
+OpenAI · 2026-11-23
+
+> Richpanel uses GPT-6 Astra and GPT-6.1 Sol to equip its AI support agents with tools and procedures, and GPT-6 Luna for their conversations.
+
 #### [Perplexity and Intelligence](<https://openai.com/index/perplexity-and-intelligence>)
 
 OpenAI · 2026-11-22
 
 > How perplexity measures progress in AI models, and why it could help developers establish a shared approach to evaluating emerging capabilities.
-
-#### [Combatting adversarial distillation](<https://openai.com/index/combatting-adversarial-distillation>)
-
-OpenAI · 2026-11-20
-
-> OpenAI’s layered approach to adversarial distillation combines model training, safeguards, detection, and enforcement to protect against capability extraction.
-
-#### [Anthropic announces closing of initial public offering, including full exercise of underwriters’ option to purchase additional shares, and closing of concurrent private placement](<https://www.anthropic.com/news/ipo-close>)
-
-Anthropic · 2026-11-20
-
-> Today Anthropic, PBC announced the closing of its initial public offering of an aggregate of 1,127,000,000 shares of its Class A common stock at…
-
-#### [Can AI help scientists identify promising drug candidates?](<https://openai.com/index/introducing-medchembench>)
-
-OpenAI · 2026-11-20
-
-> MedChemBench evaluates how well AI models interpret molecular structures, reason from experimental evidence, and select compounds in early drug discovery.
-
-#### [Hebbia sees improvements in financial research with GPT-6 Astra](<https://openai.com/business/customer-stories/hebbia>)
-
-OpenAI · 2026-11-20
-
-> Hebbia tested GPT-6 Astra for financial research. Its prerelease evaluations found gains in source coverage, citation relevance, and presentation quality.
-
-#### [NVIDIA and Microsoft Expand Accelerated Computing From Azure to Windows PCs](<https://blogs.nvidia.com/blog/microsoft-ignite-accelerated-computing-azure-windows-pcs>)
-
-NVIDIA · 2026-11-19
-
-> NVIDIA and Microsoft are extending their full-stack collaboration to help organizations build, customize and deploy intelligent applications — from next-generation infrastructure on Azure to…
 
 ### Models with published weights
 
@@ -75,6 +73,14 @@ Weight files found in the repository. Check its model card and license before us
 nvidia · 2026-11-17
 
 Task: image-text-to-text · License: nvidia-open-model-license · Access: ungated
+
+Weight files found in the repository. Check its model card and license before use.
+
+#### [nvidia/MiMo-V2.6-Flash-RL-NVFP4](<https://huggingface.co/nvidia/MiMo-V2.6-Flash-RL-NVFP4>)
+
+nvidia · 2026-11-17
+
+Task: image-text-to-text · License: mit · Access: ungated
 
 Weight files found in the repository. Check its model card and license before use.
 
@@ -118,15 +124,41 @@ Task: not specified · License: nvidia-open-model-license · Access: ungated
 
 Weight files found in the repository. Check its model card and license before use.
 
-#### [nvidia/DeepSeek-V4.1-Flash-1017-NVFP4](<https://huggingface.co/nvidia/DeepSeek-V4.1-Flash-1017-NVFP4>)
-
-nvidia · 2026-10-30
-
-Task: image-text-to-text · License: mit · Access: ungated
-
-Weight files found in the repository. Check its model card and license before use.
-
 ### Research & engineering
+
+#### [Microduck Obstacle Avoidance: A Sim2Real Workflow with Isaac Lab and Newton](<https://huggingface.co/blog/nvidia/microduck-obstacle-avoidance>)
+
+Hugging Face · 2026-11-24
+
+#### [Seeking in Space: Benchmarking Purposeful Active Exploration of Vision-Language Models for Spatial Reasoning](<https://arxiv.org/abs/2611.31215>)
+
+arXiv cs.AI · 2026-11-24 · **Preprint**
+
+> arXiv:2611.31215v1 Announce Type: new Abstract: Humans explore unfamiliar spaces with purpose, deciding where to look until they have gathered the evidence a spatial question…
+
+#### [ToolSmith: An Automatic Tool-Generation Framework for Multimodal Search Agents](<https://arxiv.org/abs/2611.31198>)
+
+arXiv cs.AI · 2026-11-24 · **Preprint**
+
+> arXiv:2611.31198v1 Announce Type: cross Abstract: Recent multimodal search agents use reasoning, vision, and live web search across many turns to answer questions beyond parametric…
+
+#### [CO-GRAFT: Attributing Reinforcement Learning Gains in Search Agents via Role-Level Policy Grafting](<https://arxiv.org/abs/2611.31185>)
+
+arXiv cs.AI · 2026-11-24 · **Preprint**
+
+> arXiv:2611.31185v1 Announce Type: cross Abstract: Reinforcement learning (RL) improves large language model search agents by up to 32 exact-match (EM) points over their pre-RL…
+
+#### [Habitats: A Framework for Open-Ended Evolution of Agent Objectives](<https://arxiv.org/abs/2611.31160>)
+
+arXiv cs.AI · 2026-11-24 · **Preprint**
+
+> arXiv:2611.31160v1 Announce Type: new Abstract: Designing what an agent should optimize can be as difficult as optimizing the agent itself. Existing language-model-based reward-generation methods…
+
+#### [RUIBench: What Makes a Good Robot-Use Interface?](<https://arxiv.org/abs/2611.31115>)
+
+arXiv cs.AI · 2026-11-24 · **Preprint**
+
+> arXiv:2611.31115v1 Announce Type: cross Abstract: Foundation models can reason about complex physical tasks, yet translating this intelligence into reliable robot execution remains challenging. We…
 
 #### [StereoVLM: Binocular Vision-Language Models for Metric 3D Spatial Reasoning](<https://arxiv.org/abs/2611.27915>)
 
@@ -139,40 +171,6 @@ arXiv cs.AI · 2026-11-23 · **Preprint**
 arXiv cs.AI · 2026-11-23 · **Preprint**
 
 > arXiv:2611.27899v1 Announce Type: new Abstract: Sustaining user experience (UX) quality in large-scale web search requires scalable evaluation. Traditional surveys are slow and bottleneck rapid…
-
-#### [SLICR: Strategy Logic-Guided Multi-Agent Reinforcement Learning](<https://arxiv.org/abs/2611.27865>)
-
-arXiv cs.AI · 2026-11-23 · **Preprint**
-
-> arXiv:2611.27865v1 Announce Type: new Abstract: Specification-guided reinforcement learning (RL) translates formal specifications of desired behavior of agents into shaped rewards. This paper introduces SLICR,…
-
-#### [Who Grades the Agent? Privilege Separation for Coding-Agent Benchmarks](<https://arxiv.org/abs/2611.27860>)
-
-arXiv cs.AI · 2026-11-23 · **Preprint**
-
-> arXiv:2611.27860v1 Announce Type: cross Abstract: Benchmarks for AI-based coding agents are a staple of the current AI landscape, because they are the leading way…
-
-#### [Beyond Self-Critique: Epistemic Convergence Control for Multi-Agent Research Verification](<https://arxiv.org/abs/2611.27839>)
-
-arXiv cs.AI · 2026-11-23 · **Preprint**
-
-> arXiv:2611.27839v1 Announce Type: new Abstract: Multi-agent systems for scientific claim verification increasingly rely on role-structured LLM debate to pressure-test hypotheses. However, when debating agents…
-
-#### [How to build and maintain an agentic evaluation](<https://huggingface.co/blog/agentic-evals>)
-
-Hugging Face · 2026-11-23
-
-#### [PlayCraft: Designing Engaging Games from Agent Play Experience](<https://arxiv.org/abs/2611.26624>)
-
-arXiv cs.AI · 2026-11-20 · **Preprint**
-
-> arXiv:2611.26624v1 Announce Type: new Abstract: Recent AI agents can generate playable games, but these games are not necessarily engaging. Mastery is a key source…
-
-#### [One Prior, Two Dynamics: Repurposing Video Diffusion Transformers for Self-Supervised Latent Action Learning](<https://arxiv.org/abs/2611.26617>)
-
-arXiv cs.AI · 2026-11-20 · **Preprint**
-
-> arXiv:2611.26617v1 Announce Type: cross Abstract: Videos reveal how the world changes, but rarely the actions that cause those changes. Latent action learning recovers such…
 
 [Browse all daily digests](digests/README.md).
 <!-- radar:end -->

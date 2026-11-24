@@ -1,5 +1,104 @@
 [
   {
+    "id": "https://huggingface.co/blog/nvidia/microduck-obstacle-avoidance",
+    "title": "Microduck Obstacle Avoidance: A Sim2Real Workflow with Isaac Lab and Newton",
+    "url": "https://huggingface.co/blog/nvidia/microduck-obstacle-avoidance",
+    "source": "Hugging Face",
+    "category": "research",
+    "published": "2026-11-24T16:34:13+00:00",
+    "summary": "",
+    "preprint": false,
+    "discovered": "2026-11-24"
+  },
+  {
+    "id": "https://blog.google/products-and-platforms/products/gemini/gemini-golden-state",
+    "title": "How Gemini is changing the game for Golden State's organization and fans.",
+    "url": "https://blog.google/products-and-platforms/products/gemini/gemini-golden-state",
+    "source": "Google AI",
+    "category": "announcements",
+    "published": "2026-11-24T16:00:00+00:00",
+    "summary": "Google Gemini partners with Golden State to power fan experiences and business operations for the Warriors, Valkyries, and Chase Center. See the news.",
+    "preprint": false,
+    "discovered": "2026-11-24"
+  },
+  {
+    "id": "https://arxiv.org/abs/2611.31215",
+    "title": "Seeking in Space: Benchmarking Purposeful Active Exploration of Vision-Language Models for Spatial Reasoning",
+    "url": "https://arxiv.org/abs/2611.31215",
+    "source": "arXiv cs.AI",
+    "category": "research",
+    "published": "2026-11-24T05:00:00+00:00",
+    "summary": "arXiv:2611.31215v1 Announce Type: new Abstract: Humans explore unfamiliar spaces with purpose, deciding where to look until they have gathered the evidence a spatial question…",
+    "preprint": true,
+    "discovered": "2026-11-24"
+  },
+  {
+    "id": "https://arxiv.org/abs/2611.31198",
+    "title": "ToolSmith: An Automatic Tool-Generation Framework for Multimodal Search Agents",
+    "url": "https://arxiv.org/abs/2611.31198",
+    "source": "arXiv cs.AI",
+    "category": "research",
+    "published": "2026-11-24T05:00:00+00:00",
+    "summary": "arXiv:2611.31198v1 Announce Type: cross Abstract: Recent multimodal search agents use reasoning, vision, and live web search across many turns to answer questions beyond parametric…",
+    "preprint": true,
+    "discovered": "2026-11-24"
+  },
+  {
+    "id": "https://arxiv.org/abs/2611.31185",
+    "title": "CO-GRAFT: Attributing Reinforcement Learning Gains in Search Agents via Role-Level Policy Grafting",
+    "url": "https://arxiv.org/abs/2611.31185",
+    "source": "arXiv cs.AI",
+    "category": "research",
+    "published": "2026-11-24T05:00:00+00:00",
+    "summary": "arXiv:2611.31185v1 Announce Type: cross Abstract: Reinforcement learning (RL) improves large language model search agents by up to 32 exact-match (EM) points over their pre-RL…",
+    "preprint": true,
+    "discovered": "2026-11-24"
+  },
+  {
+    "id": "https://arxiv.org/abs/2611.31160",
+    "title": "Habitats: A Framework for Open-Ended Evolution of Agent Objectives",
+    "url": "https://arxiv.org/abs/2611.31160",
+    "source": "arXiv cs.AI",
+    "category": "research",
+    "published": "2026-11-24T05:00:00+00:00",
+    "summary": "arXiv:2611.31160v1 Announce Type: new Abstract: Designing what an agent should optimize can be as difficult as optimizing the agent itself. Existing language-model-based reward-generation methods…",
+    "preprint": true,
+    "discovered": "2026-11-24"
+  },
+  {
+    "id": "https://arxiv.org/abs/2611.31115",
+    "title": "RUIBench: What Makes a Good Robot-Use Interface?",
+    "url": "https://arxiv.org/abs/2611.31115",
+    "source": "arXiv cs.AI",
+    "category": "research",
+    "published": "2026-11-24T05:00:00+00:00",
+    "summary": "arXiv:2611.31115v1 Announce Type: cross Abstract: Foundation models can reason about complex physical tasks, yet translating this intelligence into reliable robot execution remains challenging. We…",
+    "preprint": true,
+    "discovered": "2026-11-24"
+  },
+  {
+    "id": "https://openai.com/index/ifood",
+    "title": "How iFood scales coding agents across 15,000 repositories",
+    "url": "https://openai.com/index/ifood",
+    "source": "OpenAI",
+    "category": "announcements",
+    "published": "2026-11-24T00:00:00+00:00",
+    "summary": "",
+    "preprint": false,
+    "discovered": "2026-11-24"
+  },
+  {
+    "id": "https://openai.com/index/introducing-shirudo",
+    "title": "OpenAI and Cisco introduce Shirudo",
+    "url": "https://openai.com/index/introducing-shirudo",
+    "source": "OpenAI",
+    "category": "announcements",
+    "published": "2026-11-23T21:20:00+00:00",
+    "summary": "OpenAI and Cisco introduce Shirudo, an open-source runtime for Linux. It helps teams protect running systems while they roll out patches.",
+    "preprint": false,
+    "discovered": "2026-11-24"
+  },
+  {
     "id": "https://blog.google/products-and-platforms/products/search/google-search-personal-intelligence-apps",
     "title": "A more tailored Google Search that’s uniquely yours",
     "url": "https://blog.google/products-and-platforms/products/search/google-search-personal-intelligence-apps",
@@ -20,6 +119,28 @@
     "summary": "Using agent teams and formal verification to improve quantum algorithms for fusion and chemistry.",
     "preprint": false,
     "discovered": "2026-11-23"
+  },
+  {
+    "id": "https://openai.com/business/learn/connected-intelligence-for-in-house-legal",
+    "title": "Connected intelligence for in-house legal",
+    "url": "https://openai.com/business/learn/connected-intelligence-for-in-house-legal",
+    "source": "OpenAI",
+    "category": "announcements",
+    "published": "2026-11-23T08:00:00+00:00",
+    "summary": "Watch OpenAI’s Stacey Wang and Craig Bruney, Mary O’Carroll of LECG, and Cooley’s Richard Segal explore how AI can help in-house legal teams connect…",
+    "preprint": false,
+    "discovered": "2026-11-24"
+  },
+  {
+    "id": "https://openai.com/business/customer-stories/richpanel-ai-customer-support",
+    "title": "Richpanel helps companies automate 50% of support in 30 days",
+    "url": "https://openai.com/business/customer-stories/richpanel-ai-customer-support",
+    "source": "OpenAI",
+    "category": "announcements",
+    "published": "2026-11-23T08:00:00+00:00",
+    "summary": "Richpanel uses GPT-6 Astra and GPT-6.1 Sol to equip its AI support agents with tools and procedures, and GPT-6 Luna for their conversations.",
+    "preprint": false,
+    "discovered": "2026-11-24"
   },
   {
     "id": "https://arxiv.org/abs/2611.27915",
@@ -75,6 +196,17 @@
     "summary": "arXiv:2611.27839v1 Announce Type: new Abstract: Multi-agent systems for scientific claim verification increasingly rely on role-structured LLM debate to pressure-test hypotheses. However, when debating agents…",
     "preprint": true,
     "discovered": "2026-11-23"
+  },
+  {
+    "id": "https://www.anthropic.com/research/working-with-ai",
+    "title": "Working with AI",
+    "url": "https://www.anthropic.com/research/working-with-ai",
+    "source": "Anthropic Research",
+    "category": "research",
+    "published": "2026-11-23T00:00:00+00:00",
+    "summary": "We interviewed people at 58 companies that use Claude about how AI is changing their work. They described few layoffs but reduced hiring, and…",
+    "preprint": false,
+    "discovered": "2026-11-24"
   },
   {
     "id": "https://huggingface.co/blog/agentic-evals",
@@ -697,6 +829,20 @@
     "summary": "arXiv:2611.21407v1 Announce Type: new Abstract: A harness turns a model into a system that completes tasks: it builds the prompt, exposes tools and decides…",
     "preprint": true,
     "discovered": "2026-11-17"
+  },
+  {
+    "id": "https://huggingface.co/nvidia/MiMo-V2.6-Flash-RL-NVFP4",
+    "title": "nvidia/MiMo-V2.6-Flash-RL-NVFP4",
+    "url": "https://huggingface.co/nvidia/MiMo-V2.6-Flash-RL-NVFP4",
+    "source": "nvidia",
+    "category": "models",
+    "published": "2026-11-17T02:05:18+00:00",
+    "summary": "",
+    "license": "mit",
+    "task": "image-text-to-text",
+    "gated": false,
+    "weight_files": 70,
+    "discovered": "2026-11-24"
   },
   {
     "id": "https://www.anthropic.com/research/claude-black-hole-physics",
