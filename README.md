@@ -18,45 +18,45 @@ Google AI · 2026-11-24
 
 > Google Gemini partners with Golden State to power fan experiences and business operations for the Warriors, Valkyries, and Chase Center. See the news.
 
+#### [From spectrum to structure: Identifying molecules with Mass Spec Skills for Google Antigravity](<https://deepmind.google/blog/interpreting-mass-spectra-with-google-antigravity>)
+
+Google DeepMind · 2026-11-24
+
+> Mass Spec Skills empowers scientists using Google Antigravity to interpret tandem mass spectra.
+
+#### [GPT-6 models demonstrate intrinsic protein-design capabilities](<https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities>)
+
+OpenAI · 2026-11-24
+
+> GPT-6 models design protein structures and sequences using reasoning and code. Lab tests found evidence of binding across five targets.
+
+#### [Searching for distant planets with Astra](<https://openai.com/index/searching-for-distant-planets-with-astra>)
+
+OpenAI · 2026-11-24
+
+> See how two amateur astronomers used Codex and Astra to find potential exoplanets in public data from NASA’s Kepler and TESS space telescopes.
+
 #### [How iFood scales coding agents across 15,000 repositories](<https://openai.com/index/ifood>)
 
 OpenAI · 2026-11-24
+
+#### [How Intentful uses dots to make more time for growth](<https://openai.com/business/customer-stories/intentful-dots>)
+
+OpenAI · 2026-11-24
+
+> Marina Petrova’s dot Aria helps research websites and build proposals, while proactively flagging messages and resolving issues.
+
+#### [Clay helps sales teams win with Codex and ChatGPT](<https://openai.com/business/customer-stories/clay-plugins-openai>)
+
+OpenAI · 2026-11-24
+
+> ChatGPT and Codex integrations help Clay’s users research deals and turn data into go-to-market plays, with GPT-6 models handling the reasoning.
 
 #### [OpenAI and Cisco introduce Shirudo](<https://openai.com/index/introducing-shirudo>)
 
 OpenAI · 2026-11-23
 
 > OpenAI and Cisco introduce Shirudo, an open-source runtime for Linux. It helps teams protect running systems while they roll out patches.
-
-#### [A more tailored Google Search that’s uniquely yours](<https://blog.google/products-and-platforms/products/search/google-search-personal-intelligence-apps>)
-
-Google AI · 2026-11-23
-
-> Google Search bar with the text "Personal Intelligence" surrounded by the Google Wallet, Google Drive, GMail, Google Photos, Google Calendar, and Google G logo…
-
-#### [Finding faster quantum algorithms with agents and formal verification](<https://deepmind.google/blog/finding-faster-quantum-algorithms-with-agents-and-formal-verification>)
-
-Google DeepMind · 2026-11-23
-
-> Using agent teams and formal verification to improve quantum algorithms for fusion and chemistry.
-
-#### [Connected intelligence for in-house legal](<https://openai.com/business/learn/connected-intelligence-for-in-house-legal>)
-
-OpenAI · 2026-11-23
-
-> Watch OpenAI’s Stacey Wang and Craig Bruney, Mary O’Carroll of LECG, and Cooley’s Richard Segal explore how AI can help in-house legal teams connect…
-
-#### [Richpanel helps companies automate 50% of support in 30 days](<https://openai.com/business/customer-stories/richpanel-ai-customer-support>)
-
-OpenAI · 2026-11-23
-
-> Richpanel uses GPT-6 Astra and GPT-6.1 Sol to equip its AI support agents with tools and procedures, and GPT-6 Luna for their conversations.
-
-#### [Perplexity and Intelligence](<https://openai.com/index/perplexity-and-intelligence>)
-
-OpenAI · 2026-11-22
-
-> How perplexity measures progress in AI models, and why it could help developers establish a shared approach to evaluating emerging capabilities.
 
 ### Models with published weights
 
@@ -126,51 +126,49 @@ Weight files found in the repository. Check its model card and license before us
 
 ### Research & engineering
 
+#### [Delegent: A Multi-Agent Harness That Reduces Cost without Sacrificing Performance](<https://arxiv.org/abs/2611.33098>)
+
+arXiv cs.AI · 2026-11-25 · **Preprint**
+
+> arXiv:2611.33098v1 Announce Type: new Abstract: Agents built on frontier language models are expensive. At every step, the frontier model re-reads its entire context and…
+
+#### [RecordRoute: Auditing Agent Failures with Localization-Guided Diagnosis](<https://arxiv.org/abs/2611.33022>)
+
+arXiv cs.AI · 2026-11-25 · **Preprint**
+
+> arXiv:2611.33022v1 Announce Type: new Abstract: Auditing failed agent executions requires identifying the responsible actor, the earliest decisive step, and the error mode. Representative supervised…
+
+#### [Embodied AI Fails the Mirror Test: How a Simple Mirror Breaks Robot Policies](<https://arxiv.org/abs/2611.33010>)
+
+arXiv cs.AI · 2026-11-25 · **Preprint**
+
+> arXiv:2611.33010v1 Announce Type: cross Abstract: Can a simple mirror expose the limitations of today's robotic manipulation policies? Inspired by the mirror self-recognition test in…
+
+#### [LEGOSpec: A Composable and Efficient Framework for Speculative Draft Design and Training](<https://arxiv.org/abs/2611.33004>)
+
+arXiv cs.AI · 2026-11-25 · **Preprint**
+
+> arXiv:2611.33004v1 Announce Type: cross Abstract: Speculative decoding accelerates large language model (LLM) generation using a lightweight draft. Existing methods evaluate complete recipes under different…
+
+#### [Efficient Video Retrieval Augmented Generation via Token Allocation](<https://arxiv.org/abs/2611.32938>)
+
+arXiv cs.AI · 2026-11-25 · **Preprint**
+
+> arXiv:2611.32938v1 Announce Type: cross Abstract: Efficient long-video understanding requires identifying relevant evidence while minimizing the tokens processed by vision-language models (VLMs). Existing video retrieval-augmented…
+
+#### [Migrating our Messages API to Rust](<https://www.anthropic.com/research/migrating-api-to-rust>)
+
+Anthropic Research · 2026-11-25
+
+> How we used the existing Messages API to verify the new one, with teams of Claude agents tracking down and fixing differences between the…
+
+#### [Hill-climbing Inkling 2 Mini inference on one RTX PRO 6000](<https://huggingface.co/blog/inkling-2-mini-inference-hillclimb>)
+
+Hugging Face · 2026-11-25
+
 #### [Microduck Obstacle Avoidance: A Sim2Real Workflow with Isaac Lab and Newton](<https://huggingface.co/blog/nvidia/microduck-obstacle-avoidance>)
 
 Hugging Face · 2026-11-24
-
-#### [Seeking in Space: Benchmarking Purposeful Active Exploration of Vision-Language Models for Spatial Reasoning](<https://arxiv.org/abs/2611.31215>)
-
-arXiv cs.AI · 2026-11-24 · **Preprint**
-
-> arXiv:2611.31215v1 Announce Type: new Abstract: Humans explore unfamiliar spaces with purpose, deciding where to look until they have gathered the evidence a spatial question…
-
-#### [ToolSmith: An Automatic Tool-Generation Framework for Multimodal Search Agents](<https://arxiv.org/abs/2611.31198>)
-
-arXiv cs.AI · 2026-11-24 · **Preprint**
-
-> arXiv:2611.31198v1 Announce Type: cross Abstract: Recent multimodal search agents use reasoning, vision, and live web search across many turns to answer questions beyond parametric…
-
-#### [CO-GRAFT: Attributing Reinforcement Learning Gains in Search Agents via Role-Level Policy Grafting](<https://arxiv.org/abs/2611.31185>)
-
-arXiv cs.AI · 2026-11-24 · **Preprint**
-
-> arXiv:2611.31185v1 Announce Type: cross Abstract: Reinforcement learning (RL) improves large language model search agents by up to 32 exact-match (EM) points over their pre-RL…
-
-#### [Habitats: A Framework for Open-Ended Evolution of Agent Objectives](<https://arxiv.org/abs/2611.31160>)
-
-arXiv cs.AI · 2026-11-24 · **Preprint**
-
-> arXiv:2611.31160v1 Announce Type: new Abstract: Designing what an agent should optimize can be as difficult as optimizing the agent itself. Existing language-model-based reward-generation methods…
-
-#### [RUIBench: What Makes a Good Robot-Use Interface?](<https://arxiv.org/abs/2611.31115>)
-
-arXiv cs.AI · 2026-11-24 · **Preprint**
-
-> arXiv:2611.31115v1 Announce Type: cross Abstract: Foundation models can reason about complex physical tasks, yet translating this intelligence into reliable robot execution remains challenging. We…
-
-#### [StereoVLM: Binocular Vision-Language Models for Metric 3D Spatial Reasoning](<https://arxiv.org/abs/2611.27915>)
-
-arXiv cs.AI · 2026-11-23 · **Preprint**
-
-> arXiv:2611.27915v1 Announce Type: cross Abstract: Vision-language models (VLMs) exhibit strong semantic understanding but remain limited in their ability to reason about metric 3D space…
-
-#### [The Dual-Tier Sentiment Framework: Scalable Multimodal UX Attribution in Web Search](<https://arxiv.org/abs/2611.27899>)
-
-arXiv cs.AI · 2026-11-23 · **Preprint**
-
-> arXiv:2611.27899v1 Announce Type: new Abstract: Sustaining user experience (UX) quality in large-scale web search requires scalable evaluation. Traditional surveys are slow and bottleneck rapid…
 
 [Browse all daily digests](digests/README.md).
 <!-- radar:end -->
