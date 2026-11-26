@@ -84,6 +84,14 @@ Task: image-text-to-text · License: mit · Access: ungated
 
 Weight files found in the repository. Check its model card and license before use.
 
+#### [nvidia/Nemotron-3.5-Rerank-1B-BF16](<https://huggingface.co/nvidia/Nemotron-3.5-Rerank-1B-BF16>)
+
+nvidia · 2026-11-13
+
+Task: text-ranking · License: openmdw-1.1 · Access: ungated
+
+Weight files found in the repository. Check its model card and license before use.
+
 #### [nvidia/Llama-3.2-1B-Qwen3.8-27B-Draft](<https://huggingface.co/nvidia/Llama-3.2-1B-Qwen3.8-27B-Draft>)
 
 nvidia · 2026-11-11
@@ -116,59 +124,51 @@ Task: image-text-to-text · License: nvidia-open-model-agreement · Access: unga
 
 Weight files found in the repository. Check its model card and license before use.
 
-#### [nvidia/MetricTrail](<https://huggingface.co/nvidia/MetricTrail>)
-
-nvidia · 2026-11-05
-
-Task: not specified · License: nvidia-open-model-license · Access: ungated
-
-Weight files found in the repository. Check its model card and license before use.
-
 ### Research & engineering
+
+#### [Building on Nemotron 3.5 Parse: Open Data, Fine-Tuning, and Faster Inference](<https://huggingface.co/blog/nvidia/building-on-nemotron-35-parse-open-data-fine-tunin>)
+
+Hugging Face · 2026-11-26
+
+#### [Diverse Alternative Reasoning Traces for Hard Math Problems](<https://arxiv.org/abs/2611.34928>)
+
+arXiv cs.AI · 2026-11-26 · **Preprint**
+
+> arXiv:2611.34928v1 Announce Type: cross Abstract: Post-training large language models (LLMs) for mathematical reasoning often relies on accepted traces whose final answers pass a verifier.…
+
+#### [How Much Do Coding Agents Over-Edit, and Why? An Empirical Study of Unneeded Edits in Repository-Level Agent Patches](<https://arxiv.org/abs/2611.34875>)
+
+arXiv cs.AI · 2026-11-26 · **Preprint**
+
+> arXiv:2611.34875v1 Announce Type: cross Abstract: Agent patches are larger than developers', which is widely read as over-editing. But patch size does not say whether…
+
+#### [RePace: Reasoning about Demonstration Speedup for Faster Vision-Language-Action Policies](<https://arxiv.org/abs/2611.34864>)
+
+arXiv cs.AI · 2026-11-26 · **Preprint**
+
+> arXiv:2611.34864v1 Announce Type: cross Abstract: Since vision-language-action (VLA) policies can inherit the slow pace of human demonstrations, accelerating these demonstrations before fine-tuning can lead…
+
+#### [BOP-Refer: Benchmark for Monocular 3D and 2D Object Grounding](<https://arxiv.org/abs/2611.34862>)
+
+arXiv cs.AI · 2026-11-26 · **Preprint**
+
+> arXiv:2611.34862v1 Announce Type: cross Abstract: We introduce BOP-Refer, the first benchmark for monocular 3D and 2D grounding of everyday and industrial objects sourced from…
+
+#### [DRBench Pro: A Knowledge-Centric Benchmark for Professional Deep Research Agents](<https://arxiv.org/abs/2611.34852>)
+
+arXiv cs.AI · 2026-11-26 · **Preprint**
+
+> arXiv:2611.34852v1 Announce Type: cross Abstract: Deep research agents gather information from multiple sources and synthesize it into reports on complex, open-ended questions. Existing benchmarks…
+
+#### [Swarms, Flocks, Gangs: How to build, train, and evaluate multi-agent systems](<https://huggingface.co/blog/training-swarms>)
+
+Hugging Face · 2026-11-26
 
 #### [Delegent: A Multi-Agent Harness That Reduces Cost without Sacrificing Performance](<https://arxiv.org/abs/2611.33098>)
 
 arXiv cs.AI · 2026-11-25 · **Preprint**
 
 > arXiv:2611.33098v1 Announce Type: new Abstract: Agents built on frontier language models are expensive. At every step, the frontier model re-reads its entire context and…
-
-#### [RecordRoute: Auditing Agent Failures with Localization-Guided Diagnosis](<https://arxiv.org/abs/2611.33022>)
-
-arXiv cs.AI · 2026-11-25 · **Preprint**
-
-> arXiv:2611.33022v1 Announce Type: new Abstract: Auditing failed agent executions requires identifying the responsible actor, the earliest decisive step, and the error mode. Representative supervised…
-
-#### [Embodied AI Fails the Mirror Test: How a Simple Mirror Breaks Robot Policies](<https://arxiv.org/abs/2611.33010>)
-
-arXiv cs.AI · 2026-11-25 · **Preprint**
-
-> arXiv:2611.33010v1 Announce Type: cross Abstract: Can a simple mirror expose the limitations of today's robotic manipulation policies? Inspired by the mirror self-recognition test in…
-
-#### [LEGOSpec: A Composable and Efficient Framework for Speculative Draft Design and Training](<https://arxiv.org/abs/2611.33004>)
-
-arXiv cs.AI · 2026-11-25 · **Preprint**
-
-> arXiv:2611.33004v1 Announce Type: cross Abstract: Speculative decoding accelerates large language model (LLM) generation using a lightweight draft. Existing methods evaluate complete recipes under different…
-
-#### [Efficient Video Retrieval Augmented Generation via Token Allocation](<https://arxiv.org/abs/2611.32938>)
-
-arXiv cs.AI · 2026-11-25 · **Preprint**
-
-> arXiv:2611.32938v1 Announce Type: cross Abstract: Efficient long-video understanding requires identifying relevant evidence while minimizing the tokens processed by vision-language models (VLMs). Existing video retrieval-augmented…
-
-#### [Migrating our Messages API to Rust](<https://www.anthropic.com/research/migrating-api-to-rust>)
-
-Anthropic Research · 2026-11-25
-
-> How we used the existing Messages API to verify the new one, with teams of Claude agents tracking down and fixing differences between the…
-
-#### [Hill-climbing Inkling 2 Mini inference on one RTX PRO 6000](<https://huggingface.co/blog/inkling-2-mini-inference-hillclimb>)
-
-Hugging Face · 2026-11-25
-
-#### [Microduck Obstacle Avoidance: A Sim2Real Workflow with Isaac Lab and Newton](<https://huggingface.co/blog/nvidia/microduck-obstacle-avoidance>)
-
-Hugging Face · 2026-11-24
 
 [Browse all daily digests](digests/README.md).
 <!-- radar:end -->
