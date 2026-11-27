@@ -1,5 +1,16 @@
 [
   {
+    "id": "https://huggingface.co/blog/video-trainium3",
+    "title": "Taking Trainium3 to the Track: Generating Videos with LTX-2.5",
+    "url": "https://huggingface.co/blog/video-trainium3",
+    "source": "Hugging Face",
+    "category": "research",
+    "published": "2026-11-27T00:00:00+00:00",
+    "summary": "",
+    "preprint": false,
+    "discovered": "2026-11-27"
+  },
+  {
     "id": "https://huggingface.co/blog/nvidia/building-on-nemotron-35-parse-open-data-fine-tunin",
     "title": "Building on Nemotron 3.5 Parse: Open Data, Fine-Tuning, and Faster Inference",
     "url": "https://huggingface.co/blog/nvidia/building-on-nemotron-35-parse-open-data-fine-tunin",

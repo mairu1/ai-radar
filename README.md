@@ -126,6 +126,10 @@ Weight files found in the repository. Check its model card and license before us
 
 ### Research & engineering
 
+#### [Taking Trainium3 to the Track: Generating Videos with LTX-2.5](<https://huggingface.co/blog/video-trainium3>)
+
+Hugging Face · 2026-11-27
+
 #### [Building on Nemotron 3.5 Parse: Open Data, Fine-Tuning, and Faster Inference](<https://huggingface.co/blog/nvidia/building-on-nemotron-35-parse-open-data-fine-tunin>)
 
 Hugging Face · 2026-11-26
@@ -163,12 +167,6 @@ arXiv cs.AI · 2026-11-26 · **Preprint**
 #### [Swarms, Flocks, Gangs: How to build, train, and evaluate multi-agent systems](<https://huggingface.co/blog/training-swarms>)
 
 Hugging Face · 2026-11-26
-
-#### [Delegent: A Multi-Agent Harness That Reduces Cost without Sacrificing Performance](<https://arxiv.org/abs/2611.33098>)
-
-arXiv cs.AI · 2026-11-25 · **Preprint**
-
-> arXiv:2611.33098v1 Announce Type: new Abstract: Agents built on frontier language models are expensive. At every step, the frontier model re-reads its entire context and…
 
 [Browse all daily digests](digests/README.md).
 <!-- radar:end -->
